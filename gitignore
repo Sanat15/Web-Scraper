@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated/regenerable, not source -- see web_scraper_project_1.md
+# for why raw data stays out of git and goes to Releases instead.
+data/
+*.sqlite3
+progress_manifest_OLD_backup*.sqlite3
+batch_zips/
+_batch_*.csv
+
+# Diagnostic artifacts from debugging sessions
+flip_point_*.html
+check_search_block_output.html
+*.log
