@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scraped output -- zipped and pushed to GitHub Releases instead, not
+# tracked directly in git (see README for why).
+data/
+
+# Manifest / tracking DB -- regenerable, resumable from CSVs anytime.
+*.sqlite3
+
+# Zipped batches created by checkpoint.py before uploading to Releases.
+batch_zips/
+
+# Per-batch sync CSVs from checkpoint.py's milestone push logic.
+_batch_*.csv
+
+# Pilot/test ISBN subsets -- regenerable anytime via make_test_subset.py.
+test_*_isbns.csv
+
+# Diagnostic/debug HTML captures from debugging sessions -- throwaway
+# inspection output, not source (debug_page.html, flip_point_*.html, etc.)
+*.html
