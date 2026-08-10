@@ -1,0 +1,3 @@
+Rating: 4/5
+
+If you like %v_array_gen[0]% and %v_array_gen[1]%, then you will like this book.
