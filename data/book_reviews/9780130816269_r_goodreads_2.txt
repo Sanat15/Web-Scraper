@@ -1,0 +1,53 @@
+Bacteriophages are viruses that have bacteria as their hosts.
+
+1986, forensic scientist. blood typing and fingerprint analysis, bite mark comparisons and hair microscopy.
+
+DNA profiles can now be obtained from saliva left on cigarette butts or postage stamps, pet hairs found at crime scenes, or bloodspots the size of pinheads. Even biological samples that are degraded by fire or time
+
+X-ray diffraction studies have established a regularity in the molecule and a constant diameter of about 30 Å.
+
+Online Mendelian Inheritance in Man (OMIM) database is a catalog of human genes and human genetic disorders that are inherited in a Mendelian manner. The OMIM database is a daily-updated version of the book Mendelian Inheritance in Man, edited by Dr. Victor McKusick
+
+ 1. To begin the search, access the OMIM site at: www.ncbi.nlm.nih.gov/entrez/ query.fcgi?db=OMIM&amp;itool=toolbar. 
+
+2. In the “SEARCH” box, type “sickle-cell anemia” and click on the “Go” button to perform the search.
+
+ 5. Select one or two references at the bottom of the page and follow them to their abstracts in PubMed.
+
+a. Which gene is mutated in individuals with sickle-cell anemia?
+
+For a fee, some companies offer amniocentesis and ultrasound tests for prenatal sex determination. 
+
+ In Western industrial countries, new genetics and reproductive technologies offer parents ways to select their children’s gender prior to implantation of the embryo in the uterus—called preimplantation gender selection (PGS). Following in vitro fertilization, embryos are biopsied and assessed for gender. Only sex- selected embryos are then implanted. PGS may reduce the number of abortions. It is also possible that PGS may increase the happiness of both parents and children, as the children would be more “wanted.” the gender-selection genie is now out of the bottle and is unwilling to return.
+
+masteringgenetics.com
+
+in 1998, the Icelandic Parliament passed a law granting deCODE Genetics, a biotechnology company with headquarters in Iceland, a license to create and operate a database containing detailed information drawn from medical histories of all of Iceland’s 270,000 residents. The records in this Icelandic Health Sector Database (HSD)
+
+The largest is the “UK Biobank” effort launched in Great Britain in 2003. There, a huge database containing the genetic information of 500,000 Britons 
+
+The set of alleles for a given trait carried by an organism is called the genotype. 
+
+Viruses that attack bacteria are called bacteriophages, or phages for short
+
+deciphering the structure of the DNA molecule and the mechanism by which information stored in it is expressed to produce an observable trait, called the phenotype. 
+
+In DNA, there are four different nucleotides. Each DNA nucleotide contains one of four nitrogenous bases, abbreviated A (adenine), G (guanine), T (thymine), or C (cytosine). 
+
+By lowering the energy of activation in reactions, enzymes enable cellular metabolism to proceed at body temperatures, when otherwise those reactions would require intense heat or pressure in order to occur.
+
+45 percent of the U.S. corn crop and 95 percent of the U.S. soybean crop is genetically modified. In addition, more than 60 percent of the canola crop and 85 percent of the cotton crop are grown from genetically modified strains. 
+
+Vitamin A deficiency causes more than 500,000 cases of blindness in children each year. 
+
+This nuclear transfer method makes it possible to produce large numbers of offspring with desirable traits. produced by cloning using an adult with a desirable trait. 
+
+can a transgenic plant or animal be patented? The answer is yes.
+
+every childbearing couple stands an approximately 3 percent risk of having a child with some form of genetic anomaly. 
+
+genetic testing and other technologies, including gene therapy
+
+Arabidopsis thaliana, a small plant with a short life cycle, has become a model organism for the study of many other aspects of plant biology. 
+
+Microbes that have become model organisms for genetic studies include (a) the yeast Saccharomyces cerevisiae and (b) the bacterium Escherichia coli.
