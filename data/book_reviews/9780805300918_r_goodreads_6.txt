@@ -1,0 +1,14 @@
+Rating: 5/5
+
+This is the bible on OOD. Particularly like Booch's definition in terms of the four required and three optional aspects of object oriented systems:
+
+required
+1) modularity
+2) abstraction
+3) encapsulation
+4) hierarchy
+
+optional
+1) typing
+2) concurrency
+3) persistence

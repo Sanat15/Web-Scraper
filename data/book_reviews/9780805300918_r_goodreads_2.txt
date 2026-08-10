@@ -1,0 +1,17 @@
+Rating: 2/5
+
+Influential when it came out, much less relevant nowadays
+
+Rating this book in 2025 is difficult. I'm sure it was an influential book when it first came out, and it provides an interesting historical perspective, but at the same time, I feel it offers little to software engineers of today (especially so given the length of the book).
+
+First, let's observe that the object-oriented (OO) approach for designing and implementing software has been a victim of its popularity - many people think they are using it, but few really understand and practice it. From that observation follows a natural question - could this book help understand the OO approach? To some extent yes, though I'd recommend other alternatives more.
+
+This book speaks about modeling the domain as objects that hide (encapsulate) complexity - so the foundation is right. Another good thing - about 1/4th of the book is dedicated to "Applications" - 5 case studies (each taking ~30 pages!) that each present a problem and then show how it could be solved using OO approach. I enjoyed this part of the book the most, and think it has lasting value, because: 1) I don't think newer books generally have such extensive case studies, and 2) it does make you think - if you had to design it today with modern techniques and technologies being available - would a different design be better and how?
+
+At the same time, I felt that those examples were lacking in their demonstration of handling object persistence and presentation, and implementing those concerns while preserving encapsulation is, I think, one of the hard parts of building OO applications.
+
+So if you are interested in learning more about OO approach, I would probably recommend Object Thinking (for the philosophical aspects of OO) and Domain-Driven Design: Tackling Complexity in the Heart of Software (for a more practical/applied interpretation, though tread carefully here, as DDD may also be suffering from some of this 'victim of its popularity' fate as OO).
+
+As for this book, I would recommend it if you're looking for a historical perspective from the times when UML and processes like RUP were a big thing. For example, while those "old times" are often associated with waterfall-like development, for me it was interesting to see that the need to be both iterative and incremental in designing and building software was also well understood back then.
+
+Also, if you decide to try it yourself, make sure to get the latest (third) edition, as it differs significantly from the second one.

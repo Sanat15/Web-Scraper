@@ -1,0 +1,3 @@
+Rating: 3/5
+
+object oriented programming with lots of details, could be good book for someone who already knows the oop concepts a little

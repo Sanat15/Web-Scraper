@@ -1,0 +1,3 @@
+Rating: 3/5
+
+While Booch and company deserve credit for developing many of these concepts, their writing is overly academic. Gamma's Design Patterns book is a better read. I've owned and read both the first and third editions.

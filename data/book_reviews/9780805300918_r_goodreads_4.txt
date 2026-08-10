@@ -1,0 +1,3 @@
+Rating: 2/5
+
+This book is not about OO design itself as much as about UML.

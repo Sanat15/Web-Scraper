@@ -1,0 +1,3 @@
+Rating: 4/5
+
+The book that taught many of us object oriented design and programming.

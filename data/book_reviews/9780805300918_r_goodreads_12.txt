@@ -1,0 +1,3 @@
+Rating: 5/5
+
+An excellent overview of how to approach (and survive) complicated programming problems. Very much oriented toward project planning and problem analysis; nothing very language specific. A great read for anyone with some programming experience who needs to know how to manage increasingly complex projects. Booch coined the term "Object-Oriented" decades ago, and he (and his coauthors) clearly know something about it.

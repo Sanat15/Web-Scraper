@@ -1,0 +1,1 @@
+New topics covered in the third edition include the Unified Software Development Process, UML, Patterns, Java, and Components.

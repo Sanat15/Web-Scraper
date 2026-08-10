@@ -1,0 +1,3 @@
+The main reason I'm interested in one day reading this is that (from the Smug FP discussion), I hear that this is a sort state-of-the-art in good communication. Something useful for the FP community?
+
+Also couldn't hurt for me to learn a bit more about object oriented programming, gotta know your 4 paradigms and all.

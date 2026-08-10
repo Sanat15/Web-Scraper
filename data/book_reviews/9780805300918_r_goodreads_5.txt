@@ -1,0 +1,9 @@
+Rating: 4/5
+
+I picked up this book because of many recommendations that suggested that it would improve one's OO understanding, etc. Probably that's why I was quite disappointed when I read more than half of it and did not find much for myself. Probably, it would have been a good book in the early years of OO idea, but not now.
+
+I prefer short to the point and pragmatic explanations. The books spends several pages on something that could have been explained in a paragraph. That's why I was going to give it a 3 starts at most.
+
+However, once you finish the 3rd section of the book (application examples), you more or less get a confidence in your own skills of problem decomposition using OO ideas. For that, I guess the book deserves 4-.
+
+PS. My disappointment might have been caused by the hype around the book. If you are planning on reading this book, make sure you don't expect much of it. Especially, if you have programming experience in OOP language.
