@@ -1,0 +1,15 @@
+Rating: 3/5
+
+Information Security Reflections on "Citizen Hughes"
+
+In "Citizen Hughes," the intricate exploration of Howard Hughes' life and the political landscape during the 1960s offers a captivating narrative. As an information security professional, (retired) my perspective on the book deviates from the typical reviews that scrutinize writing style and completeness. Instead, I find myself delving into the realm of information security, questioning the absence of discussions surrounding this critical aspect of Hughes' dealings.
+
+One notable observation is the neglect of information security concepts within the narrative. The book falls short in elucidating the reasons behind this gap, considering that information security has a deep-rooted history spanning thousands of years. The question arises: Were information security practitioners of the 1960s grappling with the rapid changes in the information environment, or was it a deliberate oversight within Hughes' influential circle? Or did they think that what they were doing as far as paper boxes and locked buildings was enough?
+
+In drawing parallels to contemporary challenges, scenes reminiscent of the 1960s persist in today's corporate world. Instances where CEOs resist password memorization or where administrative assistants possess and utilize the CEO's password for authentication and personation echo through time. The book prompts reflection on whether these practices stemmed from an unwillingness to engage the influential figurehead on information security matters.
+
+The allure of substantial financial gains from government defense contracts and clandestine CIA dealings may have overshadowed the importance of information security. The notion that powerful individuals dismissed "nit-picky infosec nerds" from crucial meetings raises questions about the intersection of power, influence, and the neglect of critical security measures. Howard Hughes, like many figures of authority, seemed indifferent to the fate of the information he generated, similar to what ever it was that Nixon exhibited in mis-managing confidential information on audio tapes.
+
+The absence of robust information security practices during this period becomes even more significant when considering historical events such as the Watergate burglary. The book raises the question of whether modern information security practices could have prevented the need for such a breach. Additionally, the Romaine burglars might have encountered formidable barriers if the information they sought had been protected from unauthorized access.
+
+The narrative triggers the imagination, prompting contemplation on the techniques contemporary politicians employ to enrich themselves discreetly in today's surveillance society. As an information security professional, "Citizen Hughes" serves as a thought-provoking exploration into the historical negligence of information security and its repercussions, challenging us to consider the enduring relevance of these issues in the present day.
