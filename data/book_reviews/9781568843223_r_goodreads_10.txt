@@ -1,0 +1,7 @@
+Rating: 4/5
+
+Very comprehensive book about the world of interaction design. Wether your new or an veteran this talks about do's, donts and why of interaction design. 
+
+Furthermore Cooper also talks about how to approach and describe your user (i.e. Personas) and how to define your user's need and wants in order to translate that to your designs.
+
+Last but certainly not least: the design principles. Throughout the book Cooper notes design principles which are very usefull.

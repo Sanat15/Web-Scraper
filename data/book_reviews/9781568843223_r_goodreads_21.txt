@@ -1,0 +1,7 @@
+Rating: 3/5
+
+As has been noted, Alan Cooper is one of the "founding fathers" of interaction design and "About Face: Fundamentals of Interaction Design" is his magnus opus that shaped the nascent field. The ideas in the book significantly influenced the principles and practices of modern interaction design.
+
+It's often the case that the best "textbooks" are almost mysteriously dense - so terse yet so packed with useful information that you are still learning on the third read. I think an opportunity was missed here to create such a work. The entire book could easily be condensed into a 100-200 page monograph focusing more on the main theoretical ideas, with implementation details outsourced to a website that could easily be updated with the rapidly evolving technological landscape. Likely not even a consideration when originally published, but in the decades since much more feasible. 
+
+So while verbose and repetitive in parts, the key ideas introduced here are central to the field of interaction design and it rightly deserves to be considered a classic.

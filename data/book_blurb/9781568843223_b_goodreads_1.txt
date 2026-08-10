@@ -1,0 +1,1 @@
+An excellent book for anyone who wants to understand why so much software is so poorly designed -- and an even better book for anyone who wants to DO something about the problem. Must reading (and doing!) for programmers of any level.

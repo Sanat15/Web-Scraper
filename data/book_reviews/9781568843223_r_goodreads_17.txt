@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Not an easy read but I can't think of any books that go this deep into the details of interface design. Cooper's concept of 'excise' (superfluous interaction) has always stuck with me.

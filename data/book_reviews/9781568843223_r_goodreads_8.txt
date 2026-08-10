@@ -1,0 +1,3 @@
+Rating: 5/5
+
+A foundational read for learning what exactly makes digital products/software "user-friendly" -- not only for designers. Can be dense, but the information is worthwhile; it's interesting to see how this edition has aged, but many of its principles (e.g. direct manipulation, goal-directed design, the power of idioms over metaphors &amp; implementation-based design, etc.) continue to hold true for intuitive software UI design.

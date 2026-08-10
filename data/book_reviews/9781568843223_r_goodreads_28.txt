@@ -1,0 +1,5 @@
+Rating: 3/5
+
+This has some useful high level points in it, but for me it would be better if it was about half the size. A lot of the pages are taken up describing well known idioms, and less with proposing examples of how to do things well.
+
+It is primarily aimed at big budget software, with a large design team (as opposed to the small team that I work in, that has no designers).

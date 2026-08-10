@@ -1,0 +1,3 @@
+Rating: 4/5
+
+This book is pretty much the bible of interaction design. Covers project process, Goal-Directed Design, persona development and everything about windows, dialogs, controls, user feedback. Very comprehensive and well-presented. You can probably get away with reading the first third of it and then using the rest for references as needed for when implementing drag-and-drop interactions etc.

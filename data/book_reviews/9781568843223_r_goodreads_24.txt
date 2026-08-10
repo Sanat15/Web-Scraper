@@ -1,0 +1,4 @@
+Rating: 5/5
+
+I totally agree that this book is too long. The same information would have fitted on far less pages. And it is no easy read also. It took me quite some time to get through it (originally the 2nd edition to be precise). But nevertheless it is an extremely valuable source of information and inspiration concerning user experience design. First of all this is the goal directed design process that is explained in detail. But on top of that are many other interesting topics that are discussed, like implementation model vs. mental model, mapping or excise (what Cooper calls everything that does not help the user reach her goal). 
+For me it’s the most comprehensive book on the topic that I know and I often find myself returning to it.

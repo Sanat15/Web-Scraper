@@ -1,0 +1,9 @@
+Rating: 3/5
+
+This is an opinionated "bible" or "end-all be-all" style of book. It covers everything from the methods that you use in research and design to chapters on the specifics of dialogs and menus vs. toolbars. Full disclosure: I tend to prefer books that focus on a particular topic and are shorter.
+
+Alan Cooper professes his opinions unapologetically, but that's to be expected. If you're not familiar with his opinions, start with The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity. He makes plenty of valid points and I think he's more right than wrong, but if you're looking for a book that weighs pros and cons, look elsewhere. Cooper tells you what he thinks and you can take it or leave it.
+
+First, there's a lot of good information in this book and if you were only allowed to read one book on interaction design, this would be a reasonable choice. But the writing is pretty dense which combines with the length to make a book that's hard to read straight through. It's broken into three distinct parts so it might be better to consider it three books bound together.
+
+And ultimately, that's my real complaint with this book: there's two or three books in here that could have been best-in-class on their own with more editing and refining. All told, this book deserves a place on your bookshelf because it's hard to find a better book on some of its topics. But unfortunately, it left me wishing someone would write those better books.

@@ -1,0 +1,4 @@
+Rating: 4/5
+
+The main thesis of the book, which is that the ultimate success of interaction design is how well it helps users accomplish their goals, is both obviously true but also lacking in many other design books. About Face 3 has several chapters on how to research and identify user goals, explaining the persona model better than most. The rest of the book covers how to create interfaces for those personas, avoiding long lectures on typography in favor of thinking of the design holistically from the perspective of a new, intermediate, or expert user. 
+The book does a good job approaching design from a broad perspective as well as giving helpful advice for small granular details such as the usefulness of a toolbar versus a menu.

@@ -1,0 +1,15 @@
+Rating: 3/5
+
+About Face is widely considered one of the most important books ever written about Interaction Design: the design of software, websites, mobile apps, or any other digitally-mediated experience.
+
+Alan Cooper pioneered key concepts like designing for intermediates, goal-directed design, and personas which have become cornerstones of this burgeoning profession. In these moments of the book, Cooper is nothing short of genius. He literally helped invent a new field, consequently changing how we all use computers. Along with Steve Jobs, the people at Xerox PARC, and a few others, Alan Cooper has had a profound effect on making computers more human and delightful.
+
+So why did I give this book a measly three stars? For a few reasons:
+
+1) It was painfully self-redundant. Easily 200 of its 600 pages were almost word-for-word repeats of content found earlier in the book. With very strict editing, this book could have been spectacular. Instead, it felt sprawling and obnoxiously repetitive, especially in picture captions which were often re-written versions of the text preceding the picture.
+
+2) Cooper dwells on a few topics for way too long, specifically the downside of error messages. After reading this book, you would think that error messages are Adolf Hitler reincarnated. A handful of pages about this topic would have sufficed, but instead there were easily a hundred.
+
+3) The book focused too much on inventing wacky buzzwords. There are easily 200 Cooper-invented terms in About Face describing minor interface elements, some of which were downright ridiculous. After he rambled on about so called "butcons" there was a section about "radio combutcons." The excessive naming was distracting and totally unnecessary.
+
+About Face has the makings of a truly great book, it just needs a strong editor to rip it from Alan Cooper's clutches and whittle it down by a few hundred pages.
