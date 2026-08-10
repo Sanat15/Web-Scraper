@@ -1,0 +1,49 @@
+Rating: 4/5
+
+My notes from How to Retire Rich by James O’Shaughnessy
+
+Glossary:
+Market Capitalization: total dollar value of a company. Current share price multiplied by common shares outstanding. The larger the market capitalization, the less the stock bounces around.
+Price-to-Earnings ratio: price of a stock divided by its annual earnings.
+Price-to-Sales ratio: divide the price of a stock by the sales per year. Another method is to divide companies total market capitalization by its annual sales.
+
+Strategies:
+Reasonable Runaways: (volatile, but beats S&amp;P 500 97% of the time in 10 years, 80% in 5 years)
+1.	Market capitalization must exceed $150 million.
+2.	Price-to-sales ratio must be lower than 1.
+3.	Buy the 25 to 50 stocks from 1 and 2 above that have the best one-year price appreciation.
+4.	Rerun the selection process once/year.
+5.	Probably want to have $10,000 to get it started (because you will want to buy 25-50 stocks).
+
+Leaders with Luster: (less volatile, never lost money over 5 years, always beats cash/bonds over 10 years)
+1.	Market capitalization should be over 1 billion.
+2.	Cash flow should be greater then average.
+3.	Number of common shares outstanding should be greater then average.
+4.	Annual sales should be 50 percent higher then those of the average stock.
+5.	Once a year, buy 25 to 50 with the highest dividend yields.
+6.	Probably want to have $10,000 to get it started (because you will want to buy 25-50 stocks).
+
+Combine those two strategies and it would have beaten the S&amp;P 34 of the last 45 years.
+
+Dog of the Dow: (another good long-term strategy for 10 stocks)
+1.	Start with the 30 blue chip stocks (Dow Jones stocks).
+2.	Rank them by dividend yield, from high to low.
+3.	Every year buy the 10 stocks with the highest dividend yield, replacing any that have fallen off the list.
+4.	www.dogsofthedow.com will give the list updated daily.
+5.	Can start with as little as $2,000.
+
+Utility Strategy: (for those in or close to retirement. Often all stocks are utility stocks, but not always)
+1.	Go to the library and look at the Value Line Investment Survey.
+2.	Choose stocks with a rank of 1 (safest).
+3.	From that list (about 120) choose the 10 stocks with the highest dividend yields.
+
+80% of mutual funds fail to beat the S&amp;P 500.
+Mutual Funds patterned after the above strategies:
+Cornerstone Growth Fund: Reasonable Runaways
+Cornerstone Value Fund: Leaders with Luster
+Dogs of the Market Fund: Dogs of the Dow
+
+Brokerages:
+Lowers priced brokerages are listed at www.investorhome.com or www.wallstreetcity.com 
+Barrons keeps survey results and developments of on-line brokers: www.barrons.com 
+Payment for order flow (a controversial practice whereby brokers pool stock orders into a large block and then give this block to an exchange to trade). Make sure they don’t do this.
