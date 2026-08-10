@@ -1,0 +1,85 @@
+Rating: 4/5
+
+Strong Opinions: a Susan Calvin story
+
+Weems landed his helijet neatly and congratulated himself on his early start. When he managed to get the coveted parking spot closest to the front gate of U.S. Robots, he always felt that the rest of the day would be a success too. He flashed his badge at the security guard and took the fast pediwalk to his office. Now he would get half an hour to work undisturbed! But he had barely hung up his hat before the visiphone buzzed.
+
+"I'm sorry, sir," said his secretary, "but it's a Mr. Plot-Device from Clunky Exposition Weekly. He wants to interview you about your new project. Claims he has a press deadline."
+
+Weems groaned inwardly, but agreed; it didn't make sense to antagonize the powerful magazine. A moment later, the journalist's face filled the screen. 
+
+"So," he said, trying not to be brusque. "How can I help you?"
+
+Plot-Device smiled. "We're wondering what you'd be able to tell us about RVU5. The public is interested."
+
+Weems seethed; the name of the robot was meant to be secret, but evidently someone had talked. He hoped he sounded unconcerned. "It's an experimental reviewing robot," he said. "Undergoing preliminary testing. It's too early to say anything."
+
+The journalist's smile became a fraction broader. "I was just wondering," he said, "if this could have anything to do with SuperiorLiterature. Or with the Backlight craze. Or possibly with both."
+
+Weems could no longer conceal his emotions. The leak was far worse than he had imagined. "I don't have time for that kind of thing," he snapped. "I hear people talk about the Backlight series, but I barely know what it is. Nonsense about vampires, I believe. And I certainly don't waste my evenings reviewing books on SuperiorLiterature."
+
+Plot-Device looked at Weems with an expression of wounded innocence. "I'm sure Cecily would be distressed to hear that," he said. "She quoted your opinions on Backlight in her review yesterday. How did she put it? 'When Dad says all those mean things about Idwid, it just...' "
+
+Weems wondered for a moment if he should hang up, but then laughed ruefully. The man was only doing his job; he had to admire his style. "Okay," he said, "you've got me. I admit it. Some people feel that the Backlight thing has gone too far. We can't have every teenage girl in the country spending her evenings discussing Idwid on the SL review site. It's unhealthy. Adults don't have time to try and move the talk in a different direction. But..."
+
+"But robots do," concluded the journalist. "That's right, isn't it?"
+
+"It is," agreed Weems glumly. "RVU would be able to put out fifteen thousand reviews an hour, and discuss them all simultaneously. We'd soon have the girls talking about Nancy Drew and Louisa M. Alcott again, and no one would even remember Backlight after a year. But we'd appreciate it if you didn't give this too much publicity for the moment."
+
+Plot-Device looked at him earnestly. "Oh, no," he said. "I just wanted to make sure I got the story first. I'll be happy to—"
+
+Weems never found out what the journalist would be happy to do, since at that moment he heard the unmistakable sound of the emergency siren. It seemed to be coming from RVU's testing lab. He instantly blanked the screen and ran towards the source of the noise. As soon as he entered the room, he could see he was too late. The robot slumped lifelessly over a keyboard; half its head had melted away, exposing sections of the ruined positronic brain. Weems clutched his own forehead. How could this have happened? 
+
+There was only one person who would be able to tell him. Mechanically, he found himself dialling Susan Calvin's extension. He was still gazing at the dead robot when she arrived.
+_______________________
+
+"I have examined the robot," said Calvin when they met again two days later, "and I can at least tell you the proximate cause of the event. RVU was faced with a catastrophic First Law violation. He believed, rightly or wrongly, that his actions were putting a human being's life in grave danger. Faced with this possibility, his self-destruct mechanism trigged. You saw the result. Now, what could he have been doing that might have threatened someone's life?"
+
+Weems gaped at her. "I... don't understand!" he whispered. "He was reviewing books! Discussing them with people! What could be more harmless than that?"
+
+Calvin examined him curiously. "Some people have strong opinions about books," she observed in a neutral tone. "There are cases when religious martyrs have gladly met death because of what they have read in a book. I think we need to know who RVU was talking to."
+
+Weems sputtered. "We were in early testing! He only talked to employees of U.S. Robots, and a few members of their families! Everyone was carefully vetted beforehand. I can assure you, no religious fanatics..."
+
+Calvin raised her hand. "I believe you. We clearly need more information. But I'm exhausted; I've been working on this non-stop for the last 48 hours. I recall you once gave me an open invitation to dinner at your home. Do you think I could accept? I suddenly feel a need for something more substantial than another nutri-bar."
+
+Weems felt reassured. Maybe Calvin was human after all? "I'll just call my wife," he said. "She'll be delighted to finally make your acquaintance."
+
+At the dinner table, Mrs. Weems was clearly overawed by her unexpected visitor. "I'm sorry it's only spaghetti and meatballs," she apologized for the second time. "If I'd had an hour's more notice..."
+
+Calvin gave her a warm smile. "I can assure you that these are quite the most delicious meatballs I have ever eaten," she said. "Would you tell me the secret?"
+
+Mrs. Weems unbent a little. "Well, it's actually very simple," she replied. "The important thing is to moisten your fingers a little before you roll them..."
+
+Cecily joined in the conversation. "I bet Aunt Susan knew that!" she said confidently. "She knows everything! She's read all Backlight, even Long Days at High Latitudes! I wish Dad could read them too. It just kills me to hear all those nasty things he says about Idwid!" She noticed her father's expression. "I guess Aunt Susan isn't as busy as you are, Dad," she concluded abruptly. 
+
+Weems had the good grace to blush. 
+
+"Can I show you my new yPAD after dinner?" continued Cecily, prudently switching to a less sensitive topic. "I've got the Model VII..."
+
+"Your Personal Audio Device VII?" said Calvin. "Weighs only a pound and a half, holds the equivalent of 50 long-playing records, and the minaturized nuclear power source means it never needs to be recharged. 'A million songs or your money back'. Correct? Though I'm afraid I only have a Model V."
+
+Cecily beamed. "Aunt Susan, you really do know everything!"
+
+"I would love to see it," said Calvin. "Though first, I must just discuss a couple of work things with your father. It won't take long."
+_______________________
+
+"Weems," said Calvin, as soon as he had closed the door of his den, "I want you to promise me something. You must not tell Cecily that she was responsible for RVU's death. I doubt the fault was all hers, but she is at a sensitive age, and it could seriously traumatize her."
+
+Weems goggled at her. "What in Space are you talking about? How could Cecily..."
+
+Calvin ignored him. "Please think for a moment," she continued. "You're a semantic engineer, or were until you were promoted to senior management. Tell me, what kind of language does a robot find it hardest to understand?"
+
+"The Three Ms!" said Weems automatically. "Metaphor, Mood and..."
+
+"Exactly," said Calvin. "Metaphorical language. It's very hard for a robot to distinguish it from literal usage. Now, when Cecily is referring to opinions that she dislikes, how does she describe the feelings they inspire in her? For example, what does she say about the disparaging remarks you have been known to make concerning Idwid?"
+
+"It just kills..." whispered Weems, as realization dawned on him. "Oh no. It can't..."
+
+"I'm afraid it can," continued Calvin remorselessly. "And, what's more, it did. RVU was programmed to steer teenage girls away from Backlight. That directive was hardwired into his positronic circuits. One, or, more likely, several of these girls tell him that what he's saying is going to kill them. First Law. What are his alternatives?"
+
+"He can only destroy himself," said Weems slowly. "You're right. But, how could you know..."
+
+Words trembled on the tip of Calvin's tongue. Because I stayed up until 4 am checking the call logs, while you went out and got drunk. Because I interviewed a dozen people before I talked to you. Because I can entertain more than one hypothesis at a time. Because I can think logically. Because I am not a fool.
+
+Instead, she smiled. "I'm afraid I had an unfair advantage over you," she replied. "Would you believe it, I used to be a teenage girl myself."
