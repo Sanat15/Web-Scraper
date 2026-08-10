@@ -1,0 +1,1 @@
+Traces the history of the Dow Jones average, looks at how it has developed over the years, and explains how to use the average in planning investment strategies

@@ -1,0 +1,12 @@
+Rating: 3/5
+
+Interesting, but also probably quite outdated at this point.
+
+Key summary points from his trading system:
+
+•	Prime rate indicator: It is the interest rate that banks charge their best customers. Buy signal if the rate is below 8%, has been rising, and has just been cut. Sell signal if the rate is above 8%, has been falling, and has just seen the first hike.
+•	FED indicator: an increase in the discount rate or the reserve requirements is bad news for stock prices.
+•	Installment debt indicator: YoY changes in consumer installment debt. Falling below 9% is a buy signal and going above 9% is a sell signal.
+•	Advance/decline indicator: Ratio of stocks going up in price to stocks going down – over a ten day period. Positive momentum feeds more positive momentum.
+•	4% indicator: When the weekly Value Line Composite Index rises 4%, it’s a buy signal
+•	Investors´ intelligence of Lachmont: They publish a sentiment evaluation. When the ratio of bullish opinions to bearish opinions is &lt;40%, buy signal. Above 75% is a sell signal.
