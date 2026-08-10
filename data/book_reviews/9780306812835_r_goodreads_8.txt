@@ -1,0 +1,9 @@
+Rating: 4/5
+
+Structures is, in terms of classes at the University of Florida, Mechanics of Materials and its lab, as well as Mechanical Design 1 and 2. Anything that is covered in these classes is covered here with a bit less math. Yet, while the textbooks for these classes may be dry and direct, Gordon is willing to make jokes, go on tangents, and explore his opinions. This makes an engineering book- beyond all expectations- a page turner.
+
+More than one of my professors at UF used to be a consultant. When things blew up or went wrong, it was there job to go to court and point fingers after having studied the shit out of whatever blew up. And these stories were always the best stories. Tension? Compression? Fatigue failure? The best examples are non-examples. "Look on this wreckage, ye mighty, and despair-- please don't do this or our college gets a bad rap." Structures has tons of these examples, and as the book goes from the basic principles of factors of safety and critical crack lengths up to arches, we get more and more of them.
+
+The last few chapters are calls to action: Failures in structures are almost always due to lazy designers or lazy manufacturing and these are critical moral failures of Biblical proportions. Parallel to this is failures in aesthetics: an engineer is mostly likely designing something that many people will use. Therefore, it is absolutely critical that what they're designing /is nice/. The Spartan ethic of functionalism is too narrow and close-minded.
+
+Structures is a good book for the young engineer or the layman. It gives a -forgive me- structure to one's thoughts about structures. Because it deals with not just buildings, but vehicles, tools, and living things --like us-- it is important for the construction worker, the mechanic and the doctor.

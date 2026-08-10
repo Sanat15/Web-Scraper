@@ -1,0 +1,79 @@
+Rating: 5/5
+
+What an incredible book! The best layman's introduction to a scientific topic that I've read since Feynman's QED. The author is also hilariously British and doesn't waste an opportunity to rag on the French.
+
+Much of what I write below is copied verbatim from the text, but am too lazy to identify what with appropriate quotes.
+
+These notes constitute about the first 175 pages, I should get around to documenting what I learned in the back half at some point.
+
+basic definitions
+- Streess = s= load / area = MegaNewtons / meter^2
+- Stress measures how hard atoms in a material are being pulled apart or pushed together
+- Strain = e = increase of length / original length
+- Strain is how far atams are being pushed or pulled
+- Strength is the stress needed to break a material
+- Young's modulous of elasticity ('E') = stress/strain
+- Young's modulus aka stiffness
+- Hooke's law says that all solids change their shape - by stretching or contracting - when a mechanical force is applied to it, and it is this change of shape that allows an object to push back
+- Strength is not the same thing as stiffness (e.g. a biscuit is stiff but weak, steel is stiff ad strong, nylon is flexible (not stiff / low E) and strong, raspbery jelly is flexible (not stiff / low E) and weak
+- resiliance is the ability to store train energy and deflect elastically under a load without breaking/causing permanent damage
+- ductile materials are those that, when pulled in tension, have stress-strain curves that depart from Hooke's law, after which the material deforms plastically (think chewing gum 
+- Critical Griffith crack length is the point when a crack goes from being safe and stable to being self-propagating and very dangerous. = 2WE/(pi*s^2) where W=work of fracture in J/m^2, E = Young's modulous in Newtons/m^2, s = average tensile strength in the material near the crack in Newtons/m^2. 
+- work of fracture (aka toughness) is the quantity of energy requried to break a given cross-section of a material
+- emulsions are drops of one liquid floating within antoehr liquid
+- elastomers are materials who can extend to great strain, sometimes 800% (e.g., rubber)
+- Poisson's ratio says that every material has a constant ratio of strain in one direction when a stress is applied creating strain in a perpindicular direction. q=e2/e1 where e1 = strain in the direction of s1 and
+
+cracks
+- material has stress "trajectories" running through it, which get concentrated (jammed up) at cracks or divots
+- If a material has a stress s on it and develops a crack/notch with length/depth L and radius of r, then the stress at the tip is no longer s but instead is s(1+2sqrt(L/r)), which means a round hole will have stress of 3s but a corner, which has a low r and a large L can be much higher. This is why ships often break in two starting at corners in doors
+- Cracks are even worse, because the radius of a crack is tiny making stress at the tip of the crack much higher than the stress elsewhere
+- Sometimes you can concentrate stress by adding material, making a sudden local increase in stiffness (think new patch in old garment or thick plate of armor on the thin side of a warship). Stress trajectories here are diverted justas muchby an area which strains too little as it is by an are which strains too much, like a hole
+
+energy
+- one Joule is roughly the energy with which an apple would hit the floor if it fell from a table
+
+anchient warfare
+- A palintonton or ballista is much more effective than a trebuchet in doing work. trebuchets could only store about 30K joules of potential energy, while ballistas were ~10X that
+- bows are dangerous to release without an arrow because there is nowhere for that energy to go but back into the bow
+
+nature
+- spiders webs have two different kinds of threads. long radial ones that carry the load of the structure and are 3X more stiff than the circumfrential threads, which do the work of catching bugs. These more resiliant threads are known as tension members
+
+fracture energy
+- Work of fracture is not the same as tensile strength, which is the stress (not the energy) needed to break a solid
+- most structural solids (glass,pottery, cement,brick,stone) which we use in technology only require 1 Joule per square metre to break all the chemical bonds on any plane or cross section. these are known as brittle solids.
+- we do not use brittle solids in applications where they are in tension for this reason. They don't have low tensile strengths (i.e. they need a low force to break them) but because they need only a low energy to break them. 
+- tough materials can have the same strength as a brittle material, but they are able to deflect stress much deeper into their material, increasing dramatically the work required to fracture the material. in other words, with tough materials, molecules living deep within the material absorb some of the sstress
+- The energy needed to grow a crack comes from the release of strain energy in material that is separated by the crack. The release of strain energy tends to be over an area that is two triangles with one side the depth of the crack and the other side the exposed surface of the material. The area of released strain is the square of the depth of the crack, which means if a crack is length L then the strain energy release grows as L^2. Therefore, as a crack length grows from 0, the beginning of its life requires net consumption of energy (more energy put into it than released), but after a while the crack reaches a length where it net releases more energy than it absorbs. This length is called "critical Griffith crack length". 
+- The local stress at a crack's tip can be very high - much higher than the official tensile strength of the material. The structure will still be safe and not break so long as no crack or other opening is longer than the critical Griffith length.
+- The length of a safe crack depends upon the ratio of the value of the work of fracture to that of the strain energy stored in th material, or inversely proportional to its resilience.
+- Rubber will store a lot of strain energy but its work of fracture is low so the critical crack length is very short, which explains why baloons pop the way they do, in a brittle matter.
+- One way to be resilient and tough is to be like cloth or backet work and wooden ships and horse-drawn vehicles. In these things the joints are more or less loose and flexibile and so energy is absorbed in friction
+- In a really large structure like a ship or a bridge, we want to be able to put up with a crack at least 1-2 meters long with safety.
+- the failure of a structure may be controlled, not by the strength, but by the brittleness of the material
+- the toughness of most metals is reduced as the tensile strength increases. You can cheaply double the strength of mild steel by increasing the carbon content, but you would reduce the work of fracture by a factor of ~15. So if you double the working stress of a streucture this way, the critical crack length will be reduced by a factor of 15x2^2=60 (x2^2 is the two triangles on each side fo the crack). This means if the safe crack was originally 1 meter long, it will now measure 1.5cm
+- But if you have a small object (like a bolt) you are ok with crack lengths that are very small, so we can use high strength metals and high working stresses more safely in small structures than in large ones. The larger the structure the lower the stress wch may have to be accepted in the interests of safety.
+
+pressure vessels
+- the pressure inside a spherical vessel is rp/2t where r= the radius of the vessel, p = pressure, and 2 = the shell wall thickness
+- for a cylinder, the stress along the shell (i.e., longitudinally) is the same as that in a spherical vessel rp/2t
+- teh circumferential stress in the shell of a cylinder is rp/t, meaning it is 2x the longitudinal stress, which explains why sausage skins split longitudinally when they are cooked because the skin can't handle the circumfrential stress
+- this has effect in sailing, where chinese junk sails are rigged so that as wind pressure increasesthe radius of curvature diminishes and the tension force in the canvas remains roughly constant no matter how hard the winds may blow
+- the only sort of elasticity which is stable under fluid pressures at high strains follow an exponential stress~strain curve (our veins and arteries operat under ~50% strain, and wouldn't work if they were under rubber-like straess-strain curves). This curve means you don't need much stress at first for any strain, but after a while the slope increases dramatically
+- the heart works in that during the pumping (systolic) part of the cardiac cycle, much of the excess of high -pressure blood is accomodated by the elastic expansion of the aorta and of the larger arteries; this has the effect of smoothing the fluctuations of our blood pressure.
+- the elasticity of the arteries therefore does the same job as the air-bottle affair which enegineers often attach to mechanical reciprocating pumps
+- this is why, if artery walls stiff and harden with age, the blood-pressure is likely to rise
+
+joints &amp; fastenings
+- a lapped joint creates stress concentrations at the two ends of the joint, which is why the strength of such joints depends mostly on their width and not the length of overlap between the two parts. This makes simple rivets very effective
+- for rods screwed into an anchorage, nearly all of the laod is taken out by the first 2 or 3 threads near the surface, making any extra length of rod within the socket ineffective
+- this is true when two components of the joint have simialr Young's moduli or when the rod/tension bar is less still than the material of its socket/anchorage. But if the rod or bar is substantially stiffer than the material into which one is trying to anchor it, the stress situation is often reversed and the concentration may exist mainly ata the bottom or inner end of the rod.
+- riveted joints are heavier than welded joints, but they are also easier to inspect, and often act as crack-stoppers. Most importantly, riveted joints can slip a little and so redistribute the load
+- rivet holes normally are punched then reamed. The reaming at the end makes the hole stronger and with fewer cracks that were made during the punch
+- in theory a welded joint should be watertight, but seldom is. In practice, rivets are cheaply caulked, but that can't be donee with a welded joint, so instead a liquid sealing compound is injected under pressure into the weld.
+
+surface tension
+- tension in a liquid surface differs from Hookean tension in three aspects: 1. the tension force does not depend on the strain/extension but is constant however far the surface is stretched, 2. unlike a solid, the usrface of a liquid can be extended without breaking, 3. the tension force does not depend on the cross-sectional area but only upon the width of teh surface. The surface tension is just the same in a deep or "thick" liquid as it is in a shallow or "thin" one.
+- so if two droplets join up to make one droplet of twice the volume, there is a net reduction in the surface area of the liquid and therefore the surface energy. So there is an energy incentive for drops in an emulsion to coalesce and for the system to segregate into to continuous liquids.
+- if you want the droplets to remain separate and not coalesce, then you have to "stabilize the emulsion" so they repel each other. This can be done with electricity, which is why emulsions are affected by electrolytes like acids and alkalis

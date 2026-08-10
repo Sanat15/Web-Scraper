@@ -1,0 +1,9 @@
+Rating: 3/5
+
+"It is energetically advantageous for a weight to fall to the ground, for strain energy to be released -and so on. Sooner or later the weight will fall to the ground and the strain energy will be released; but it is the business of a structure to delay such events for a season, for a lifetime or for thousands of years. All structures will be broken or destroyed in the end -just as all people will die in the end. It is the purpose of medicine and engineering to postpone these occurrences for a decent interval."
+
+It's a nice read if you're interested in getting a basic grasp on mechanics. With a background in mechanical engineering, I did enjoy the historical anecdotes and the occasional practical note. However, the author spends so much time elaborating on basic concepts like tension, stress and strain that I'm not sure that I'd recommend it to anyone who has followed at least a basic course in mechanics. His switching between serious explanations and silly jokes doesn't feel well-balanced either - I, for one, am not interested in the Poisson's ratio of the author's tummy. 
+
+Moreover, for a book about structures, this book is structured very poorly. There's no conclusion and each section of every chapter is a completely different subject without clear coherence or story. 
+
+If you have zero prior knowledge of mechanics, his detailed explanations, mixed with humour and history, might be just the right accessible starting point. To anyone else, I would not recommend it.
