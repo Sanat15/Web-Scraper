@@ -1,0 +1,7 @@
+Rating: 5/5
+
+The original book is one of the foundational books for modernity, expounding both mechanics and the calculus while explaining astronomy. (The little digression at the end into theology can be ignored.)
+One can imagine an e-edition of this book where, as one reads the description of the ratio of this or that, the relevant lines on the diagram were highlighted. Even better, when areas are described by line segments belonging to the same line, the e-edition could add a side diagram with links to the original diagram.
+That lacking, a print edition could make sure the diagrams are always available without flipping pages--not true for this one, and make sure the labels are always clear and mutually distinguishable.
+Any edition would be improved with some supplemental materials. It is perhaps reasonable to expect familiarity with Euclid's rules of triangles, but a glossary entry for items like the 'latus rectum' of a conic section would be most helpful.
+It would also be nice to explain verbal terms like 'sub-duplicate ratio' that moderns bury in algebraic notation. The help could be in an introduction, in a footnote upon first use or in a glossary. Their pretty clear from context, so this isn't a necessity.

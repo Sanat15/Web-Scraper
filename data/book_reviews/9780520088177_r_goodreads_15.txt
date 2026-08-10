@@ -1,0 +1,36 @@
+Rating: 3/5
+
+The Principia (1687) was Isaac Newton's grand synthesis of (1) Copernicus' heliocentric theory, (2) Kepler's three planetary laws, (3) Galilei's study's of motion and forces and (4) Netwon's own mathematical analysis. It was more than this though; it was the first philosophical system of the world since Aristotle's philosophy (which had been used by christian theologians since the 12th century as the system of the world).
+
+Newton writes this book in the style of Euclidean geometry: starting with axioms and then deducing, step by step, new truths. This, in combination with the complexity and Newton's notation of the mathematics used, makes the Principia almost impossible to read for modern day readers. Not that it was easier for contemporaries - it was only in the 18th century that this raw material was digested enough for third parties to write more accessible accounts of the new mechanics.
+
+In essence, Newtons explains the motion of all the matter in the universe; he does this with three laws of motion and the (infamous) universal law of gravitation.
+
+Netwon's three laws of motion:
+1. All bodies remain at rest or move in uniform, rectilinear motion, unless acted upon by a net force.
+2. The net force acting upon a body is proportional to the product of its mass and acceleration.
+3. When a body is acted upon by another body, the net force of the one body on the second body is reciprocal to the net force of the second body on the one body (i.e. action = reaction).
+
+Newton's law of universal gravitation:
+1. The gravitational force between two bodies is proportionate to the product of both masses and inversely proportional to the square of the distance between the centres of both bodies.
+
+With these four propositions in his hands, Newton is able to explain why apples fall from trees, why planets move in their orbits, why the oceans on Earth have tides and why comets have the strange orbits they have (and why they return after some amount of time). The universality, consistency and totality of this system was amazing; I think we moderns cannot truly understand the shift in thinking this has brought about.
+
+I think it is good to mention that Newton clearly describes the assumptions (or axioms) that underlie his system. These axioms have become the cornerstones of modern day science:
+
+1. No more causes of natural things should be admitted than are both true and sufficient to explain their phenomena.
+2. Therefore, the causes assigned to natural effects of the same kind must be, so far as possible, the same.
+3. Those qualities of bodies that cannot be intended and remitted [that is, qualities that cannot be increased or diminished] and that belong to all bodies on which experiments can be made should be taken as qualities of all bodies universally.
+4. In experimental philosophy, propositions gathered from phenomena by induction should be considered exactly or very nearly true notwithstanding any contrary hypotheses, until yet other phenomena make such propositions either more exact or liable to exceptions.
+
+In other words, we should give up Aristotle's vain attempt to discover truth by applying axiomatic-deductive systems - gone is the philosopher who can get to know Nature from his armchair. What we should do, according to Newton (and he bases this on his ancestors Bacon and Galilei) is make observations, use the method of induction to discover explanations and by synthesizing these explanations into complete theories, assume that all similar effects have similar causes, throughout the whole universe and all of time. This is (almost exactly) the modern method of doing science. 
+
+There are three important remarks to make on Newton's mechanics, as outlined in his principia. 
+
+The first is that with Newton, the notions of absolute, infinite time and space become necessary. This is because, if everything attracts everything else in a circumscribed universe, the universe would collapse in on itself. Infinite space leaves open the possiblity that every piece of matter is counterbalanced by (infinite) other pieces; therefore no 'Big Crunch'. Infinite time, also means no possiblity of a definite event of Creation; it is not strange that many theologians weren't happy with Newton's system - their conception of the Universe would demand a beginning of time when God created the world, as mentioned in Genesis.
+
+The second remark is that Newton says in his Principia "hypotheses non fingo" - I don't feign hypotheses. He posits gravity as a force to explain the planetary orbits and the movements of matter on Earth. He doesn't know the mechanism by which gravity works or 'what gravity is', but that's not necessary for his theory. (This, by the way, is one of the reasons why later physicists would postulate ethers, because if gravity works instantaneously between two bodies, what is the medium through which it works?). This not using 'occult qualities' to explain natural phenomena, in effect, cuts religion from science - this would become as ground breaking as Newton's mechanics itself.
+
+The third remark is that Newton's switch from deduction to induction would bring back the problem of induction into science, as already mentioned by Sextus Empiricus in the second/third century AD. If you use particular events (e.g. planetary orbits) to discover, by means of induction, universal truths (e.g. law of gravity), you will encounter a problem: there's no way to garantuee that the next observation will not falsify your theory. To prove your theory, you need to have access to all observations - past, present and future - and this is simply not possible. So absolutely proving inductive reasoning is impossible; this leaves room for doubt - therefore skepticism about scientific theories. It is a problem that has never been solved satisfactorily (Popper got close, but failed in the end; while Bayesian probability theory is just a logical rule - trash in leads to trash out).
+
+Safe to say, this is a book that has been influential for centuries; in science, philosophy, religion, culture, literature, and what else. Newton's mechanics are still used by astronomers who work in the range of everyday motions and masses (anything approaching the enormous needs general relativity and anything approaching the sub-atomic world needs quantum mechanics). But this book is un-readable for contemporary people, it is too complex and too obscure for that. One can read the first part of the work to get a good insight, but additional information (i.e. interpretation) on the Principia is necessary.

@@ -1,0 +1,3 @@
+Rating: 5/5
+
+I learned that there are some problems which simply cannot be solved with a particular framework; that Bezier curves are a fantastic introduction to the philosophical principles of the calculus; that I can, in fact, do math.
