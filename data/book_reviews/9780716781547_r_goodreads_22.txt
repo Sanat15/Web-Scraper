@@ -1,0 +1,7 @@
+Rating: 5/5
+
+A must read for anyone interested in computers. This excellent book contains 66 short essays on the most important and interesting computing topics, such as compression, Turing machines, recursion, formal grammars, non-computable functions, neural networks and algorithms. The writing style of this book is casual and it contains almost no math.
+
+I've placed this book as my #1 all time favorite book of all time in my top 100 programming books list at www.catonmat.net/blog/top-100-books-p....
+
+I read this book cover to cover in one evening. I enjoyed one of the chapters about the Busy Beaver Problem so much that I spent a few days implementing Busy Beaver in several languages and wrote a program that visualizes how the Beaver travels on the tape.

@@ -1,0 +1,9 @@
+Rating: 2/5
+
+First chapter: very simple introduction to algorithms by way of a recipe for enchiladas
+
+Second chapter: finite automata, languages, and regular expressions, all introduced within 5 pages. I tried to keep up, but no matter how many times I re-read the chapter or looked up all the terms online, I couldn't wrap my head around what Dewdney was trying to say about languages. This really deserved more time, if this was truly written for a beginner.
+
+Third chapter: systems of boolean logic. I have plenty of experience with boolean logic and logic gates, so I got through to the "complete bases diagram" before stopping in my tracks. I ended up grasping the whole chapter and completing the exercises thanks to my prior experience. But that's as far as I could get in the book.
+
+From what I hear, it's an excellent review of CS topics, but it's not a suitable introduction to these topics due to the very small coverage given to each. I'm fairly literate in basic theoretical computing concepts, but for something to be billed as an introductory work, it needs to offer much more guidance. It's not clear what level of experience one should have before attempting to work through this book.

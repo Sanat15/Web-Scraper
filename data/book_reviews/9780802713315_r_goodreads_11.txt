@@ -1,0 +1,77 @@
+Rating: 5/5
+
+Strap in, guys. I’m going to walk you through the history of how Fermat’s Last Theorum was proved, all in one little (okay, big) review. And I can do this because of this awesome, semi-accessible, frequently tangent-taking, but mostly, this deeply fascinating book.
+
+----------STEP ONE: THE THEORUM----------
+
+For the unenlightened, Fermat’s Last Theorum is this: you probably know the Pythagorean theorum, a² + b² = c², which explains that if you square the shorter two sides of a right-angled triangle and add them together, you get the value of third side squared. This is easily proved (that is, demonstrated to be completely, utterly, logically true via a mathematical proof, using axioms known to be true, which is just like a logic proof if you’ve done philosophy. Or a geometry proof, if you went to 9th grade). Take any triangle, and this will be true. There are infinite solutions to this equation—literally infinite values of A, B, and C which will render this solution true. 
+
+However, Fermat discovered that the formula an + bn = cn where n &gt; 2 has NO whole number solutions. (Go ahead, give it a whirl. I’ll wait).
+
+Then he challenged the mathematical community to create a mathematical proof demonstrating this must be true. While tantalizing them with the knowledge he’d already created a proof for this with a scribbled note in the margin of his notebook: “I have a truly marvelous demonstration of this proposition which this margin is too narrow to contain.” 
+
+Asshole. 
+
+So sparked centuries of people trying to write this proof, to no avail. Until Professor Andrew Wiles (who has the most apropos name ever—he has wiles indeed) of Cambridge, in 1993.
+
+***
+
+For clarity, this is Fermat’s Equation (which I’ll refer to as FE): an + bn = cn where n &gt; 2
+
+And THIS is Fermat’s Last Theorum (which I’ll refer to as FLT): “There are no solutions to Fermat’s Equation”
+
+***
+
+----------TANGENT: GODEL----------
+
+At this point, it’s been assumed that math is logically perfect—that if you correctly build a proof using axioms (like m + n = n + m), it must be true (and if it’s proven to be true, nothing can prove it to be false). This is known as “axiomatic set theory.” 
+
+Along came Godel (who is analyzed to death by my beloved, Doug Hofstadter- see here and here). His ideas are as follows: 
+
+1. If axiomatic set theory is consistent, then there have to be theorems that can’t be proved or disproved. Why? Because of paradoxes. Godel translated the following statement into mathematical notation: “This statement has no proof.” If that’s false, then you COULD create a proof for that statement—however, that would make the statement false, so how could you have a proof for that? So it has to be true. But if it’s true, it can’t be proved because that’s what it literally says. It’s a mathematical statement that is true, but could never be proved to be true (an “undecidable statement”). 
+
+2. There’s no way to prove that axiomatic set theory is consistent; in a way, it’s one of those “undecidable statement” that’s true but can’t be proved to be true. 
+
+Interestingly, this parallels the physicist Heisenberg’s discovery of the uncertainty principle, but we won’t get into that. 
+
+Now, there aren’t very many of those undecidable statements. Godel couldn’t really point to any other undecidable statements besides the one above, so people assumed they were found only in the most extreme math and would probably never even be encountered. 
+
+Welp. A young student named Paul Cohen at Stanford discovered a way to test whether a question is undecidable, and in doing so, discovered several more.
+
+Which sparked some fear in mathematicians. What if Fermat’s Last Theorum was undecidable?! What if they were wasting their time trying to prove the unprovable?
+
+Interestingly, if it were an undecidable statement, it couldn’t be proved—yet it would have to be true. The theorum says “there are no whole numbers to the equation an + bn = cn where n &gt; 2.” If this were false, then it would be possible to prove this by offering a solution to this—by finding a whole number N that’s greater than 2 that allows the equation to be solved. Which would make it a decidable statement, which is a contradiction. So it can’t be false and also be an undecidable statement. In other words, Fermat’s Last Theorum might be totally true but there might be no way to prove it. 
+
+----------STEP TWO: TANIYAMA-SHIMURA CONJECTURE----------
+
+Modular forms are a mathematical tool, sort of like impossible forms or shapes, that reveal a lot about how numbers are related. 
+
+The Taniyama-Shimura Conjecture (TSC), created by two Japanese mathematicians (one of whom tragically and abruptly killed himself quite young) says every modular form is related to a specific elliptic equation (elliptic equations were Andrew Wiles’s main area of study; they’re a type of equation, not super important that you understand them). 
+
+The fact that these were unified meant there’s a kind of Rosetta stone that’s been discovered: “Simple intuitions in the modular world translate into deep truths in the elliptic world, and vice versa. Very profound problems in the elliptic world can get solved sometimes by translating them using this Rosetta stone into the modular world, and discovering that we have the insights and tools in the modular world to treat the translated problem. Back in the elliptic world we would have been at a loss.”
+
+Beyond that awesomeness, the TSC suggests something even more interesting: that possibly all of mathematics, all the different worlds of mathematics, might have parallels in other worlds, as with the elliptic world and the modular world. All of mathematics might be unified—arguably the absolute ultimate goal of abstract mathematics, because this would give us the most complete picture, and the biggest arsenal of tools to solve mathematical problems. 
+
+----------STEP THREE: RIBET’S THEORUM----------
+
+This is all important for FLT because of something called Ribet’s Theorum (Ribet was a colleague of Wiles). Ribet’s Theorum goes like this: the imagined solution to FE can be translated into an elliptic equation. And that elliptic equation doesn’t seem to have a modular world equivalent. But the TSC claims that every elliptic equation must be related to a modular form. 
+
+So if you can PROVE that the elliptic form of the solution to FE has no modular form (which we can! The proof was done in 1986), the following is true: if the TSC is true (i.e. all elliptic equations have modular forms), and the elliptic form of the imagined solution to FE has no modular form, then the imagined solution cannot exist, proving FLT. 
+
+So now, all we have to do is prove that the TSC is true, and FLT is automatically proven to be true. 
+
+And this—THIS—is what Andrew Wiles focused on. Proving the TSC (Taniyama-Shimura Conjecture).
+
+----------STEP FOUR: PROVING THE THEORUM----------
+
+Wiles finally succeeded when he applied a new method called the Kolyvagin-Flach method, which groups elliptic equations into families and then proves that an elliptic equation in that family has a modular form; if that elliptic equation has a modular form, then all other elliptic equations in that family also has a modular form. 
+
+However, the Kolyvagin-Flach method has to be adapted for each family of elliptic equations. Wiles successfully adapted the method for all families of elliptic equations, thereby proving that all elliptic equations have modular forms (which, as a reminder, is basis of the Taniyama-Shimura Conjecture, and proving the TSC proves FLT). 
+
+Two months before I was born, in 1993, he proved FLT in a series of 3 lectures. 
+
+Kinda. Actually, there was a minor flaw in his proof (essentially, he might have failed to properly adapt the Kolyvagin-Flach method for some of the families of equations) but it doesn’t really matter because a year later, Wiles published a work-around to that flaw, so he proved FLT once and for all. 
+
+----------CONCLUSION----------
+
+All I can think about is: maybe if math looked like this, if THIS had been our material in high school—maybe then I wouldn’t have disliked it. Maybe other people wouldn’t, either. What a shoddy job we do teaching our children the wonder of learning.

@@ -1,0 +1,9 @@
+Rating: 5/5
+
+This book is endowed with all elements of a perfect story, which are curiosity, surprising events, tragedy, ambition, alternating defeat / triumph and finally an astonishing success. 
+The “Fermat’s enigma” is a tremendously inspiring narrative of one of the most important and most difficult conundrums of mathematics. It was devised by the reverend Pierre de Fermat who was called “The prince of amateurs” because he had neither had any formal education in mathematics nor he had any known tutor. He learned maths by some copies of ancient books written by Euclid’s disciple named Diophantus. 
+When mathematicians scrutinized margins of his books they saw a short note which baffled the brightest minds for more than 350 years. Fermat claimed a groundbreaking conjecture in the margin of Diophantus book without any proof, but the line next to the proof made the case much worse for other mathematicians. he wrote beside the conjecture:
+“I have a truly marvelous demonstration of this proposition which this margin is too narrow to contain” .This showed the fact that the formula had indeed a proof but it was lost. If you want to know what that theory is you can search on google because it can’t be properly explained in this review.
+Since the last 350 years the formula had been attacked by the most eminent mathematicians including Leonhard Euler but none of them could prove it thoroughly.
+After so many years of fruitless endeavor Andrew wiles managed to prove it. For Andrew the Fermat’s last theorem was personally and emotionally significant because he had been in love with the theorem since he first encountered it when he was just ten years old. After thirty years he used so many new mathematical techniques and finally he put more than 8 years on proving this conjecture in order to firmly prove it and finally he did.
+This book is only recommended for those who appreciate the true value of mathematics.

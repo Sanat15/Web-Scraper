@@ -1,0 +1,21 @@
+Rating: 3/5
+
+I was pleasantly surprised by this late 90's investment book written at the peak of a tech bubble. It is better than just buy growth mantra, and there is an actual investing framework with a focus on B2B tech businesses. Though there is zero focus on valuation, the authors are not too far removed from the quality at any price school of investors who seem to be ever-present in the contemporary investment circles. I also enjoyed reading through the case studies and getting a history lesson on a subset of 1980-90's tech. 
+
+At the core of their framework is the GAP/CAP focus -- GAP (Competitive Advantage Gap), the more quantitative, represents the company's potential to generate superior earnings based on making a superior offering and CAP (Competitive Advantage Period), the more qualitative, represents the sustainability of the competitive advantage of any given company. 
+
+The authors present case studies and discuss the timing of investments, and when to fold, and when to press... In the case of public markets, their advice is to invest into tech companies after they crossed the adoption chasm. For application software, suggestion is to then focus on investing when early pragmatic customers adopt ("bowling alley"), and in case of enabling technology (such as databases or networking hardware) to do so slightly later when the S curve is on a steep incline ("tornado"). With application software, their advice is to hold a group of companies and ride the wave until growth decelerates with no long term commitments, whereas in the case of enabling technologies to start by investing in a group and then consolidate around one "gorilla" and basically hold that gorilla indefinitely, until a proven substitution threat emerges in earnest. 
+
+I think a lot of opportunity to do this kind of investing at early parts of an S-curve has receded into the vc and growth p/e world, since rarely do we observe publicly traded companies grow revenues 100%+ y-o-y. However, thoughts around what makes gorilla win and why some markets may not have the gorilla but rather a "royalty game" structure (with lower upside opportunity for one winner) seem relevant to this day. The authors defined the gorilla company as one that relies on proprietary architectural control with high switching costs. Whereas the royalty game is more about best execution. We now know there is more to tech than those set-ups, but authors were informed by tech of their time and also needed to keep the book focused.
+
+Some of their observations ring true to this day and are worth highlighting:
+- "Investing is all about understanding the competitive advantage. That is the underlying thesis of the gorilla game." 
+- "The impact of better execution on stock price, assuming no change to the Competitive Advantage Period, is inherently modest."
+- "Most news has nothing to do with the gorilla game. Learn to ignore it."
+
+PS
+One way to judge the effectiveness of this book is by where its authors have ended up 20+ years later.
+1) Geoffrey Moore is alive and well, still publishing, consulting, and even making podcast appearances.
+2) Paul Johnson -- got into some hot water with the SEC, but seems to have landed on his feet ok. https://www.nytimes.com/2006/07/26/te... https://cfany.org/speaker-organizer/p...
+3) Tom Kippola -- seems to be in a low key VC game.
+https://svdcapital.com/team/tom-kippola/

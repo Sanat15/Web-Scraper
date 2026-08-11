@@ -1,0 +1,19 @@
+Rating: 5/5
+
+Simon Singh has the ability to present a story about a mathematics problem, and tell it like a detective story. He makes the subject exciting, even though the outcome is well known. Singh intersperses history with discussions about the mathematics, and makes it quite understandable. 
+
+Singh starts with the roots of the famous Fermat's Last Theorem, by recounting the stories and mathematics of Pythagoras, Euclid, and Euler. Other, less well-known mathematicians are also given credit, for example Sophie Germain, Daniel Bernoulli, Augustin Cauchy, and Evariste Galois. 
+
+Three hundred fifty years ago, Fermat wrote the following theorem in the margin of a mathematics book:  And, Fermat wrote that he had a marvelous proof, but no room in the margin for it. For centuries, mathematicians have attempted to prove the theorem, without success. It had been sort of a "holy grail" of mathematicians to prove the theorem, and many brilliant minds spent years on it. Perhaps in was unprovable, and worst of all, Kurt Godel showed that some theorems are actually undecidable--that is to say, it is impossible even to decide whether or not a theorem is true.
+
+Singh recounts a fascinating story of the gifted mathematician, Paul Wolfskehl. He was very depressed, and decided to commit suicide on a particular night, at midnight. While waiting for that time to arrive, he started to read about the failed attempts to prove Fermat's Last Theorem. He became so engrossed in the subject, that he worked well past midnight. He found a gap in the logic of a predecessor, and was so proud of himself that he gained a new desire for life. And, in his will he established a fund of 100,000 marks to be given to the mathematician who first completes the proof of the theorem!
+
+Much of the book describes how Andrew Wiles developed a growing interest in the theorem. He worked in almost total isolation for seven years, in order not to be distracted. He occasionally published little tidbits unrelated to his real endeavor, in order to dispel suspicions about what his real work entailed.
+
+The central piece of the proof entailed proving the Taniyama-Shimura conjecture, that linked modular forms with elliptic equations. This was a linkage between two far-flung branches of mathematics that seemed to be totally unrelated. To prove the conjecture would allow incredible advances to be made. And then, Ken Ribet showed that a proof of the Taniyama-Shimura conjecture would, in effect, be a direct proof of Fermat's Last Theorem. But many people tried and failed to develop the proof. But that is exactly what Andrew Wiles worked on for so many years.
+
+I had previously read that during Andrew Wiles' famous lecture, he just casually let the unsuspecting audience know, "and that is a proof of Fermat's Last Theorem." Well, this book tells a somewhat different story. Most of the audience had heard rumors that the third of Wiles' lectures would be of historical significance. They came prepared with cameras, and took photographs during the lecture. So, it was a surprise, but not a total surprise.
+
+After Wiles' manuscript of the proof was sent to a publisher, six mathematicians reviewed it, and a crucial gap was found in it. Wiles worked furiously for a nightmarish year, and with the help of Richard Taylor, finally closed the gap. Today, Wiles is recognized as the one who developed the proof. But it is clear, that Wiles "stood on the shoulders of giants"; he used--and developed--mathematical techniques that had not existed just a few decades previously.
+
+Simon Singh writes with a wonderful style. It is clear, not too jargon-heavy but contains enough mathematical "meat" to seem satisfying. The book is followed by ten appendixes that contain more details about some of the mathematics; they are not overly technical, and give the reader a better understanding of some of the issues. I highly recommend this book to everyone interested in math.

@@ -1,0 +1,10 @@
+Rating: 1/5
+
+This book was a tremendous disappointment. It's table of contents covered a lot of topics that interest me, but it is horribly written. It had the odor of a 6th grader's 5-paragraph paper plagiarizing an encyclopedia to cover the rise and fall of the British empire. I was hoping this would be a nice refresher/reminder of some of my computer science coursework. Instead, I was just frustrated.
+
+Each chapter comes off more as an advertisement for other books (where each chapter's "test" questions apparently are taken from). The pattern seemed to be:
+1. horribly basic intro: a "black box" is something where we can't know what happens on the inside
+2. short-shrift coverage of a basic definition.
+3. crazy leap to the end that the supposed "general" audience would have any hope of knowing.
+
+This book would have been much better if it covered a smaller number of topics, taking the time to explain &amp; develop them. Don't bother with this one.

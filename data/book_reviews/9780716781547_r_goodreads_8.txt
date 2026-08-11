@@ -1,0 +1,11 @@
+Rating: 2/5
+
+A confusing book in a number of ways...
+
+I put this down and picked it up a few times over the course of reading it, and I have to say, I'm really not sure exactly who this book has in mind as a target audience. The level of exposition is all over the place. An example would be Chapter 9 on The Mandelbrot set. We start off with the absolute basics about complex numbers (x + iy, how we can add and multiply them, etc.). A few pages later, we're talking about a theorem for the set Kc of complex numbers having bounded orbits which is either connected topologically or is a Cantor set...
+
+This issue crops up in exercises as well. After a ~5ish page discussion on finite automata, one of the questions asks what an argument would look like showing that no finite automaton can accept all palindromes over a given alphabet. Personally, I can't see the set of people who can answer that and who have just learned about automata from the section being more than a fraction of a percent.
+
+I personally didn't find the exposition to be particularly easy to read, either. For example, the FFT is covered in Chapter 32 - but pulling up the section on the FFT in CLRS, I found that far more readable. Likewise for the section on Huffman coding.
+
+I like the idea of this book, but the exposition just does not work for me; I do not think it is a good way of learning the material, neither is it sufficient as a reference.

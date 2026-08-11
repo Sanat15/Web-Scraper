@@ -1,0 +1,13 @@
+Rating: 4/5
+
+“The definition of a good mathematical problem is the mathematics it generates rather than the problem itself.”
+
+Fermat's Last Theorem states that: xⁿ + yⁿ = zⁿ has no whole number solutions for any integer n greater than 2. Simon Singh fashions the quest to solve this 350-year-old mathematical enigma into a compelling story. In the 1630s, when Pierre de Fermat scribbled a note on a page of his copy of Diophantus’s Arithmetica, stating (in Latin) his theorem and indicating “I have a truly marvelous demonstration of this proposition, which this margin is too narrow to contain.” Singh takes the reader through a series of minibiographies of past mathematicians, ultimately arriving at Andrew Wiles, who spent over eight years developing the 130-page proof. 
+
+Along the way, the reader will learn a great deal about number theory, logic, and the rigorous standards required to achieve an absolute proof. This book covers a wide variety of people and their contributions over the years, such as Pythagoras, Leonhard Euler, Sophie Germain, Gabriel Lame’, Augustin Cauchy, Ernst Kummer, David Hilbert, Kurt Godel, Alan Turing, Goro Shimura, and Yutaka Taniyama.
+
+The highlight of the book is, of course, Andrew Wiles who discovered Fermat’s Last Theorem at the age of ten, and dedicated himself to figuring out a proof, no matter how long it took. Wiles decided to keep his work secret and work alone in his attic. “You might ask how could I devote an unlimited amount of time to a problem that might simply not be soluble. The answer is that I just loved working on this problem and I was obsessed. I enjoyed pitting my wits against it.” 
+
+We learn about the Shimura-Taniyama conjecture, and the relationship between elliptic curves and modular forms. Singh never gets bogged down with calculations – they are instead included in the Appendices. I have a background in mathematics, so this type of subject matter appeals to me, but I daresay it is not required to enjoy this story of challenge, perseverance, and discovery.
+
+4.5

@@ -1,0 +1,5 @@
+Rating: 4/5
+
+Took me a good month to get through this one. Lots of bite-sized topics in CS theory. Not many that I haven't encountered before, but it was fun to dust off some college memories (Karnaugh maps, NFA-&gt;DFA conversions, NP proofs, etc.) Many topics (such as the details behind the undecidability proof behind Kolmogoroff complexity) had me spending hours finding supporting information on wikipedia and the like.
+
+This book could certainly benefit from a new edition that better motivates some of the discussions (e.g. FFTs), and replaces some of the examples that are showing their age (Quad trees, Perceptrons, etc.).

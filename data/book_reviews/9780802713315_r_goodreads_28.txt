@@ -1,0 +1,13 @@
+Rating: 5/5
+
+Its a simple problem: x^n + y^n = z^n has no positive integer solutions (xyz) for n&gt;2. So why is it so hard to prove? (or disprove). I'm a math/physics nerd so this book has great appeal. I also like Simon Singh's technical writing. He stayed 100% on track as he traced Pythagoras in 6 BC to Andrew Wiles proof in 1994.
+
+We all remember 3-4-5 triangles from geometry/trig, right? Pythagorean Theorem says 3^2 + 4^2 = 5^2. Other famous right triangle uses of these are the 5-12-13 or the 7-24-25, or how about 99-4900 - 4901. So why can't a version of this with cubes, or ^4 or ^5 work?
+
+Andrew Wiles read The Last Problem by Eric Bell when he was 10. He ultimately left Cambridge, England became a math professor at Princeton.
+
+The text kept moving at a strong pace. The greatest minds in math all came into play, with their own focus and contribution to solving this problem. Pierre de Fermat lived 1607-1665. The mathematicians before him that get mentioned all contributed to number theory that had direct bearing on this ultimate math problem. Fermat has scribbled in the margins that he knew the proof, but it simply wouldn't fit in the margins.
+
+Even as computers came into being, the 'brute force' method of MANY trials (with none working) could solve this problem. For even if a million numbers were tried, maybe the next one could work. What was needed was a full mathematical logical proof.
+
+Solid 4.5*. If you like math/physics, then easy 5. If not, then round down to a very readable 4.

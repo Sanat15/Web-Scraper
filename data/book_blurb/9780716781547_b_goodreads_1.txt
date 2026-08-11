@@ -1,0 +1,1 @@
+Discusses a variety of topics in computer science, from cryptography and recursion to artificial intelligence and simulation

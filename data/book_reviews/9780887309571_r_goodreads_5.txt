@@ -1,0 +1,21 @@
+Rating: 4/5
+
+Written in 1997 and updated in 1999, The Gorilla Game outlines investing in a certain kind of companies -- those that have a sustainable competitive advantage by virtue of having an ecosystem that sustains them.
+
+The book is interesting in someways -- going over the history of how some dominant companies got to be that way, especially Oracle and Cisco.
+
+The prescription about how to actually invest in these companies are, remarkably, devoid of discussion of the price you pay -- hence much of the advice is quite flawed. Instead, the argument relies on the market undervaluing the dominant player and overvaluing the others, because it does not properly price in the winner-take-most dynamic. As many investors of that era learned, simply holding the least overvalued company can still be a very disappointing experience.
+
+That said, good insights are offered about the dynamics of the gorilla companies -- the customers pick them since they are the leader, and the VARs of various stripe resent their pricing and market power but still support their dominance since they need a platform to deliver their value.
+Explaining the lock-in effects of router protocols and management was helpful in improving my understanding of the power of Cisco of that era.
+
+The chapters on how to spot the beginning of hypergrowth (a tornado market) and the emergence of a gorilla in it are helpful.
+
+The book loses some of the crispness by claiming there are gorilla dynamics in the application software niches -- although the strict definition of supporting ecosystem does not seem to apply well there.
+
+The book has a few other interesting pointers -- for instance, to pay attention to news about companies having entered the tornado, not the earlier articles about what might be.
+Written with typical Geoffrey Moore wit and irreverence, there are many sharp insights, along with occasional lack of rigor.
+
+The final chapter, on how to deal with Internet companies, was added for the revised edition. Interestingly, those who applied its ranking scheme to Priceline.com, (whom the book mentions but does not rank) would perhaps have done quite well.
+
+Overall, worth reading for any connoisseur of moats, and for deep value investors looking to understand the reasonable thoughts from the "other" side.

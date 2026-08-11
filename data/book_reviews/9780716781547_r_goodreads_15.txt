@@ -1,0 +1,5 @@
+Rating: 5/5
+
+This is a very good introduction to computer science. Each excursion is a problem or a subject area within computer science. Each one is presented in such a way that the reader is encouraged to have a go themselves, and the questions that accompany each excursion often involve writing small computer programs to explore the ideas involved.
+
+After reading this you will have a good idea of both the breadth and depth of computer science, and you will know which areas interest you and which do not. Good to read just before starting an undergraduate degree (and a good "light read" during).

@@ -1,0 +1,11 @@
+Rating: 2/5
+
+I own this book for over half a decade. I've tried to read it about 4 or 5 times. I think page 100 is as far as I'm ever gonna get.
+
+It's an enticing concept to explore a bunch of computer science topics on a single book. Most of us stop thinking about those as soon as the 4 years or so of college are over. Or maybe a bit later when the first paycheck arrives. Still, feels good revisiting those things that gave me so much trouble back then - and some still do.
+
+We get about 5 pages per topic and of course that can't be enough to fully explore each one. For a lot of those it's not even enough to explain the basics. I think that aiming for this naturally resulted in either tedious or incomplete chapters.
+
+Other approaches could be more entertaining or even informative. How about assuming prior knowledge - it's a CS book for CS graduates anyway - and instead of trying to explain things just tell some anecdotes, some of the back story that never gets much focus? Or zooming into one peculiar application? I would enjoy reading that.
+
+Of course that's just the opinion of a failed reader of this book. I know some very smart people who loved it. It may be that this is just not for me.

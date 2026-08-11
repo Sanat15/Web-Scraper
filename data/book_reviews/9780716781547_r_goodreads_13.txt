@@ -1,0 +1,3 @@
+Rating: 3/5
+
+Too detailed for a beginner but not detailed enough for someone with solid computer science knowledge, leaving the bracket of people who would enjoy/benefit from this quite small (ironically I fit into this bracket). Tries to both be a casual read and a textbook, and doesn’t really manage to be either. But the topics chosen are really good and very interesting to see how computer science has progressed/stayed the same 20 years on
