@@ -1,0 +1,11 @@
+Rating: 2/5
+
+There's so much I wanted to like about this book. The concept of "normal" accidents is those that emerge from complex and tightly coupled systems, regardless of the amount of safely designed into the system (and indeed, redundancy can often contribute to accidents when not implemented perfectly and properly). There is lots that is relevant to working in complex industries today. 
+
+However.
+
+I just could not get past Perrow's anti-nuclear bias. Throughout the book this author treated nuclear power as just a smidge less dangerous than global annihilation by nuclear weapons. And the book was published 2 years before Chernobyl! In the afterword Perrow thoughtfully examines some of his own biases and those of his sources, yet remains blind to (at least, does not acknowledge) his anti nuclear bias - he uses the phrase "nuclear addicts" multiple times to refer to supporters of nuclear energy. 
+
+To be fair, the book is from a different era. I'd like to think that the industry's safety record and (perhaps more importantly) safety culture has changed dramatically since the 80s. Certainly the capacity factor of the plants have changed; running in the 60% range was common then but for decades now plants have run at 90%+ capacity factor. 
+
+Anyway I will not hash out the whole pro nuclear case in the review section. Some great stuff in here if the terrible biases can be overlooked.

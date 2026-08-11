@@ -1,0 +1,13 @@
+Rating: 5/5
+
+It's easy to take for granted how a lot of major large-scale systems we interact with "just work". From international banking to properly coordinated traffic lights. Failure of a few seconds by any of such critical systems have devastating consequences. How then are they best built to both reduce the likelihood of failure, and limit the effect of any inevitable failures.
+
+While at the time this was first published (1984) accident theory was at best an emerging field, which goes to show the amount of work that had to be put in to create such a relevant body of work.
+
+Here, Perrow analyzes some major and minor accidents industrialization comes hand in hand with and examines the inevitability of such an occurrence based on design and what can be done to mitigate them. The examples strongly show the idea of tight coupling and/or increased complexity are always bound to lead to significant accidents.
+
+It also touches on the role organizational structure plays in influencing accidents as well as misprioritization of safety due to pursuing profits which raises some questions as to whether privatizing certain industries will sooner or later lead to catastrophes that affect innocent third parties and how regulation tries with little success to limit these.
+
+It's easy to come away with a sense of how shaky systems we implicitly trust are only accidents waiting to happen after reading this, but in the right hands, it goes a long way to prevent these accidents even from the design stage. I think it's also useful in other fields eg software design or engineering. Highly recommend.
+
+Touched on fields are: nuclear energy, air travel, mining and drilling, dams, marine accidents, petrochemicals, space exploration, DNA recombination &amp; our ecosystem and weapon systems.

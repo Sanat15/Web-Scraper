@@ -1,0 +1,4 @@
+Rating: 4/5
+
+(Read for ES module)
+Although this looks like a dense academic textbook on high tech technology, it's actually very accessible and absolutely fascinating to read. Has some excellent points about how over-complicating technology often leads to accidents which could have easily been prevented had a simpler method been implemented instead. Covers parts on nuclear accidents such as Chernobyl and Three Mile Island etc.

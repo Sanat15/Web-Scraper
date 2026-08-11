@@ -1,0 +1,7 @@
+Rating: 3/5
+
+I had heard quite a bit about this book, and it mainly delivered. I enjoyed the attempts to quantify system accidents. I appreciated the the invention of a framework to discuss accidents, work systems, and victims. I also enjoyed the numerous case studies presented in the book because it is in the specific cases we can glen ideas at prevention. 
+
+Unfortunately, I found myself disagreeing with some of the main conclusions of his analysis, particularly relating to abandoning certain kinds of technology, and his assertion that cost-benefit analysis should include how people feel about a technology or a particular industrial activity. 
+
+In particular, I don't think we should abandon technology because people dread accidents or over estimate the danger of a technology. That is a PR and education issue, not an accident prevention issue.

@@ -1,0 +1,7 @@
+Rating: 5/5
+
+I first learned about the theory of normal accidents in grad school from my professor, Howard McCurdy. The fundamental idea is that some systems are so complex and their components are so tightly coupled that major failures are inevitable. Not only that, but many of these failures will be incomprehensible to the system's designers and operators. Investigators often blame "human error" instead of recognizing that the system itself can cause errors through its design. 
+
+I recently found myself working on a complex software system when I remembered this theory. I decided to read Normal Accidents in hopes that it would be relevant. Despite being published in 1984, it remains eerily prescient as automation plays an increasingly important role in society. The increasing use of machine learning and artificial intelligence poses a real risk of introducing normal accidents into heretofore non-complex aspects of life. As I write this review, Google and Microsoft are racing to see who can be the first to integrate a Large Language Model (LLM, a type of AI) into a general release of a search engine. This type of model is difficult to control. Both companies' recent demos featured factual errors from their LLMs. What will the consequences be when companies push immature or poorly understood models into production to satisfy demands from management? In short, the answer is "normal accidents."
+
+I highly recommend this book to anyone working with computer systems, especially if you're a manager.

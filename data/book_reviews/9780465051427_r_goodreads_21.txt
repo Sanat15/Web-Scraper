@@ -1,0 +1,19 @@
+Rating: 3/5
+
+As I've mentioned before, I have a bit of a fascination with airplane crashes, and several books I've read mentioned this one as a seminal work in describing how accidents in complex systems happen.
+
+The main part of the book is setting up a system for categorizing systems. One dimension is "loosely-coupled" versus "tightly-coupled" - this roughly corresponds to how much slack there is in the system. A good example of a tightly-coupled system is an assembly line if parts are going down a conveyor belt or something - if something goes wrong to mess up a widget at one station, that widget will quickly be at the next station which can cause other problems.
+
+The other dimension is "linear" versus "complex", which roughly describes the interactions between parts of the system. An assembly line with a conveyor belt is a good example of a "linear" system because the interactions between the different stations are pretty predictable. Usually the more compact in space a system is, the more "complex" it is because lots of different parts of it are close together.
+
+Tightly-coupled complex systems are prone to what the author calls "normal" accidents which aren't really preventable. Basically, when a system is tightly-coupled you need to have a pretty strict plan for how to deal with things when something goes wrong, because you don't have a lot of time for analysis or debate. (a military-like structure can help, although obviously this can have bad consequences for organizations that are not the military) But complex systems require more deliberation to figure out what's actually going on and possibly more ingenuity to find a solution.
+
+It's interesting because in retrospect for each particular accident it's usually easy to see what went wrong and what the people involved did wrong. (or what the organization did wrong before that point) The author's point is that most of the time blaming the people involved is missing the point - these sorts of accidents are inevitable. 
+
+Most of the book is looking at specific systems (nuclear power plants, chemical plants, airplanes, marine shipping, dams, spacecraft, etc.), trying to categorize them, and looking at examples of accidents.
+
+(I should point out that I'm grossly oversimplifying here...)
+
+I think I mostly agree with his points, but I really don't have the depth of experience to know how reasonable his approach is. The book was written just before Chernobyl (so the part about nuclear power plants seems prescient), but there's also an afterward written in the late 90s about the Y2K problem and how maybe everything will be fine but there will likely be unpredictable serious problems, which didn't pan out. So I dunno.
+
+The book itself is pretty academic and was kind of a slog to get through even though I am interested in the topic.

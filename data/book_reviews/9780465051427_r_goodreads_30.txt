@@ -1,0 +1,6 @@
+Rating: 3/5
+
+First of all, you have to take into account that this book was released 1984, which was before more prominent accidents like Chernobyl or Fukushima which would lend very well to this topic. Technology changed quite a bit since then, so sometimes the book feels a little bit like picking it apart to identify the parts that aged well.
+
+This was not a short or an easy read, there are a lot of detailed analysis of (by now very old) accidents to chew through. Sometimes I was still impressed to read about some major accidents that I've never heard of.
+I still find the book interesting and worthwhile reading though. I was definitely reading this with my background in software engineering where an industry strives to build distributed systems but ends up with constant "system accidents" due to complexity and tight coupling which are two points continuously showing up in Perrow's analysis too.
