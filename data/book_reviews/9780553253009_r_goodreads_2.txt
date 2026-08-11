@@ -1,0 +1,3 @@
+Rating: 2/5
+
+I haven't read a ton of these, but I don't think it should be possible to get stuck in an infinite loop, which is unfortunately possible in this one based an early, entirely random choice.
