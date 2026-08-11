@@ -1,0 +1,1 @@
+All the forest animals extend a greeting.
