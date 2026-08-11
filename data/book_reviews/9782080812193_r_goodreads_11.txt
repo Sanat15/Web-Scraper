@@ -1,0 +1,13 @@
+Rating: 5/5
+
+This book, over two decades old now, is one of the great classics of science popularization. It was a blockbuster bestseller at the time, and it's still well worth reading, a fascinating, enjoyable introduction to one of the most important scientific developments of our time--the birth of chaos theory.
+
+One of the compelling features of the chaos story is that this scientific breakthrough wasn't a physics, mathematics, chemistry, astronomy, or biology breakthrough; it was all of them. A mathematician turned meteorologist, Edward Lorenz, builds a "toy weather" on what's still a fairly early computer in the early 1960s, and in working with the parameters, concludes that long-term weather forecasting is doomed--a simple deterministic system is producing unpredictable results. Mitchell Feigenbaum, a theoretical physicist at Los Alamos in the early seventies, and two other scientists working together independently of him, are working on the problem of turbulence and.discover that it doesn't, as anticipated, build up gradually in an orderly manner. Reach the tipping point, and there it is.
+
+Beloit Mandelbrot, an IBM mathematician working with an equation that produces fractals, arrives to give a presentation to an economics class and finds "his" equation already on the board; the patterns he's found in pure math also apply in economics, the reproductive rates and numbers of animal populations, and countless other places.
+
+In each field, also, the initial work was most often either resisted or ignored. Precisely because chaos was popping up all over, with just a few people in each of many different scientific fields, it was easy for scientists in any field to notice a paper or presentation, note the fact that is was completely different from the methods, logic, math that had relevance for their own work, that much of the work was in fact being done in other fields--and dismiss it. For new doctoral students, there were no mentors in chaos theory, no jobs, no journals devoted to chaos theory. It completely upended ideas about how the natural world worked. It was heady, exciting--and much harder to explain than to demonstrate. Much of what the first generation of chaos scientists did is incredibly easy to demonstrate with a laptop computer today--but most of these chaos pioneers were working with handheld calculators, mainframe computers with dump terminals and limited and unreliable access for something so peripheral to the institution's perceived mission, computers whose only output device was a plotter.
+
+Gleick very effectively conveys the science, the excitement the early scientists working on it felt, and the challenges that faced them.
+
+Highly recommended.

@@ -1,0 +1,9 @@
+Rating: 2/5
+
+It’s a quick read, though in the end I did not like CHAOS much. It is a breezy history of two decades of mostly disconnected work done by a number of different researchers in widely divergent areas of science. In an apparent coincidence, a small number of unrelated people became interested in studying aperiodic, non-linear problems arising in various fields of science all at roughly the same time. Their research had not advanced very far by the time this book was written in the mid-80s. 
+
+CHAOS was probably a little premature. It came too early which is reflected in the imprecision and shallow quality of Gleick's discussion, which can be frustratingly confusing at times. 
+
+In any event, there is no reason to read it now. It is out of date. I picked it up now, only because it has been on my shelf forever and I have long meant to read it. It was very successful with a general audience back when it was new.
+
+I don't know if the leading thinkers on the subject would agree with this, but 'chaos theory' feels like a narrow slice of 'complexity theory' to me. For an elegant and comprehensive discussion of complexity theory, read Stephen Wolfram's ground-breaking work A NEW KIND OF SCIENCE published a decade ago and still making the news. It's the real deal.

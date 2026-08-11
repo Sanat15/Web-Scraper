@@ -1,0 +1,7 @@
+Rating: 2/5
+
+This book was a disappointment. The author spent too much time in repeating the same terminology and concepts like 'strange attractors' and 'sensitive dependence on initial conditions' and not enough time making it tangible by using real examples that would have made it more meaningful. For instance, what does chaos theory/nonlinear science mean for weather forecasting, predicting asset class returns, crime statistics, economic growth, timing of natural disasters? The author mentions these concepts but without going into lucid examples of what chaos theory implies for them. Because of this, I found the book frustrating - both too complex to really grasp, and too superficial to really provide useful insight into the concept.
+
+In fairness, there was a long gap where I put this book down after having read the first half, so I recognize that I lost the continuity of the narrative. And maybe, just maybe (highly doubtful!!)I'm just not smart enough to get it. Still, a whole lot more could have been done to illustrate the application and implications of the subject. I also didn't care for the tone of the brief profiles of the various physicists and mathematicians - it felt like name-dropping to me.
+
+The few things that kept being used as examples were the motion of water in a stream (fluid dynamics), or air tubulence. The most interesting chapters were the final two, about the possible application to physiology and then a summary of the concept. Maybe those should have been the first two chapters.

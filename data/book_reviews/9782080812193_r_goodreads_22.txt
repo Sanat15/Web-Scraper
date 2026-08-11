@@ -1,0 +1,16 @@
+Rating: 2/5
+
+My interest in chaos theory and butterfly effect has been purely philosophical. I guess the idea of alternate reality always intrigues me. May be fueled by its implication in popular culture, movies, or books. First time, when I read Ray Bradbury's "A Sound of Thunder", I was really moved by the idea how something very small might eventually affect something greater at later phases.
+
+I also like two scenes from movies, one from "Mr. Nobody" that rain scene which washed away the address : https://www.youtube.com/watch?v=XOCoJ...
+And the car accident scene from "The Curious Case of Benjamin Button": https://www.youtube.com/watch?v=ldoHL...
+
+And I have one favorite comic story "Daytripper" which depicts so many alternate deaths a man can die in his life. Actually, really we never know, how many alternate lives we are living every time we have been able to cross one of the busy roads successfully ! 
+
+I know this implication of butterfly effect in popular culture is often erroneous. Because it's almost always impossible to know what factors actually tipped off a particular system. But there are always chances that changes in initial condition might accumulate into something different. Or they may not - maybe things happen inevitably. However, we have no way to learn! 
+
+And somehow I have developed my own version! I don't know when I started this thing, quite unconsciously, I guess. From time to time, on rare occasions, I would form a binary event tree of life and would try to figure out the initial events that accumulated into current condition of life. Obviously, there is no way to know! And obviously I am not trying to figure out what else could have happened! Maybe I am just trying to figure out the initial conditions of a Hidden Markov Model with life's current visible outcome. It's kind of fun! And there is no fixed rule. And you would always end up with a different answer based on where you decide to stop! You could stop looking for answers at personal level or at an impersonal level. It's just fun! 
+
+However, apart from all these philosophical implications about life, I really wanted to learn a bit of science behind chaos theory. This is my 2nd attempt at this book almost 2 years later and the book is still uninteresting as it was before. I believe this is one of the most "overrated" books out there. The book is hugely popular, always comes at first when you are looking for recommendations about chaos theory books. So, first time I really had doubts about myself. I thought maybe I am not doing justice to this book. I still had my doubts this time. So, I spent substantial amount of my time behind this book. And I think I have done enough and cannot do anything more for this book. 
+
+This is not actually a science book on Chaos thoery, rather a scientific history book about people who worked on Chaos theory. Bits of biographies from here and there and merged in little chapters which actually don't tell you anything useful/ informative about the science of chaos theory. The book is not rigorous at all! And it's really a disappointment! That's it.

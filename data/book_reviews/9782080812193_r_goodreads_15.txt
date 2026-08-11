@@ -1,0 +1,31 @@
+Rating: 4/5
+
+I remember learning about the Butterfly Effect for the first time when I watched a movie starring Ashton Kutcher which shares the same name.
+
+This book is almost 40(!) years old now but seems to have held up extremely well over time. 
+
+I think James Gleick should be a reference exemplar for science writing.
+
+He manages to straddle the extremely fine line where the technical explanations are either too dense or too dumbed down to deliver accessible explanations of phenomena.
+
+His narration of historical events related to the development of this field are engaging as they are not just a chronicle of milestones but an dissection of the motivations of the major contributors. 
+
+So what is Chaos then?
+
+What we've learned in high school physics and mathematics are "linear systems" and are actually applicable to a very small number of real world applications.
+
+Given the initial conditions of these systems (e.g. mass, velocity etc of a planet), scientists can make very good predictions. Such as when they predict the next time a comet appears with margins of error less than seconds.
+
+However, they are many systems that are "non-linear" where even when you know the initial conditions of the system, it is impossible build predictions about the future except for maybe a very short initial time window.
+
+The best example of a non-linear system is the weather. But there are lots of other systems that are chaotic - turbulence in fluids, stock markets, the body's immune system etc
+
+The predictions are hard because in non-linear systems, small differences in initial conditions lead to large difference in the future state of these systems. 
+
+And measurement tools never have 100% precision - which doesn't matter in linear system as small differences in initial conditions lead to small differences in future state of the system. 
+
+But it matters greatly in n0n-linear systems. For a long time, these chaotic systems were assumed to be random but in the 1960s, scientists began to show that they had a "orderly chaos" to them.
+
+Work continues this day to identify and classify chaotic systems in various fields such as biology, ecology, physiology, neurology and hopefully, one day, build models that can predict their future states with considerable precision.
+
+Sharing my notes here (Google Document)

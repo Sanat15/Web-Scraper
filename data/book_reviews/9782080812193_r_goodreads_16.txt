@@ -1,0 +1,7 @@
+Rating: 4/5
+
+When reading science books, it's difficult to know whether what you're reading is current or not. Gleick's book was first published in 1987, so I imagine by now there have been many developments and modifications to the ideas and theories presented here. That being said, this felt like a good introduction to the early history of scientists' efforts to understand and explain nonlinear systems and the apparent chaotic behavior observed in natural and man-made systems.
+
+If you haven't studied science or mathematics beyond the basics taught in U.S. high schools, this book will be a challenge, but if you have an understanding of equations, geometry, and scientific research methods, you should be able to understand everything Gleick discusses here.
+
+I enjoyed this investigation of the order underlying what we perceive as disorder, especially fractals. If I had the time, I'd like to run the calculations myself, as they seem within the reach of anyone with a laptop. Maybe this summer....

@@ -1,0 +1,13 @@
+Rating: 5/5
+
+În anii '60, ca să facă economie de timp, meteorologul Edward Lorenz a introdus în computer valoarea 0,506 pentru temperatură, în loc de 0,506127. O presupunere rezonabilă, doar meteorologii nu pot cunoaște temperatura din mijlocul oceanului până la trei zecimale. A fost surprins să constate că rezultatul a ieșit complet diferit.
+Edward Lorenz a observat cum, pornind din aproape același punct, vremea virtuală producea tipare tot mai diferite, până când dispărea orice asemânare. Dependența sensibilă de condițiile inițiale poarte numele de Efectul Fluterului. Este motivul pentru care mai departe de două-trei zile, chiar și cele mai bune prognoze din lume sunt pure speculații, iar dincolo șase-șapte zile devin inutile.
+
+Teoria haosului a fost aplicată cu succes în afara fizicii, în biologia populațională, demografie, epidemiologie, economie și sociologie. 
+Până și-n viața de zi cu zi, calitatea lorenziană a dependenței sensibile de condițiile inițiale pândește la fiecare pas. Un om pleacă de acasă dimineața cu 30 de secunde mai târziu, un ghiveci îi ratează capul cu câtiva milimetri, apoi este călcat de un camion. Sau, mai puțin dramatic pierde un autobuz care trece din zece în zece minute - și care trebuia să-l ducă la un tren care trece din oră în oră. Perturbările mărunte din traiectoria noastră zilnică pot avea consecințe importante.
+
+Haosul poate genera structură, coerență și stabilitate. Un exemplu de structură haotică stabilă este Marea Pată Roșie de pe suprafața planetei Jupiter, obiect care o fost descoperit acum patru sute de ani, și care nu dă semne că s-ar dezintegra prea curând.
+
+Este o carte dificilă, tehnică pe alocuri.
+
+Recomand
