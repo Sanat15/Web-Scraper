@@ -1,0 +1,5 @@
+Rating: 2/5
+
+Everyone always goes on about how meticulous Tom Clancy's background research is, but there was a moment in this book which made me wonder. They're going to run a big program on a military computer, and (being gamblin' military men) they decide to bet on how long it will take to complete. One of them asks how long the program is - number of lines, or punched cards, or whatever. The other one tells him, and then the first guy makes his estimate.
+
+I'm sorry, this no doubt shows what a mean-spirited person I am, but it did cross my mind to wonder if Mr. Clancy knew what a loop was. I'm ashamed of myself. I'm sure there's any number of perfectly reasonable explanations.
