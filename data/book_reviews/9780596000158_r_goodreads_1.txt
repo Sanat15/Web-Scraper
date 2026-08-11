@@ -1,0 +1,3 @@
+Rating: 5/5
+
+Too many people think that there is no need to care about performance because the JVM optimizes the code automatically. That's why there are tons of highly inefficient code. Sometimes, a very simple change can make your code run hundreds or thousands of times faster, saving costs, improving responsiveness. This book is a must read for every Java programmer.

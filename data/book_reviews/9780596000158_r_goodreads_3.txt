@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Every Java coder should have read this. There are too many idiot coders out there. Some of the performance proposals should probably be stayed away from, though... Overall, a good book to teach you some "performance manners"...

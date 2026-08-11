@@ -1,0 +1,3 @@
+Rating: 3/5
+
+I certainly learned a lot about writing faster java code although light on advanced garbage collection techniques. Honestly, learning how to use the garbage collector better did more for the speed of my java code than most of the tricks I learned in here.

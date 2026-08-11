@@ -1,0 +1,4 @@
+Rating: 3/5
+
+Very good to understand that main improvement in software, even in java can be done on our code side.
+The VM isn't an excuse after reading this book
