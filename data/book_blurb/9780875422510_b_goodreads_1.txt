@@ -1,0 +1,1 @@
+Briefly describes the development of handwriting analysis, discusses zone, baseline, slant, spacing, margins, and stroke, and explains what writing reveals about self-image
