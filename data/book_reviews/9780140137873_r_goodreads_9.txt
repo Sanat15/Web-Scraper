@@ -1,0 +1,17 @@
+Rating: 5/5
+
+Brilliant, breathtaking. The spirit of "simplicity on the far side of complexity". Really made a lot of things fall into place for me in an extremely brief period of time. I read this and Think! using TTS. While I like TTS better than reading with my eyes, I like it markedly less than audiobooks. My motivation to start, continue, and finish this book in a day, and read another book by the same author in the same day using the same method should be a testament to the value I place on these concepts. 
+
+In this book, De Bono proposes a mechanism with extremely simple mechanics. Complex behavior coming out of very simple interactions. He uses 3 models. Gelatin boards, block towers, and light boards. 
+
+Gelatin boards are a memory surface. If you pour hot water onto a spot, it leaves a depression. If you pour more hot water, it is likely to fall into the existing depression, leaving no trace anywhere else. If there are a series of existing depressions, the water will flow through that series based on proximity, depth, etc. If there is little gradient between them, the flow will be swift and smooth. if there is a gradient between them, the flow will be staccato with the gelatin having to dissolve between moves. 
+
+Block towers are an excitation model. You have towers of blocks. These towers will tend to 'banana' at a certain height. As a model, we add the arbitrary rule that once a tower topples, we begin rebuilding it again but with an additional block to start. Thus towers that have toppled previously are more likely to topple again and the more times a tower has toppled previously, the more likely it will be to again and quicker. 
+
+For light boards, a lightbulb is activated in response to a triggered light sensor that is shielded from the particular bulb it is attached to. However, the sensor is not shielded from every other lightbulb on the board. So, one light goes off and surrounding lights will also have a higher probability of going off, possibly cascading from a minimal initial stimulus into an outsized response. This is an elegant description of network effects and emergent behavior. 
+
+Between these 3 models, you can explain phenomena such as short term and long term memory, why indecision does or doesn't strike, why it is difficult to break habits, how abstraction works, and why memory shapes perception. 
+
+He takes pains to point out toward the end of the book that while an unwary reader may have mistaken his mechanism of mind for a brain, it was only intended to be a mechanical illustration of how unintelligent matter can create behavior that appears intelligent to human observers, but then remarks on the similarity with the functioning of the brain. He talks a lot about the weaknesses and strengths of such a model, including its propensity to use existing recognition chunks to classify new objects, creating both false positives and false negatives. He talks about the difficulty in creating novelty using such a device without novel inputs, which later becomes his impetus for emphasizing new methods of thinking, including lateral thinking. 
+
+Please read this book. This book has been more instructive to me on the subject of thinking than any other book I've ever read.

@@ -1,0 +1,10 @@
+Rating: 3/5
+
+A good, vintage introduction to applied statistics.
+
+I occasionally teach mathematics at this level and some of the ordering of topics surprise me, such as 
+Poisson distribution before normal distribution. However, I can see a point to discrete distributions ahead of continuous sample space. But, multinomial distribution before binomial?
+
+Regardless, I really like the content on control charts, Dodge Romig Sampling Plans, and general sampling theory for uncovering defects.
+
+I found distracting the quaint of British typography, where the middle dot is used as the formal decimal point&gt; as well as the Crown and Anchor game to teach probability.

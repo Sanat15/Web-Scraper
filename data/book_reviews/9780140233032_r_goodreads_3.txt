@@ -1,0 +1,3 @@
+Rating: 4/5
+
+I read this book many years ago. It is about privacy and the collection of information. Since it was published in 1992, before the internet took off, it is hopelessly out of date, but parts of it still ring true. The best part is the author's 'Four Laws of Data Dynamics' governing personal data collected by marketers and advertisers.1. Data must seek and merge with complementary data.2. Data will always be used for purposes other than that for which it was originally intended.3. Data collected about individuals will be used to cause harm to the person about whom the information was collected.4. Confidential information is only confidential until someone decides it is not.
