@@ -1,0 +1,16 @@
+Rating: 3/5
+
+It's a solid ecology textbook. 
+
+Pros: 
+- Accessible online resources for accessing the textbook from your phone including text to audio
+- Toooonnns of examples from the literature - I'm talking examples of random studies everywhere. Some of the figures are simple transcriptions from the articles but with colors and different graphic backgrounds. Other figures actually involved a lot of manipulation - e.g. converted tabular data to a bar chart or combining three figures from the article into a single panel chart describing all the data
+- Using both classical examples of certain concepts like lynx/hare graphs for lotka-volterra and newer less well known examples
+
+Cons
+- The mathematical concepts never quite get there. They introduce an equation but don't actually explain all of the aspects of it enough for a student to truly grasp what is happening. So the student can't apply it.
+- The mathematical concepts/formulas sometimes use atypical terminology or formulas that I haven't seen other textbooks/writings use. This makes using other examples difficult (because now I have multiple algebraic terms having the same meaning for a variable and I have to clarify to already confused/nervous students).
+- While it's nice that they include lots of less well known researchers in examples they refer to them like they all have discipline defining discoveries when some of them really just have a study that supported a particular concept really well so students are left wondering "is this a name I should know because it was the quintessential definer if this idea and every ecology textbook or ecologist should know this person by name or is this simply an example of a study in which this idea was supported?"
+- there aren't any good simulation resources to support the class
+
+Overall it's an great choice for a first time teaching ecology if you don't want to rock the boat.

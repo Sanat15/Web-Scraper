@@ -1,0 +1,1 @@
+I can't believe I once bought an actual book to learn XML. Well, at least I didn't buy a book to learn SGML, even though I had used SGML in the 90's. I worked at a company called Ligature that worked with digital dictionaries, some of which came in SGML format.

@@ -1,0 +1,1 @@
+XML stands for eXtensible Markup Language, and is a rapidly maturing data format for structured document interchange on the Web. However, XML is in no way limited to Internet use. In fact, XML's main strength - organizing information - makes it perfect for exchanging data between different systems, regardless of whether the Internet is part of the picture.

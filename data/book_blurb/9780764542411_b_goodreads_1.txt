@@ -1,0 +1,6 @@
+If you are looking to add exciting interactivity to Web pages and need a quick and easy understanding of the technology in order to do so, then this book is for you-whether you're new to JavaScript or you need a refresher on every-thing from validating user input forms to creating menu trees. Open the book and you'll discover clear, easy-to-follow instructions for more than 250 key JavaScript tasks, each presented in ten quick steps-or less. Easy-to-navigate pages, lots of screen shots, and to-the-point directions guide you through every common (and not so common) JavaScript challenge-and help you get more done in less time.
+* Each solution is ten steps-or less-to help you get the job done fast
+* Self-contained two-page spreads deliver the answers you need-without flipping pages
+* A no-fluff approach focuses on helping you achieve results
+* A resource packed with useful and fun ways to get the most out of JavaScript
+* Make it simple and get productive fast!- download ready-to-use source code for each task from the book's companion Web site

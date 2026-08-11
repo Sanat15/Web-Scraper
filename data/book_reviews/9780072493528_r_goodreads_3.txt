@@ -1,0 +1,15 @@
+Rating: 2/5
+
+The audience for this book is "students taking their first undergraduate course in ecology"...with " some knowledge of basic chemistry and mathematics and... a course in general biology...physiology, biological diversity and evolution"
+It also claims to have "accessible writing - your students are most certain to notice... attempts at humour"
+
+The book is well structured, with sections covering the sub-disciplines in ecology and introducing key concepts in context. It not only uses many Canadian examples but describes specific experiments and observations and the researchers who performed them. It also includes more global examples. 
+
+My knowledge of this topic is more advanced than the target audience; my intent was to get an overall update on the whole field. I've read many papers in journals but my last "big picture" read was 30 years ago.
+The book met my needs in that respect but I almost quit several times. Only the thought of risking similar issues made me keep going. When I finally finished, I was so relieved at not having to read the awful prose any more. If it weren't for the high cost of buying another textbook, I would definitely have quit
+My two main issues are the "accessible writing" and accuracy. A minor issue is that several graphs are hard to read for a variety of reasons such as dark grey backgrounds that make the dark coloured lines difficult to pick out. In other cases, at least one of the axes is not labelled and in a few cases, the graph did not illustrate what the text claimed it illustrated.
+The inaccuracies were less irritating than the language. At least they kept me awake and critical. They were relatively minor but did leave a suspicion that maybe I had missed something more important. 
+Example: expanding a "sum from 1 to n" incorrectly where n= 2. Re-read definition of term, it was incomplete so I couldn't tell if sum written wrong (missing parentheses?) or expansion. Defining "small scale" in absolute terms (few hundred metres) when clearly it depends on organism in question, as even the next sentence implies (significant to the organism under study)
+It was the language that discouraged me the most. I'm no fan of overly formal language, especially passive mood. But this seemed overly informal in parts. A good editor could have cleaned this up a lot. Too many filler words, use of immediately answered questions (not the kind that gets the reader to think, the style that says "Did we do this? Yes we did!"), unwarranted "!"s. 
+A decent editor could have reduced the amount of text by 30% without losing any information.
+Perhaps I'm overly picky and I admit I found more faults after a while because of my general irritation level, but text books aren't cheap and editing would have helped a lot. Luckily, I bought this book used.
