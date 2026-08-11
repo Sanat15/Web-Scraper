@@ -1,0 +1,7 @@
+Rating: 4/5
+
+In class 5 or 6, when we first started doing maths of finding average, mean or mode, I really had no idea what they meant or even why I was doing them. Just sum up the numbers, divide by their number and get the average or arrange them in increasing order, take the number in the middle - what they meant even. Maybe I was just following the instructions because the books said so or doing things this way will bring me marks in the exam. That's it. No more thoughts. 
+
+Later when we learnt regression analysis, even then I still didn't know why I am learning this. I saw teacher writing some x &amp; y values on the board , then their was an equation y=ax+b. There were formulas for finding a and b. I just calculated the values of a and b. Later on if it was asked in the question, I would plug in a new value of x into the equation and get a new y. That's it. 
+
+But finally after attending numerical methods, machine learning and pattern recognition courses and while doing my thesis I know why we need them and what they mean :3

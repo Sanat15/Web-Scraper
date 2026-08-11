@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Very nice book on the most common statistical illusions present when loose statistics are presented in the media. It - statistical fooleries - still is surprisingly common and many examples can be observed in plenty of political campaigns and news outlets. It doesn't require a very deep knowledge of maths or statistics, so it is ideal if you are just looking to get a useful intuition on how popular statistical reporting typically works and where it fails.

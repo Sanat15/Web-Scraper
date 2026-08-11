@@ -1,0 +1,17 @@
+Rating: 5/5
+
+Yes, it has all the stuff you hear about: how people use stats to subtly (and not-so-subtly) misdirect the reader/listener, how to systematically recognize (or create) misinterpretations, and a strong implicit call to action for clearer information in public discourse. 
+
+But in the billion years since this classic came of age, we've all learned that other ways, some of them better presented. When it was written, many people believed the information they received in the papers, in magazines, and on the news. Now, news shows spend their time trying to discredit bloggers who point out their biases. Our cynicism has evolved to the point where How to Lie With Statistics teaches valuable technique, but loses much of its insight-producing novelty.
+
+You should still read it, though, for two reasons:
+
+ - It's a classic. It's a great, simple read and you want to be able to say, "As it says in so classic and simple a book as How to Lie With Statistics--which, Professor, you have obviously studied--you are clearly hiding the truth!"
+
+ - No other book presents such a concise set of instructions for noticing when you have misled someone inadvertently. I frequently notice some document I'm preparing using a technique--quite often one built-in to popular business communication tools--that misleads people as to the real meaning of the data. 
+
+Because I've read this, I can catch myself and make sure I present my case clearly, but unimpeachably. If I mislead my audience, they'll catch me; They'll catch me and tear me apart, even if I were right.
+
+So check out this classic, overlook its implicit innocence, learn some dirty tricks you may have forgotten or not caught, and pay attention to how you've been trained to use them just like we all have.
+
+Bonus bit: my favorite bad statistics technique: Bar graphs with images for bars. As they grow taller, they grow wider, making a number twice as big appear four times as large.

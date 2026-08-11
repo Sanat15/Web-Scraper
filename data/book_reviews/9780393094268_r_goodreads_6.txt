@@ -1,0 +1,60 @@
+Rating: 4/5
+
+The best-selling (popular) Statistics book…
+
+--This book aims to make stats accessible for the public. Thus, it targets:
+a) Those who get lost in/avoid statistics for fear of mathematics and/or ignorance of its application in social issues.
+…and converts them to:
+b) Those who bother with statistics not for its mathematics, but for its application in social issues. 
+
+--Going easy on the math is not actually sacrificing too much. Consider: public deception requires the victim thinking they understand something, a bait-and-switch. Thus, complex math would often be counter-productive! 
+--The deception is in the lure of “simple” math: 
+-ex. “1 in 3 people…!”
+-ex. “An increase of 200%!”
+-ex. “Look at this graph with a dramatic, steep curve!”
+...you must be first convinced that you understand it, while the logic behind it is manipulated... 
+
+--As for the folks who love abstract technicalities and shy away from the noisy world of human irrationality and power struggles, you’ll have no problem learning the mathematics of statistics elsewhere.
+...For the rest of us, this book is the ideal starting point. The excellent Ben Goldacre takes this to another level by applying this approach to science/public health/media/policy: "Pulling bad science apart is the best teaching gimmick I know for explaining how good science really works."
+-Bad Science: Quacks, Hacks, and Big Pharma Flacks
+-I Think You'll Find It's a Bit More Complicated Than That
+-Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients
+
+Highlights: 
+
+1) Representative sample? 
+--We are sold conclusions with authoritative precision (“33.33% of users…!”), but first consider how the sample (subset of the total population used as an estimate, since surveying total population is usually impossible) was determined:
+a) Often the sample is simply too small (sampled 3 people, found 1!), so the results are biased by chance. As always, if the raw numbers of the sample size are not even provided, be suspicious! If they are given (in fine print), often a cursory comparison of the sample size vs. actual population size is enough to spot the lie. 
+b) More mathematical checks are mentioned only in a cursory manner and need to be supplemented elsewhere. These include the statistical significance level for handling false positives (which has limitations: effect size and reproducibility), reliability of the correlation (standard deviation/standard error…), etc. 
+c) Next, many methodological layers (ex. with data collection) need to be unraveled to detect further sampling biases and non-sampling errors. And as always, the first suspicious sign is if the methodological details are hidden. 
+
+2) Which “average”? 
+--Different types have different perspectives/results; this can be unspecified or used inconsistently in comparisons: “mean” hides outliers that skew the result (think mean income where one CEO's salary skews the many low-wage workers); “median” (middle value) and “mode” (most common value) each provide insights and limitations for manipulation (or just sloppy misinterpretation).
+
+3) What are the visuals presenting and hiding? 
+--Just as simple math is a lure, simple visuals are full of tricks. Hidden data, ranges cut off, distorted proportions of the units of the x/y axis, distorted perspectives (ex. coloured voting map which emphasizes land mass instead of population density), etc. 
+
+4) What is the logic behind the interpretation? 
+a) A key methodological trick is the bait-and-switch, by making overreaching claims based on a “semi-attached figure”. This is very common in health/medical claims (see Goldacre's books above), where a surrogate outcome (ex. a singular result from an isolated chemical reaction in a lab Petri dish) is falsely extrapolated as having an equal impact on a real clinical outcome (i.e. on a complex condition in a complex human body in a complex social environment). 
+...This builds up to tremendous distortions since private companies can simply not publish negative findings (the enforcement to pre-register clinical trials is abysmal), thus creating systemic publication bias! 
+b) Quick glance at logical fallacies (esp. regarding correlation vs. causation). A popular one is post hoc ergo propter hoc (if B follows A, then assume A caused B). 
+--Ex. Many people who get lung cancer drink alcohol, so drinking alcohol must cause lung cancer...? (Actually, many people who drink alcohol also smoke...) 
+c) The illusion of the shifting base: Ex. advertising a whooping 100% savings on $100... so it's free? Well, it turns out the savings was actually 50%. The "100% savings" is comparing the new (reduced) price of $50 to the savings ($50), when it should be comparing with the original base price of $100. 
+...This can get really sneaky the other way around, ex. locked into paying interest routinely on the original loan amount whereas you should pay on the new decreasing amount (since you've been paying off your loan)! 
+d) Plenty of counter-intuitive tricks can be done with percentages. Goldacre recommends using real numbers (1 out of 300) instead of percentages if you want to communicate more clearly/intuitively (esp. to describe changes). After all, an 100% increase could just be a change from 1-in-1,000,000 to 2-in-1,000,000.
+
+The Missing:
+--I have to add this note, because I’ve seen Bill Gates recommend this book (and novice conspiracy hacks getting the wrong ideas). Despite this book providing technical tools to spot manipulation, it presents “power” as an abstract bogeyman (mostly in the form of petty con artists). 
+
+1) Systemic power: 
+--Unlike the misleading narratives of petty con artists being “bad apples”, systemic power thrives in abstraction; this is how it builds social consent. 
+--To understand power, we must turn to political economy. Goldacre provides a useful bridge, by connecting these statistical deceptions to power in a step-by-step approach: starting with petty con artist quacks, then expanding to bigger systems: capitalist media and industries (including Big Pharma, which avoiding sensationalism which Big Media thrives on):
+-Talking to My Daughter About the Economy: or, How Capitalism Works—and How It Fails
+-Another Now: Dispatches from an Alternative Present
+-Understanding Power: The Indispensable Chomsky
+
+2) Propaganda: 
+--To expand our analysis of propaganda: 
+-Necessary Illusions: Thought Control in Democratic Societies
+-Manufacturing Consent: The Political Economy of the Mass Media
+-Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming
