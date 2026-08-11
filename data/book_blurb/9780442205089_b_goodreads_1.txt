@@ -1,0 +1,1 @@
+Provides data on some 1,350 food additives, including direct and indirect additives, packaging materials, pesticides, and selected animal drugs. Each additive is covered in a separate alphabetical entry which features physical properties, usage information, occupational restrictions, and toxicologic
