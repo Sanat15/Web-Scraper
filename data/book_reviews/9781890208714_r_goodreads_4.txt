@@ -1,0 +1,24 @@
+Rating: 2/5
+
+Since I've studied Caroline (Carolingian) Minuscule at Cambridge, I thought I'd list the inaccuracies/oddities I could find as a fun little exercise: 
+
+1. William Dougal is a postgraduate in the History faculty. However, the teaching of medieval palaeography, and Caroline Minuscule in particular, is undertaken by the Department of Anglo-Saxon Norse and Celtic (ASNAC). This is particularly egregious as the novel is presumably set in the late 1970s/early 1980s, and T.A.M. Bishop, who wrote books on (Insular) Caroline Minuscule which are authoritative to this day, was teaching at the faculty until 1973, so ASNAC was pretty established in medieval palaeography by that time. 
+
+2. The History department would not be physically located in the same building as Dougal's college. Said department (alongside most Humanities departments) has been in the Sidgwick Site since the 1950s. No academic department in Cambridge is located within a college. 
+
+(Incidentally, characters' insistence on referring to their college as 'the college' instead of just naming it is extremely odd.)
+
+3. The 'Graduate Common Room' would be the 'Middle Common Room'. 
+ 3a. Phillip Primrose appears to be teaching faculty of some sort. If that were the case, he would have been in the Senior Common Room and not the Middle. 
+
+4. Relatively minor, but Dougal's thesis is on 'The Influence of the Carolingian court on the transmission of pagan Latin literary texts in the early Middle Ages' (p.17), which sounds obscure and complicated, but was actually relatively well-researched (even in 1982), because it was literally just Virgil and other 'classical' texts. 
+
+5. Hanbury wants single 'page' of a medieval manuscript transcribed, translated, and 'have assessed its date and provenance and so forth' (p.21-2). Dougal considers it 'a couple days' work' (p.23). The modern Cambridge exam for first-year undergrads and postgraduates requires students to transcribe about ⅓ to ½ a folio, and provide a suggested script, date, and origin in 45 minutes. We later find out it's a fairly well-known sermon which probably had existing translations. Even accounting for additional research, Dougal would have to be a truly terrible student to take more than a day on this exercise. 
+
+(Also, 'provenance' refers to the manuscript's last known locations, whereas 'origin' is where a manuscript was created. Credit where credit is due, Taylor correctly has Dougal note that the 'wedge-shaped ascenders' implied that the manuscript was written in Britain (p.35), but that would be origin not provenance. Incidentally, it's weird that 'some of the letters' had wedging but not others. It's also weird that this literally never comes up again.) 
+
+6. Hanbury needs someone who knows 'a serif from an ampersand' (p.22). That's an incredibly low bar - they look nothing alike. Also, discerning between the two wouldn't actually be that useful in transcription. All you need to know is that '&amp;' was an abbreviation for 'et' and you're golden. 
+
+7. Dougal (mentally) describes a marginal note as an 'inscription' (p.39). Inscriptions, in a palaeographical context, are texts carved into stone/wood/other materials (aka not written in ink). Incidentally, saying that the note was written in a 'later hand', implicitly because it's a 'crabbed cursive', is odd because Insular Cursive Minuscule, an earlier hand, is very much a 'crabbed cursive'. 
+
+At this point, Dougal pretty much stops doing anything related to palaeography and Cambridge so I can chill.
