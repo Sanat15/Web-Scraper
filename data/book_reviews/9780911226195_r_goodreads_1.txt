@@ -1,0 +1,49 @@
+Rating: 2/5
+
+Overview
+
+"Frogs Into Princes" three-part introduction to NLP (short for "Neuro Linguistic Programming"), a form of therapy conceived of in the 1970s. NLP is founded on the premise that "the kinds of problems that people have usually have nothing to do with content; they have to do with the structure, the form of how they organize their experience." (47) The central thesis of NLP, then, is that the best way to help others overcome emotional, behavior, and psychosomatic problems is to discern the processes by which they organize and access their thoughts and feeling and alter it.
+
+Process matters
+
+It's ironic, then, "Frogs Into Princes" fundamentally fails to convey it's central message due it's lazy structure and disorganized presentation. Yes, process matters - as in therapy, so in literature. "Frogs Into Princes" is essentially a transcript of a three-day seminar. It's as if the publisher came across a recording, transcribed it in its entirety, stamped on a nonsensical title, and called it a day. In the forward, the authors somewhat guiltily admit that this is "a record of a story that was told", and that they would like to "reassure the reader that the non-sequiturs, the surprising tangents, the unannounced shifts in content, mood or direction... had a compelling logic of their own in the original context." And perhaps they did. But here, they only serve to confuse and otherwise detract from what might have otherwise been an interesting message.
+
+Onto content, then. The "book" is "organized" into three parts, each corresponding to one-day of the seminar. The subject matter of each day is somewhat disconnected, though the central theme of "content-free process therapy" is evident throughout. Let's examine each day in turn.
+
+Day 1: sensory experience
+
+Day one is all about sensory experience, and how to read the subtle cues that reveal the systematically different ways we each process, store, and access our feelings. The idea here is that different information is stored using different "representational systems" (visual, auditory, etc). The hope is that once you've determined which "representational system" a person uses, you can then employ this system to better communicate with them.
+
+How, then, do people cue you in on how they're accessing information? Primarily with eye movements, it seems. If they look down and to their right, they're accessing kinesthetic feelings; up and to their left, visually constructed images; and so on. Besides having a sort of pop-psychological appeal, this idea has something awesome going for it: it's a testable hypothesis.
+
+Unfortunately, the authors don't bother citing empirical evidence. Instead, they call out a person or two from the crowd, and give forceful, guided demonstrations: this is what you were thinking, Mary. Isn't it? (um... well, yea, I guess it is). I guess I didn't find these primed, sample-size-of-one experiments very convincing. In fact, I did my own sample-size-of-one experiment with an unsuspecting subject: the results were less than spectacular. Some cursory googling indicates that experimental evidence is weak. There might be a rough correlation between eye movements and representation system, but otherwise - nothing to see here.
+
+Day 2: changing personal history and organization
+
+Day two is a bit more concrete, from a therapeutic perspective: the author's start to talk about things to do in a therapeutic setting to help people resolve their issues. The authors start by noting that "the relationship between your experience and what actually occurred is tenuous at best... Made up memories can change you just as well as the arbitrary perceptions that you made up at the time about 'real world events'." (97) The idea is that you can change the way people cope with unpleasant memories by giving them new ways to process those memories. The methodology here can be summarized as content-free guided meditation, with a dash of pavlovian conditioning.
+
+The therapist begins by asking the client to go back in time and relive the unpleasant experience. While this is happening, the therapist "anchors" the memory by say, touching the client in a certain way, or by taking on a certain tone. The same thing is done with a behavior or emotional tool the client wishes they'd had at the time. Finally, the therapist "binds" the emotional resource to the unpleasant memory, essentially telling the client: 'next time you feel or see this (the bad thing), feel this (the resource anchor)'.
+
+Note that throughout, the therapist has no idea what the "bad thing" is, nor what the "good resource" is - he or she simply gives content-agnostic process instructions. This approach doesn't really resonate with me personally, but I can imagine it might work for some.
+
+Day 3: finding new ways
+
+Whereas day 2 is mostly concerned with overcoming phobias and coping with past memories, day 3 is all about modifying your current behavior. The main practice advocated here is called "reframing" - a "specific was of contacting the portion or part... of a person causing a certain behavior to occur." (138) The point of reframing is to "find out what the secondary gain of [and undesirable] behavior is," (138) with the ultimate goal of creating a new, alternative pattern to replace the old one.
+
+The NLP therapist attempts to "speak privately with your unconscious mind" (152) in, as always, a content-free manner. The interaction goes something like this: "let's give the code name X to the pattern of behavior you presently have, which you would rather replace with something else more appropriate." (139) "Go inside for a moment and ask a question... Your job... is simply to attend to any changes you sense in your body sensations." (140) "The question I would like you to ask is 'will the part of me responsible for pattern X communicate with me in consciousness?'" (141) and so on. The therapist is simply a sort of consultant, instruct the client on how to proceed, without ever directly discussing the content of "pattern X."
+
+Again, this circuitous, procedural way of going about things doesn't really appeal to me, but that's not to say it doesn't work. Indeed, this way of 'speaking with your unconscious mind' is not unheard of in therapy. It turns out to be foundation for an established therapeutic model called "Internal Family Systems," where consciousness is viewed as being composed of various "parts" or unconscious "sub-personalities." That said, this isn't a strong vote of confidence for "Neuro Linguistic Programming". Indeed, the primary criticism of IFS is that there is no empirical evidence to back it up - a concern that, it seems to me, is strikingly applicable here.
+
+If it doesn't work, it's because you don't believe
+
+So, we've discussed the content of NLP. The question now is: does it work? As I've now alluded to more than once, the authors don't offer much in the way of objective evidence. Support is provided in the form of stage demonstrations, wherein willing participants are forcefully pushed towards whatever outcome the instructors desire. As stated in the preface, this might have been compelling in the original context, but here, even if instructive, it's rather unconvincing.
+
+Perhaps what irked me most about this book, however, is the extent to which the authors describe their theory as unfalsifiable. Some quotes are in order: "You will try it and it won't work. However, that's not a comment on the method. That's a comment about not being creative enough in the application of it, and not having enough sensory experience to accept all the cues that are there [emphasis mine].” (164) Elsewhere, we're told that there are only two ways to fail with this material. One is to be too rigid. The other is to not 'believe in it': "If there's a part of you that really doesn't believe that phobias can be done in three minutes, but you decide to try it anyway, that incongruence will show up in your non-verbal communication, and that will blow the whole thing" (178) The implication, of course, is that if NLP isn’t working, you're either not doing it right, or you simply 'don't believe.'
+
+This is nothing more than the excuse of the ineffectual miracle worker, who defends himself by arguing that prayer always works. And when it doesn't, it's because you never really "believed" in the first place. This kind of reasoning drives me absolutely crazy. Outside the realm of pure mathematics, if a theory is unfalsifiable, it's absolutely uninteresting. This kind of solipsistic reasoning about abounds, and greatly detracts from the author’s credibility throughout.
+
+Summary
+
+"Frogs and Princes" is full of interesting, underdeveloped, and unsubstantiated ideas. The idea of content-free therapy is interesting and provocative, and I do hope it's been examined in greater detail elsewhere. I'm intrigued by the idea of representational systems, and I like the authors' constant reminders that "when you do something that doesn't work, do something else" (160) - even if complete flexibility detracts from the viability of NLP as a well-defined therapeutic model.
+
+As a work of informative piece of nonfiction, however, the book fails. Thoughtful organization and carefully reasoned arguments be damned: this is hurried transcript of a three-day seminar, and it shows. The end result, even if interesting, is ultimately unconvincing. Maybe NLP works - or maybe, it works for you. In any event, this probably isn't the best place to find out.
