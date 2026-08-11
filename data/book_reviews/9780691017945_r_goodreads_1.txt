@@ -1,0 +1,79 @@
+Rating: 2/5
+
+The central theory of 'synchronicity' relies on an unfortunate combination of flawed research and misapplied statistics. Jung hems and haws but is never able to demonstrate that any acausal connection between events exists.
+
+The first problem is his reliance on research by Joseph Rhine, who coined the term 'parapsychology' to describe his studies. Throughout his career, Rhine's work was plagued with errors, and his ESP experiments were so poorly-designed as to be useless.
+
+To produce good results means setting up a good test. If there are flaws in the test, the results will be useless. When Rhine began to speak about the 'remarkable findings' in his research, he gained interest and his papers were widely read. Sadly, it was immediately clear to professionals in the field that the results were unreliable.
+
+Through the course of his early experiments, Rhine did not lay out a system by which the testing took place. He used a set of twenty-five Zener cards to test his subjects, but never specified any method by which the cards be randomized or presented. One of the most successful tests took place in a moving car.
+
+The expected outcomes were also underestimated, so that subjects reported as performing 'above chance' were in fact quite average. Each deck contained five symbols with five cards each, and Rhine reported this meant a one-in-five (20%) chance of guessing the correct card. However, the cards were not returned to the deck and reshuffled after each one was drawn, so every card after the first had a greater than 20% chance of being guessed.
+
+If the first card drawn is a star, the subject knows that only four star cards remain. That means the other symbols in the deck now have a greater than 20% chance of being drawn. If eight cards have been drawn and none of them are a cross, the subject now has a 30% chance of being correct if he guesses a cross, since there are more crosses remaining in the deck than any other card. The odds of guessing correctly increase for every card drawn.
+
+Beyond counting cards, it was later discovered that several of Rhine's assistants were helping certain subjects to cheat, that subjects were often allowed to handle the cards, and that the original cards were often thin enough that the symbols could be seen through them when backlit.
+
+After changing the tests to make cheating more difficult and getting rid of assistants caught cheating, Rhine never again produced any meaningful results. Sadly, he revealed his prejudice when he refused to publish any experiment that did not support his theories.
+
+He then tried to excuse his lack of evidence by the so-called 'Decline Effect', which is just another misunderstanding of how statistics operate. Imagine you roll a large number of dice, then get rid of any that roll five or lower. You continue rolling, and continue keeping only those that roll high. Eventually, you're down to a handful of dice. If you keep rolling them, they will average out.
+
+They were never super dice, after all, we just happened to decide to keep the ones that rolled high--which some of the dice were bound to do, by sheer chance. That's not an anomaly, it's our own selection bias. It's like someone who doesn't like red skittles, and so only eats the other ones, and then is surprised when the bag has only red skittles remaining by the end.
+
+Rhine did the same thing: he tested large numbers of people, and kept only those who scored highly. He was selecting only the data that confirmed his theory. Then, when he retested them, they averaged out. This is not a magic 'decline effect', it is the natural correction of his own selection bias averaging out over time.
+
+The fact that Jung did not recognize the flawed methodology throughout the experiments troubled me. A theorist needs to be able to recognize and avoid using flawed data, and the fact that Jung has so quickly embraced it suggests a lack of rigor in his own approach.
+
+Besides these contentious studies, Jung often relies on anecdotes--examples from his life, or from other people which suggest that coincidences are in some way important. For example, he remarks that one patient was telling of a dream she had about a beetle, at which point a beetle flew into the window of his office.
+
+Anecdotes are like metaphors: they are useful for illustrating an idea, but only a fool mistakes the illustration for the idea. One can 'burn the midnight oil' without actually having any oil at hand, and just because a man gets attacked by an escaped tiger in NYC, that is not evidence of an urban tiger epidemic. Beyond that, memory is an untrustworthy thing, and human beings assign more importance to events which confirm what they already believe, tending not to remember things that conflict with their beliefs.
+
+In this specific case, coincidences like the kind he describes are not actually uncommon. While it is unlikely that a bug would fly in while a woman spoke about bugs, that is only one of many coincidences that might have happened that day. If a person has a thousand small moments in a day where a coincidence might happen, then statistically, each person will experience a one-in-a-thousand coincidence every day.
+
+Given enough time, the coincidence actually becomes more likely to occur than not to occur. It is unlikely that a roulette wheel will land on seven if you spin it once. If you spin it a thousand times, it would be miraculous if it didn't eventually land on seven. With a world population of 6.8 billion, 6,800 people are experiencing a one-in-a-million coincidence right now.
+
+Unfortunately, Jung never overcomes either the flawed studies or the vague arguments which undermine his theory. He speaks back and forth at some length about various suppositions and possibilities, but never develops any convincing insight. A good piece of philosophy contains not only an interesting theory, but also presents the flaws and contradictions which that theory must overcome in order to be relevant. It is impossible to discuss the necessity of an idea without first dealing with the problems amassed against it. Only if its power and accuracy prove greater than these problems can the idea truly emerge as a workable concept. Jung never manages to cross this important threshold.
+
+It is clear that he has passion, and that there is a great desire within him to explore and understand, but this is simply not enough. He tells us that there have been many ideas throughout history which were considered unpalatable, which were rejected outright, and only accepted as truth later. He reminds us that it is vital to keep pushing the boundary--yet again he forgets statistics--for every great idea that was rejected for being before its time, there are ten or a hundred ideas which ended up being flat out wrong. 
+
+The lesson of history is that the odds are against the radical idea. We might think of great successes like Kepler or Newton, who changed our conception of the world with radical notions--but both men also had passionate ideas which they worked on their whole lives, and which turned out to be baseless--for Kepler, the notion that the orbits of the planets were based on the platonic solids, and for Newton the study of alchemy.
+
+While reading, I had my own moment of synchronous coincidence, when Jung quoted Kepler's notion of 'Geometric Unity' as an example of a philosophy of synchronicity--despite the fact that it turned out to be incorrect. Mankind is better served by thinkers who work on likely theories rather than ones who chase white rabbits. 
+
+Yet, I am not numb to the passion that drives a man who works to prove the impossible. There is a part of me that has always wanted magic to exist. A world with magic seems a more interesting and wonderful world. Part of the reason I am skeptical, the reason that I searched so hard for truth, for proofs, was that I wanted to believe. But a simple desire does not make reality:
+
+  "Do you want a piece of cake?"
+"Yes!"
+"Then have one."
+"I don't see it . . ."
+"You aren't looking hard enough."
+"I've checked the whole kitchen and I still don't see any cake."
+"You just don't want the cake enough. If you really wanted the cake, you'd be eating it already."
+"But there isn't any cake here!"
+"Well, you can't expect to find the cake with a negative outlook like that. Cakes don't respond well to negative energy."
+"I'm pretty sure that even if I wanted this cake more than I ever wanted anything, it still wouldn't be here."
+"What a hopeless cynic!"
+
+One of my favorite articles is a piece by Dr. Susan Blackmore, entitled 'Why I Have Given Up", which goes into great detail about how difficult it is to try to study unusual theories. She searched in vain for evidence of fantastical claims for a quarter century. In the beginning, she hoped they were true--that she would find something definitive, and that the way we look at the world might be changed forever. By the end, she had still not found a single shred of evidence.
+
+Believers attacked her. They said she didn't have an open mind. All the people who had contacted her over the years, sure that they had proof, blamed her when they couldn't demonstrate it. People have a passion for wondrous notions, even when there is nothing to suggest they might be true. It's important to have an open mind as a student of the world, but it's also important to make sure you don't open it so wide that your brain falls out.
+
+A place with unicorns and psychic powers where all things are connected and directed by fate seems exciting and interesting. Yet these things are only interesting because they are impossible. They are only fantastical because they do not exist. If they did exist, we would come to expect them. They would be normal to us, and we would no longer find them wondrous.
+
+Yet that would not decrease how remarkable they were. The ability to communicate one's thoughts remotely and immediately to a person across the world is terribly fantastical--yet it is something we can now do at a whim. It is no less fantastical to do it with a cellphone, rather than psychic energies, and the only reason the psychic power seems interesting is because we cannot do it. It is the lure of the thing we cannot possess.
+
+Instead of losing the self in the contemplation of things that are wondrous because they are impossible, why not contemplate things which are wondrous, but which are all around us all the time? Is it not fantastical that we can see and measure stars as they were countless years before our race was born? Is it not fantastical that we can comprehend the invisible particles which make up all substance in the world?
+
+God is a fantastical impossibility: contemplating him means withdrawing from the world and wishing for another existence. Natural laws are a fantastical reality: to contemplate them is to come closer to a grand understanding.
+
+If you were walking in the middle of the woods with a friend and came across an arched bridge of stone that gracefully spanned a deep ravine, it would be a beautiful and awing thing to behold. If you asked your friend where it came from, which would be the more fantastical answer: that the natural laws which govern the depositing and erosion of stone naturally created this wonder, or that some guy built it? And yet what is god besides the notion that 'some guy built it'?
+
+To me, the notions of gods, angels, psychic powers, magic, astrology, and all the rest do not make the world a more remarkable place, because they are all of man, not of the world. They are not explanations, they provide no understanding, and they indicate no grander existence. They are attempts to make the world more like us.
+
+We are programmed to see ourselves everywhere--we see a face in the light socket, we yell at the car for breaking down, we apply complex psychological motivations to our cat. What is god but the attempt to make the universe more like us--to make it living, breathing, thinking, moral, creative, thoughtful, emotional, and answerable? It allows us to pretend for a moment that we are important, that we are in control in some grand, real way. 
+
+The man-shaped universe does not appeal to me. It is not necessary, nor is it remarkable. It does not make things grander and more wonderful, it makes it small and personal and simple. 
+
+This world is already magical and fantastical to me. I already find it beautiful and surprising and beyond comprehension. To sit and study the tiny fraction of what we know and understand delights and overwhelms me. Why obsess over a world of false fantasies when there is a world of real, living, breathing miracles out there waiting for you, every day?
+
+When a thinker creates and inhabits an empty world of hopes and sympathies, he murders everything sublime and touching in life. It is a tragic thing to kill real wonder in the name of false ones.
