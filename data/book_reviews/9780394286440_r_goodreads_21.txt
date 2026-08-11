@@ -1,0 +1,73 @@
+Rating: 4/5
+
+review of 
+Frederik Pohl's Beyond the Blue Event Horizon 
+by tENTATIVELY, a cONVENIENCE - July 6, 2015 
+
+I read Pohl's Gateway 1st in this Heechee Saga. My review's here: http://www.goodreads.com/book/show/15... . I'm somewhat surprised to see that I read it 3 yrs ago. That's one of those time-flies-when-you're-not-having-fun-just-getting-older thingies. Skimming over my Gateway review I think I was more impressed by that one than I was by this sequel - wch isn't to say that I thought this was 'bad', it just didn't seem quite as inspired. 
+
+One idea that caught my fancy is that of "Gosh numbers": 
+
+"Gosh numbers are numbers which represent more than one quantity, so that when you perceive the coincidence you say, 'Gosh.'" - p 45 
+
+"“Ph, well,” said the Dead Man gloomily, “all right. Point-five degrees is the angular diameter of both the sun and the Moon as seen from Earth. Gosh! How strange that they should be the same, but also how useful, because it is partly because of this coincidence that Earth has eclipses. Minus-forty degrees is the temperature which is the same in both Fahrenheit and Celsius scales. Gosh. Two thousand twenty-five is the sum of the cubes of the integers, one cubed plus two cubed plus three cubed and so on up to nine cubed, all added together. It is also the square of their sum. Gosh.["]" - p 45 
+
+""One. The quantities Tiny Jim referred to as 'gosh numbers'. These are numerical quantities, mostly of the sort called 'dimensionless' because they are the same in any units you measure. The mass ratio between the electron and the proton. The Dirac number to express the difference between electromagnetic and gravitational force. The Eddington fine-structure constant. And so forth. We know these numbers to great precision. What we do not know is why they are what they are. Why shouldn't the fine-structure constant be, say, 150 instead of 137-plus? If we understoood astrophysics—if we had a complete theory—we should be able to deduce these numbers from that theory.["]" - p 289 
+
+SO, of course, I had to do at least some cursory research on Gosh Numbers wch led me to: http://mathtricks.org/gosh-numbers/go... where Beyond the Blue Event Horizon is discussed &amp; quoted &amp; then this follows: 
+
+"Well, that was a rather lengthy introduction, so I will not delay any further the first Gosh Number:
+
+"1729
+
+"1729 is the least number expressible as the sum of 2 cubes in two different ways:
+
+"1729 = 123 + 13 = 103 + 93
+
+"1729 is also the 3rd Carmichael number
+
+"1729 is also a centered cube number, a dodecagonal number, a 24-gonal and 84-gonal number. The creators of the television cartoon Futurama thought so much of 1729 that they included it within the show on several occasions.
+
+"GOSH!!"
+
+The author of the above is one Steven Pomeroy. 
+
+One of the Heechee artifacts found in Beyond the Blue Event Horizon is a "couch" that enables a person to broadcast their dreams: "["]We know that in human history many of the great inventions sprang up all over the world, apparently independently, maybe simultaneously. Are they Heechee suggestions, via the couch?"" (p 87) Zeitgeists fascinate me, I'm sure I've been part of many. A more Ockham's Razor explanation for them than Pohl's fanciful suggestion might be that certain mindsets reach the same conclusions at the same time b/c they're 'obvious' next steps in the mindset's progression. In other words, Marconi &amp; Tesla shared a similar cultural background &amp; education that led to an 'obvious' next step being the radio. W/o this shared cultural &amp; educational background this zeigeist wdn't've occurred. In other words, radio wasn't suddenly conceived of &amp; made by a farmer w/ no scientific training. That, however, doesn't necessarily explain Tesla's ability to completely visualize inventions before building them: 
+
+"[..]I was about seventeen when my thoughts turned seriously to invention. Then I observed to my delight that I could visualize with the greatest facility. I needed no models, drawings or experiments. I could picture them all as real in my mind." - p 33, My Inventions, Nikola Tesla, 1995, Barnes &amp; Noble Books 
+
+It might be interesting sometime to develop whole vast theories based on deliberate acceptance of probable typos &amp; misprints as not accidents. EG: the above Beyond the Blue Event Horizon quote from p 45 re Gosh numbers begins "“Ph, well,” said the Dead Man gloomily" w/ the "Ph" presumably intended to be "Oh" (as Pomeroy quotes it in his article). 
+
+Then, on p 129 it's printed: "But the relationship had been of suppliant and monarch" in wch "suppliant" was presumably meant to read "supplicant". But was it? After all, a "suppliant" is "a person making a humble plea to someone in power or authority" &amp; a "supplicant" is "a person who asks for something in a respectful way from a powerful person or God". SO, what's the difference? According to http://dictionary.reference.com/brows..., the etymology for "suppliant" is "1400-50; late Middle English &lt; Middle French, present participle of supplier &lt; Latin supplicāre to beseech, supplicate" &amp; can be confused w/ "supplicant". The same source, http://dictionary.reference.com/brows..., provides an etymology for "supplicant" as: "1590-1600; &lt; Latin supplicant- (stem of supplicāns), present participle of supplicāre to supplicate; see -ant; doublet of suppliant". 
+
+&amp; what's a "doublet"? According to Wikipedia: 
+
+"In etymology, two or more words in the same language are called doublets or etymological twins (or possibly triplets, etc.) when they have different phonological forms but the same etymological root. Often, but not always, the variants have entered the language through different routes. Because the relationship between words that have the same root and the same meaning is fairly obvious, the term is mostly used to characterize pairs of words that have diverged in meaning at least to some extent.
+
+"For example English pyre and fire are doublets. Modern words with similar meaning but subtle differences contribute to the richness of the English language, as exemplified by the doublets frail and fragile (both from the Latin adjective fragilis): one might refer to a fragile tea cup and a frail old woman, but never frail tea cup, whilst fragile old woman adds a dimension of meaning by implying emotional infirmity rather than physical." - https://en.wikipedia.org/wiki/Doublet... 
+
+The point is, I don't see where suppliant &amp; supplicant have diverged, they seem to have the same meaning - w/ suppliant coming 1st. What is Pohl really up to here? It's obvious to me that everything in this novel is just a smokescreen to hide the combined significance of "Ph" &amp; "suppliant". Don't believe me? That's b/c yr pH balance is alkaline &amp; I'm acid-tongued (both literally &amp; figuratively). Further supporting my theory is this: ""That's not exactly a tenth of a number, Robin," said Sigfrid." (p 230) The careful reader will note that the psychoanalyzing program is credited w/ this sentence when it shd clearly be the science program, Albert. 
+
+("If you think back to high school chemistry class, you may recall that pH is an abbreviation for potential hydrogen. A pH number measures from 0 to14 how acidic or alkaline a liquid is -- anything above 7 is alkaline and anything below 7 is acid. Water has a pH level of 7 -- it's neutral, meaning it has the same amount of acids and alkalis, which balance each other out." - http://health.howstuffworks.com/skin-... ) 
+
+I don't want to give too much away about the story of Beyond the Blue Event Horizon - hence my punning tangent above. Shucks, I'm not really acid-teongued. Nonetheless, I 'can't' resist quoting this: 
+
+""They're called 'prayer fans', Wan." 
+
+""No, no," he shrilled crossly, taking it away from her and marching crossly into the chamber. "You do not pray with them. You read them. Like this."" - p 138 
+
+Let that be a lesson to you: the Bible &amp; the Qur'an were meant to help keep kafirs like myself cooler in hot desert environments - they're not for reading. All those silly religious fanatics have got it all bass-ackwards. 
+
+The Heechee Saga is epic. "After more than three-quarters of a million years of rolling slowly around Earth;s very distant sun, the artifact pulled itself into a new orbit and surged away." (p 202) That may seem a bit too long-term to wrap yr head around but think of this: Mayflies have an average lifespan of 24 hrs &amp; their lifespan can be as short as 30 minutes ( http://www.itsnature.org/what-on-eart... ), humans in the US have an average lifespan of 78.2 yrs. Interestingly, the US is 38 in the list of longest-lived &amp; Japan's at the top w/ 82.6. The average expectancy independent of country is 67.2 (males 65, females 69.5). ( http://www.disabled-world.com/calcula... ) 
+
+SO, contrast a Mayfly living 30 minutes to a human male making it to 65: the human male lives 1,129,580 times longer than the Mayfly who "depending on the species and after hatching [..] mate, lay eggs and die." ( http://www.itsnature.org.. again) We have time to notice them but do they even notice us? It's completely reasonable, if still only speculative, that there's another critter out there to whom we're naught but a Mayfly. 
+
+"Not much development occurred in the fifteen years between the removal of the colony from its prehistoric African home and Squint's death. The Heechee were not discouraged. In fifteen years, they did not expect much. They had much longer plans than that." - p 262 
+
+"They tidied up behind them, as they always did. Then they went away and allowed the rest of that particular experiment, among all their experiments, to run. 
+
+"For eight hundred thousand years." - p 262 
+
+Putting that in the human / Mayfly scale again: If the human male lives 1,129,580 times longer than the Mayfly by making it to 65 then the above "eight hundred thousand years" wd put the human male at age 46. 
+
+Thank you, Frederik Pohl, for stimulating me to do the above research.
