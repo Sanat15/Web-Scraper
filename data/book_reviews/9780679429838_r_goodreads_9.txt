@@ -1,0 +1,17 @@
+Rating: 4/5
+
+The reason to read this book is really the final essay, which shows to great advantage all of Langewiesche's strengths as a writer:
+
+-Knowledge of the subject (flying, and in particular the airline industry)
+-Lack of pretentiousness
+-Clear, unimprovable rhetorical skills (using 'rhetoric' in the old-fashioned sense of the ability to convince others)
+
+The events described are horrific: A jetliner catching fire six minutes after takeoff, 11,000 feet up in the air, and crashing at 500mph into the ground about three minutes later. Five crew and 105 passengers were less killed than obliterated.
+
+Langeweische is not an alarmist, and is not trying to frighten people away from flying -- it is still the safest travel option we have, by rather a large margin. That said, Taken as a whole, the airline system is complex indeed. It is also competitive, and if one of its purposes is to make money, the other is to move the public through thin air cheaply and at high speed. Safety is never first, nor can it be, but for obvious reasons it is a necessary companion to the venture.This is probably the most masterful example of cutting through the bullshit that I have ever read, and it isn't meant to be frightening or polemical, just one adult talking to another. I love this.
+
+And here's that lack of pretension I was talking about:It was known from the start that fire took the airplane down. The federal investigation began within hours, with the arrival that evening of a National Transportation Safety Board team from Washington. The investigators set up shop in an airport hotel, which they began to refer to without embarrassment as the "command center." Twenty miles to the west, deep in the Everglades, the recovery operation was already underway. The NTSB had set up a staging area -- a "forward ops base," as one official called it -- beside the Tamiami Trail.
+
+This is all wrapped up with a riveting (if you're a limits-of-technology nerd like myself) discussion of "normal accidents," so named by my hero Charles Perrow. Like Chernobyl, like Three Mile Island, this plane was ultimately brought down by one of its pieces of safety equipment. Perrow has dubbed the failure of complex, dangerous systems 'normal accidents' because they are a completely normal, i.e. unpreventable consequence of complex technologies. 
+
+Some systems are so complicated and have so many intertwining elements that there is no way to predict the ways in which they will actually fail, and so one fine day a small thing goes wrong, followed by another small thing, and ultimately it snowballs into catastrophe. In this case, a mechanic who mistook the word 'expended' for 'expired'; a salesperson taped up the resultant mess in a cardboard box because a potential customer was touring the hanger and he wanted the place to look neat and tidy; somehow the mislabeled box ended up in a shipping clerk's office, who did what shipping clerks do, and shipped it; the ramp agent and copilot failed to cut open the box and look inside, and once in the air, 120 people were the unwilling sacrifices to a system that allows the rest of us to fly cheaply and conveniently.Valujet 592 burned and crashed not because the airplane failed but because the airline did.
