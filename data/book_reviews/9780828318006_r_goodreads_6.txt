@@ -1,0 +1,29 @@
+Rating: 3/5
+
+Cesare Beccaria’s On Crime and Punishment (1764) is an essay that was published pretty early in the Age of Enlightenment. It was influential In France, England and the US, among other countries, and it is a superb illustration of the humanitarian ideals that the Enlightenment thinkers propagated. 
+
+The essay itself is rather short and consists of 47 small sections which deal with specific subjects. 
+
+In general, Beccaria’s thesis can be summarized as the following theorem: 
+
+-	A punishment is no act of violence of the society against the individual, if and only if:
+-	It is public, direct and necessary
+-	It is as mild as possible
+-	It is proportional to the crime (impact and species)
+-	It is determined by law (i.e. objective)
+
+In other words, Beccaria wanted to do away with the arbitrariness and inhumanity of penal law as it was practised in most countries back then. In the conditions of humane penal law we see all the Enlightenment themes surfacing: the equality of all people regardless of class and status, the autonomy of each individual, the logico-mathematical approach to social questions, objectivity as a social criterion. 
+
+Beccaria’s theorem is the result of an analysis of the fundamental issues surrounding criminal punishment. He places the origin of penal law in the social contract (fictive or not). To overcome all the problems of individual life people band together and in this they voluntarily give up their right to violence, etc. In this there arises a common interest, which has to be defended by and embodied in a higher authority. The state is born. All the while, human passions being what they are, and the multiplicity of mutually exclusive private interests, it becomes necessary to institute criminal law and enforce it through punishment. 
+
+But punishment seems to be an offense against the social contract, which was deliberately signed with the aim of protection of individual rights. This tension is inevitable, but it can be mitigated through the methods of division of powers and strict application of laws. 
+
+For Beccaria, the sovereign is lawmaker and its task is to offer a complete and understandable system of determining laws, as well as to continuously update the laws when experience demands it. The judge, or the jury, is not allowed to interpret the law: his sole function is applying syllogistic reasoning to the case at hand. The law and its prescribed punishment are the major premise; the current case is the minor premise; and the conclusion of the syllogism is either freedom or punishment for the suspect. In other words: the sole function of judge or jury is to evaluate the evidence and witness reports, and to conclude whether the suspect is guilty or not. The law prescribes itself, so to speak. This is an important point that Beccaria emphasizes throughout the essay. Arbitrariness and selectivity in penal law leads to tyranny and inhumanity. 
+
+For Beccaria the goal of punishment is simply the prevention of the crime being committed again, either by the same person or by others. We inflict bodily harm on someone in order to prevent the unfortunate situation from recurring. That is, we purposefully break the social compact and in doing so, we have to ensure that all punishments inflict the highest impressions on the public at large at the smallest bodily harm for the person involved. 
+
+Another very important point in the essay is Beccaria’s total rejection of the death penalty. It is barbarous, ineffective (the worst crimes are committed irrationally) and goes fundamentally against the social compact. But most important of all, it is not punishment at all – the criminal is instantaneously killed and that’s that. Better is to punish him by lifelong slavery (forced labour), since the length and severity of the punishment is a much better preventive measure. Also, this type of punishment should be reserved for only the worst species of crimes: those that endanger the whole of society and/or the sovereign (i.e. high treason).
+
+Most of the essay is concerned with very specific cases, for example the species of crime and the appropriate punishment for each. This is all rather uninteresting for a review. So let me end with a particular interesting notion of Beccaria: the family as a threat to liberty. He observes that a society of 100.000 people which is founded on family structure (given the average size of five members per family) has only 20.000 free citizens. The head of the family is a tyrant in the family sphere, yet he is free in broader society – the 80.000 remaining citizens are oppressed on both accounts. Only in a society that binds all individuals – as individual – to the law, can freedom for all be guaranteed. This breakdown of inherited social structures is a familiar theme in Enlightenment thought – whether it’s the breakdown of absolutism, religious dogmatism, economic mercantilism, or family structure. 
+
+In short, On Crime and Punishment is a typical Enlightenment plea for the abolishment of tyranny, barbarity and inequality, and the establishment of personal autonomy, equality (before the law) and humanity. It is a sympathetic little text which was very important in reforming the penal system of many a country back then. It still breathes a very lively breath to modern readers, forcing one to reflect on the principles of established norms or laws (as institutionalized norms) that are taken for granted.
