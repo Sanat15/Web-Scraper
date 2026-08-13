@@ -1,0 +1,1 @@
+Fantasy need include no more than *one* fantasy element -- in this case, "well/ill-wishing" -- in order to work.

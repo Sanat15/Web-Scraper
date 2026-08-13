@@ -1,0 +1,19 @@
+Rating: 2/5
+
+This 1978 book was disappointing. I thought it would be fun and instructive to see what computer crime looked like before the personal computer. 
+
+In 1978 computers were things that big organizations had. Banks, governments, insurance companies and manufacturing giants relied on them. Regular people didn't own computers. Personal computers where hobbies. Apple Computer was incorporated in 1977. It is not mentioned in this book. 
+
+Whiteside was a writer for The New Yorker. He didn't really understand the world of computing. This short book is mostly his summary of newspaper and magazine articles about various computer crimes and his uninformed handwringing. I am surprised that these pieces were originally published in the New Yorker because they lack the deep reporting and easy wit that most New Yorker stories had in those days. 
+
+There is still some interesting stuff.
+
+Some computer crime was easier back then. A guy gets a twelve month installment loan from a bank. The bank gives him a book of computer coded payment coupons. He rips out the twelfth coupon and sends it in with the payment. The computer reads that it is the twelfth payment and closes the loan as being paid. 
+
+Some computer crime was driven by old technology. Data was stored on large tape reels. Criminals would steal a reel of sensitive data and hold it for ransom. That was the only memory storage for the data. Companies got wise to that so they started making back up tapes. Smart criminals learned how to steal the master tape and the back up.
+
+Because computing resources where so scarce, a popular crime was to hack into a computer so the hacker could use the computer to compute for their own business needs.
+
+Some computer crime then was the same as computer crime now. Whiteside tells stories of industrial espionage to try to steal trade secrets from a computer. He also has examples of corporate insiders using computers to construct complex financial maneuvers in order to hide corporate crimes. 
+
+The more things change...

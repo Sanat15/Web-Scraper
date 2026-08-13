@@ -1,0 +1,19 @@
+Rating: 4/5
+
+"Computers make everyone's job easier - including thieves!"
+
+When one hears the word 'computer' today, one probably thinks of a laptop. Little do some know that computers have been around for over 50 years already. The early ones by IBM were these huge machines that took up more floor space than our first apartment. They used these reels of magnetic tape to store data and were programed with these cards that were punched with little rectangular holes. Companies shared these monstrosities. What you did was take your information to the computer and for maybe $1000 a day do work, store data, or play solitaire. In time some companies got their own computers, but as inconceivable as it is to some young people today, there was no internet and the only clouds were in the sky.
+
+Computer crime in those days started out with attacks against the physical computer itself. Instead of using a virus, terrorist groups would break in to a facility and throw Molotov cocktails at the computers! This could result it hundreds of thousands of dollars in damages. If you count lost data then the cost might be in the millions. 
+
+Ironically, much of the electronic thievery and embezzlement was not carried out some pimple-faced, overweight techy nerd in his mom's basement, but some computer user at work with not much more understanding of computers than what buttons to push to get their job done. What they did understand was the bookkeeping practices at their company or bank. They didn't just magically transfer a large chunk of change in a few key strokes like you see in the movies, but rather small amounts over a period of time, that not only added up to huge amounts but were often undetected, even by outside auditors! Why, one may ask? Because computers don't make mistakes.
+
+Ah, but they do! One of the most successful thieves made his own algorithm to falsify data or hide it. His operation was so successful they didn't want to believe he was embezzling his employer for years. Most of the customers at certain banks probably looked at their bank statements and if they saw their checkbook was off by 20 or 30 cents that it was their error and not the bank's computer.
+
+Years after this book was published a US aircraft was sent to the bone yard out in the desert. Due to human error, a live nuclear weapon was still on board. Every computerized check from point A to point B said that everything was in order. It took another human to discover the error.
+
+Most thieves back then were only caught by accident. One was caught when his bookie was busted. When they were caught, they usually were not prosecuted because there really weren't any laws on the books, the prosecution didn't know how to proceed, and the companies didn't want to loose face.
+
+Even back then some tech people were warning about trapdoors and Trojan Horses. The way they explained it makes me wonder of the wisdom of making computers and chips in China. Hey, labor is cheap in North Korea, let's have them make chips for our military!
+
+Historically, this book made for some interesting reading.
