@@ -1,0 +1,1 @@
+In this much-needed guide, an award-winning technical writer and documentation tester thoroughly explains how anyone can improve technical and end-user documentation through testing. Comprehensive coverage of how to perform tests, as well as an illuminating discussion of the role of document testers, is included.
