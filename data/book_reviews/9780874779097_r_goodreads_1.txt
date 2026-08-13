@@ -1,0 +1,15 @@
+Rating: 3/5
+
+Jeremy Rifkin annab päris põhjaliku ülevaate 1998. aasta seisust biotehnoloogia, et mitte öelda geenitehnoloogia valdkonnas. Taimede, loomade, toidu ja inimeste muutmisest. Haiguste ennetamisest või lausa arusaamadest isikute sotsiaalsete psühholoogiliste aspektide mõjutamisest läbi biotehnoloogia. 
+
+Lugedes seda nüüd 23 aastat hiljem, tabasin end mõttelt, et kahtlemata on midagi muutunud ja arenguid on olnud, kuid mitte just eriti palju nähtavat tulemit. Igasugused ennustused siin raamatus on tõenäoliselt liiga optimistlikud. Hajusalt populaarteadust lugedes on silma jäänud suurte edasiviivate saavutustena CRISPR ja COVID-19 vaktsiinide üpris kiire väljatöötamine, kuid mingil põhjusel ma oleks selle aja peale oodanud igasugu muud ägedat meditsiinitehnoloogiat kättesaadavana tavainimesele.
+
+Üks mõte, mis mul tuli võrdluses näiteks arvutiteaduse praktilise rakendamisega ja asjaoluga, et tehnoloogiaettevõtted on tõusnud paarikümne aastaga maailma suurimateks ettevõteteks, on avatus. Avatud lähtekood ehk open source on loomulik osa nii entusiastide kui ka ettevõtete tehnoloogiakasutusest - see on tugevalt võimendanud kogu sektori arengut.
+
+Biotehnoloogia aga elab kinniste seinte taga. Iga uus avastus on mingi firma omand. Iga pisike samm edasi on kohe kinni kleebitud patentidega. Ei tea, kus IT oleks, kui iga koodijupimuudatus samasuguse kohtlemise osaliseks oleks saanud.
+
+Seda kinnist loogikat iseloomustab hästi lõik raamatust, mis käsitleb loodusliku evolutsiooni produktide pidamist "leiutisteks": "Mitte ükski molekulaarbioloog ei ole kunagi loonud ühtegi geeni, rakku, kudet, organit või organismi de novo. Selles mõttes on analoogia keemiliste elementide perioodilisuse tabeli ja geenide ning elusmateeria vahel täiesti asjakohane. Mitte ükski mõistlik inimene ei julgeks tõenäoliselt võtta vastu otsust, et teadlast, kes isoleeris, klassifitseeris ja kirjeldas vesiniku, heeliumi ja hapniku omadusi, tuleks pidada nende keemiliste ainete leiutajaks ja anda talle kahekümneks aastaks ainuõigus pidada neid enda omaks."
+
+Mõelda vaid, kui ITs ei saaks keegi kirjutada UUT koodi, vaid saaks ainult copy-pasteerida olemasolevat koodi GitHubist ja StackOverflowst. Ja niipea, kui sa midagi oled kokku pasteerinud, siis sa võtad sellele ainuisikulise patendi ja mitte keegi teine ei tohi seda kasutada.
+
+PS Tõlge oli väheke vildakas. Näiteks Aldous Huxley kurikuulus raamat oli tõlgitud kui "Uus Oivaline Maailm" jne.
