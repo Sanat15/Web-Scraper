@@ -1,0 +1,1 @@
+This valuable volume provides a practical technique for building a logical (non-physical) model of a commercial data processing system. It is extensively illustrated to provide graphic explanations of how systems fit together.
