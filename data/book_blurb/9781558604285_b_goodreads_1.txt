@@ -1,0 +1,10 @@
+This edition is now out of print. Please see Computer Organization and Design, Third edition (ISBN 1558606041) for latest edition with over 40% of the content updated.
+
+The performance of software systems is dramatically affected by how well software designers understand the basic hardware technologies at work in a system. Similarly, hardware designers must understand the far reaching effects their design decisions have on software applications. For readers in either category, this classic introduction to the field provides a deep look into the computer. It demonstrates the relationship between the software and hardware and focuses on the foundational concepts that are the basis for current computer design.
+
+Using a distinctive "learning by evolution" approach the authors present each idea from its first principles, guiding readers through a series of worked examples that incrementally add more complex instructions until they have acquired an understanding of the entire MIPS instruction set and the fundamentals of assembly language. Computer arithmetic, pipelining, and memory hierarchies are treated to the same evolutionary approach with worked examples and incremental drawings supporting each new level of sophistication. The design, performance, and significance of I/O systems is also discussed in depth, and an entire chapter is devoted to the emerging architectures of multiprocessor systems.
+
+* Real Stuff provides relevant, tangible examples of how the concepts from the chapter are implemented in commercially successful products.
+* Fallacies and Pitfalls share the hard-won lessons of the authors and other designers in industry.
+* Big Pictures allow the reader to keep major insights in focus while studying the details.
+* Key terms, all fully defined in an end-of-book glossary, summarize the essential ideas introduced in the chapter.

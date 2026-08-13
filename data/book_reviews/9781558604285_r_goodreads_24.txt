@@ -1,0 +1,3 @@
+Rating: 4/5
+
+A truly solid overview of system architecture with excellent sections on history and common fallacies but also a bit of a slog at times.

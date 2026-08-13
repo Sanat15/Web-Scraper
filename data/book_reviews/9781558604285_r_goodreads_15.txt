@@ -1,0 +1,5 @@
+Rating: 5/5
+
+Great book for learning how computers work from first principles. The authors clearly break down the pieces of a microprocessor and the natural developments in computer design. I'd recommend getting the latest edition to get coverage of recent developments on TPU and GPUs for ML applications. 
+
+I only wish I would've read this sooner!

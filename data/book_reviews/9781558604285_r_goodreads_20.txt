@@ -1,0 +1,3 @@
+Rating: 5/5
+
+One of the best university textbooks I held only. Thorough thoughts on performance measure, compilation process mapping of assembly to object code file and memory mapping, instruction set design and operations... Wish I had the time to read the updated version.

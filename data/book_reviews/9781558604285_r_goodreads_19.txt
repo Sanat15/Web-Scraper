@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Read this for some introduction into RISCV and to refresh my architecture knowledge. It really delivers on the architecture side but felt that the riscv side was not so strong towards the last chapters.

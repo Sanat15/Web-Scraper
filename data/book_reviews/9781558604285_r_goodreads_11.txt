@@ -1,0 +1,30 @@
+Rating: 4/5
+
+4.0 out of 5 stars
+Very Informative, But Has Many Editing Problems
+March 18, 2005
+
+This is a tough book to review. On one hand, it's got an amazing amount of information in it. On the other, it's got a lot of editing problems. It also suffers from a lack of focus on who its audience is. So, splitting the difference, I'm rating this book at 4 stars out of 5.
+
+Regarding the book's audience, it's vital that you pay attention to the chart on page xiii of the Preface. It maps your path through the book based on whether you're a software-type or a hardware-type. Assuming I was so brilliant that I could ignore such trivia, I attempted to plow my way through the whole book. Software-type that I am, I had some tough times in a couple of sections and then utterly failed to understand anything when I hit the core of Chapter 5. If I had paid attention to that chart, I would have known to skip that part of the book. However, even for the material that's within the path laid out for you by that chart, a lot of the work seems to assume knowledge on the part of the reader. For instance:
+
+- Chapter 2 is about the MIPS assembly language. In the exercises, you're supposed to write various code snippets. Many of these snippets assume far more familiarity with writing entire assembly programs than is presented.
+- The exercises at the end of each chapter are broken into three types: regular, "For More Practice," and "In More Depth." Those last two types require far more knowledge than is presented. It looks like the authors culled them from previous editions and, instead of trashing them, just stuck them on the CD and referenced them.
+- Exercise 3.9 is annotated as requiring Section 3.2. But, unless you're very familiar with the implementation of MIPS assembly language, there's no way that someone using the material in that section alone could do the problem.
+- Exercise 3.13 is annotated as requiring Section 3.3. Yet, the question is completely undoable unless you've at least read Appendix B. Of course, Appendix B, itself, is practically indecipherable unless you've had previous experience/knowledge with Logic Design.
+- Exercises 7.21, 7.22 and 7.38 talk about "the first 1 million references in a trace of gcc." The book contains no definition of what that means. Those questions also mention the cache simulator "dinero" and say, "see the Preface of this book for information on how to obtain them." There's no such information in the Preface or on the CD. The CD does have MipsIt software which includes a cache simulator, but it doesn't seem to work reliably on my XP SP2 system (it also doesn't seem to accept those "traces" as input). That could be operator error, though. Doing a Google search pointed me to max.stanford.edu as a source of the software and traces. But, it seems you have to have a Linux system (or be smarter than me) to use them.
+- Exercise 7.35 gives a C code snippet and asks you to calculate the expected cache miss rate. There's nothing in the book about calculating expected miss rates from algorithms. Also, the exercise is assigned partially against section 7.4. Section 7.4 covers virtual memory, not caches.
+- Most of the Chapter 8 exercises are mis-referenced (i.e., they're labeled as being associated with certain sections of the chapter which have nothing to do with the question). Along with the standard problem of assuming knowledge that's not covered in the book, many of them teach new information instead of testing/re-enforcing comprehension of the provided material.
+
+There are many incorrect page number and section number references in the book. This is especially bad in the exercises where it becomes impossible to do certain ones since the code and data they're referencing isn't findable (at least easily). This problem does seem to get better as you get to the later chapters. There are also problems with basic typography. Some examples:
+
+- Exercise 3.29 wants the reader to come up with a non-restoring division algorithm based on the restoring division algorithm in Figure 3.11 on page 185. The figure and page numbers are right, but the text of the question refers to "step 3b" and "restoring the Remainder" that aren't present there. So, there's no way to figure out what the authors are doing or what they want the reader to do in the exercise.
+- Many of the tables and diagrams in the book use "color" to help indicate something important. Unfortunately, the color used is dark blue. Unless you look very carefully, there's no difference between the regular text/line color (black) and the "emphasized" version.
+- The text description of Figure 7.31 on page 544 mentions labeled sections that show differences in performance based on cache associativity. The labels are missing.
+- Exercise 7.45 gives you a C snippet that you're supposed to document. It contains "!!" as an operator. C has no such operator. My guess is it's either a logical AND, "&amp;&amp;", or a logical OR, "||".
+
+Also, the chapters are WAY too long and there are no exercises following the sections. For instance, Chapter 2 is 100 pages long over 20 sections. All the exercises (59 of them) are clumped together in the back of the chapter. The authors note the necessary section numbers with these exercises, but each section needs its own set of exercises immediately following it. This would also alleviate the problem where the authors have the wrong section numbers assigned to exercises. If these exercises were at the end of a section instead of clumped with 60 other exercises at the back of the chapter, they'd stand out more if they didn't belong.
+
+And, finally, the book needs answers to the questions.
+
+As an aside, this book is used in Florida State University's (FSU) CDA 3101: Computer Organization course.

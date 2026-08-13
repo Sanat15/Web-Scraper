@@ -1,0 +1,3 @@
+Rating: 4/5
+
+This is a good textbook, but I would recommend picking it up unless you have a lot of time (or you are studying it in a course). I started reading it because I realized my understanding for processors was ancient and wanted to update it a bit. It does go into the new and fancy stuff, but it definitely helps you get a good overview. After you've finished it, you'll have a good idea how to (conceptually) build a basic computer. Two major caveats: the writing is a bit boring and academical (to be expected out of a textbook) and it will take ages to read it. If you're interest is just casual, you might be better by picking Code by Petzold (although that is quite basic and matches my "ancient" knowledge about processors).

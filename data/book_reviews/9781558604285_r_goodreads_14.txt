@@ -1,0 +1,5 @@
+Rating: 2/5
+
+The number of tyops in this would be embarrassing in a first edition, but it's unacceptable in a second edition.
+
+Also, speculative execution attacks (e.g., spectre and meltdown) are only mentioned on half a page at the end. In 2 pages the entire problem could have been addressed in sufficient detail.

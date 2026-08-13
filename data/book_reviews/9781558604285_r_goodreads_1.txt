@@ -1,0 +1,9 @@
+Rating: 5/5
+
+I remember when I first learn computer architecture in China. The book we used is terribly complicated. I once thought computer architecture as a subject with random things to memorized. 
+
+Fortunately, I study this book years later in the US. It goes through the fundamental philosophy of computer architecture design and it gives lots of examples, pictures, and exercises to help you understand the concept.
+
+The book not only talks about simple examples, it also break the real machine down to show how the principles in the book being applied in the real world. I find that very fascinating! I also teach this subject for undergraduate students. By going through the flow of the book, the student are able to understand the fundamental principles of computer architecture. 
+
+This book is a true learner-centric textbook!

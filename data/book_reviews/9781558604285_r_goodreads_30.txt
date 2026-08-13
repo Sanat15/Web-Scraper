@@ -1,0 +1,3 @@
+Rating: 5/5
+
+The only book I referred to when I was building a RISC-V processor.

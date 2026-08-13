@@ -1,0 +1,3 @@
+Rating: 5/5
+
+Architecture opens up the black box of computing and allows us to understand how to make better use of hardware to achieve high performance computing. In some high performance scenarios, without this knowledge, only for the upper operating system or other abstraction of the operation, it is likely to achieve the desired effect, so it is highly recommended to learn this knowledge!

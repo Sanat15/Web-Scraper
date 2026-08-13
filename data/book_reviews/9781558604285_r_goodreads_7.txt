@@ -1,0 +1,8 @@
+Rating: 5/5
+
+Used this as my textbook for ECE425 - Computer Architecture and thought it explained a lot more than what the professor tried to teach. I would recommend reading this a few times before listening to the professor go over whichever topic you're covering and I'm sure it'll help you.
+
+I recommend also watching these videos throughout the course
+http://nptel.iitm.ac.in/video.php?sub...
+
+Passed Computer Architecture

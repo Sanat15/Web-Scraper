@@ -1,0 +1,5 @@
+Rating: 5/5
+
+I was surprised by how good this book was, especially considering its “college/textbook-like” structure with hundreds of exercises. Books like this can often be very verbose (as expected), with definitions that don’t always lead to practical applications—but that’s not the case here. The explanations consistently come across as relatable analogies while still maintaining depth. This book is excellent at bridging the gap between hardware and software.
+
+My favorite aspect was the DGEMM optimizations across the book: each chapter includes a discussion of how the concepts introduced in it can be used to improve overall performance. This makes it easy to see the effects of language design, compiler optimizations, data-level parallelism, instruction-level parallelism, loop unrolling, cache blocking, threading, and more on performance-critical applications. I wrote a small replica of this exercise for my own hardware: DGEMM COD:RISC-V repo
