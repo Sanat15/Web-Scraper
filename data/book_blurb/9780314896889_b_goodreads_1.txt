@@ -1,0 +1,1 @@
+A textbook emphasizing structured programming as it explains how to use the computer language BASIC to write fundamental programs. Includes vocabulary lists, learning checks, summary points, tests, and a glossary.
