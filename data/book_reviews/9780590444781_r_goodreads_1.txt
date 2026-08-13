@@ -1,0 +1,3 @@
+Rating: 5/5
+
+The first page of every book starts with a question and an answer that rhyme, this relates to the information on the next page because the answer to the question is the bug that will be discussed. The description of the bug has a diagram that labels the different parts of the bug, then underneath there is a paragraph that goes into more detail.
