@@ -1,0 +1,3 @@
+Rating: 4/5
+
+This is a time capsule from early cognitive science, full of GOFAI architectures, neural nets, and robot stories that try to reverse-engineer what a mind is. It is strongest when it just explains these systems clearly and lets you see how many different technical routes people have taken toward mindlike behavior. The book feels dated now in terms of specific models, but that also makes it a useful reality check on how fast fashionable theories come and go in AI. As a philosopher, you come away with fewer big slogans and more respect for the messy engineering that any serious theory of mind has to talk to.

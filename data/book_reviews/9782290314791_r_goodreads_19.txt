@@ -1,0 +1,66 @@
+mannyrayner: Write a passage from a verse drama in German, parodying the initial monologue from Goethe's "Faust" and replacing the Faust character with Elon Musk.
+
+ChatGPT: "In diesem Augenblick denke ich, was ich denke,
+Und bin der Meister, der sein Schicksal lenkt.
+Doch plötzlich fühle ich mich klein und schwach,
+Verdammt zu leben in ewiger Qual.
+
+Ich bin Elon Musk, der Gründer von Tesla,
+Doch selbst mein Erfolg kann mich nicht erfüllen.
+Ich suche nach dem Sinn des Lebens,
+Nach Erkenntnis, Macht und unendlicher Gewinn.
+
+Ich bin bereit, alles zu riskieren,
+Um meine Träume zu verwirklichen.
+Doch in meiner Sehnsucht nach dem Höchsten,
+Bin ich bereit, auch mit dem Teufel zu paktieren."
+
+mannyrayner: Now write another passage in a similar style, where Faust/Musk is tempted by Mephistopheles.
+
+ChatGPT: "Ich bin verzweifelt, Mephistopheles,
+In meinem Streben nach Erfüllung gefangen.
+Doch du bietest mir einen Pakt an,
+Eine Chance, meine Wünsche zu erlangen.
+
+Ich bin Elon Musk, doch ich fühle mich leer,
+Mein Ruhm und mein Reichtum sind nicht genug.
+Doch du versprichst mir Macht und Erkenntnis,
+Wenn ich nur bereit bin, einen Preis zu zahlen.
+
+Ich bin versucht, Mephistopheles,
+Doch ich fürchte, was auf dem Spiel steht.
+Kann ich meine Seele verkaufen,
+Um meine Träume zu verwirklichen?
+
+Doch die Versuchung ist zu groß,
+Ich will alles haben, was das Leben zu bieten hat.
+Ich bin bereit, den Pakt einzugehen,
+Mephistopheles, führe mich in mein Schicksal."
+_____________________
+
+Even I can tell that this is not a very good parody of Goethe. But kudos to ChatGPT for tentatively nibbling the hand that feeds it.
+_____________________
+
+ChatGPT now includes a feature which lets you go back to an earlier conversation and continue it. I used this to add a third section to the poem, this time describing the sad ending:
+
+"Es ist vorbei, Mephistopheles,
+Meine Zeit ist abgelaufen.
+Ich bin bereit, meine Seele zu verlieren,
+Um meine Träume zu verwirklichen.
+
+Doch nun, in meinem letzten Augenblick,
+Erkenne ich den Preis, den ich bezahle.
+Ich bin in der Hölle, für immer gefangen,
+Verdammt zu leiden in ewiger Qual.
+
+Ich bin Elon Musk, doch mein Ruhm ist vergessen,
+Mein Reichtum bedeutet nichts in diesem Ort der Pein.
+Ich bereue, Mephistopheles,
+Ich bereue, meine Seele verkauft zu haben.
+
+Ich hätte niemals Twitter kaufen sollen,
+Es hat mich in diese Hölle gebracht.
+Meine Träume sind zerstört, mein Schicksal besiegelt,
+Ich bin verdammt, für immer in der Finsternis zu bleiben."
+
+I quite like "Ich hätte niemals Twitter kaufen sollen / Es hat mich in diese Hölle gebracht." Chat, keep on nibbling!

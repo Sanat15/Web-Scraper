@@ -1,0 +1,3 @@
+Rating: 3/5
+
+Design templates with explanations about what works and why.
