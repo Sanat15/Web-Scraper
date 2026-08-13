@@ -1,0 +1,13 @@
+The original blurb stated: 
+
+"The only book in the market that focuses on tips and techniques that allow the reader to more effectively use the resources of the Internet.
+-- Explains search techniques and the use of kill files to filter information
+-- Features interviews with various Internet leaders
+-- Offers tips, strategies, and techniques for optimizing the use of the Internet"
+
+This was sorta true in 1994, and now the book's diverse assortment of tricks for the net's earliest public applications is of mostly historical interest.  Of particular note are some of the interviews, conducted by Tod Foley, of 90s-era internet luminaries including Mitchell Porter, Patrick Kroupa (aka Lord Digital), Nathaniel Borenstein, James Parry, Paco Xander Nathan, Fred Barrie and Steven Foster, and the WELL's Gail Ann Williams.
+
+Foreward by James "Kibo" Parry.
+
+Full text now available online: 
+http://rtfm.vtt.net/gurus/httoc.htm
