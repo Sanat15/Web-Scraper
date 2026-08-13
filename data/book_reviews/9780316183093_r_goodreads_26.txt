@@ -1,0 +1,9 @@
+Rating: 2/5
+
+Chapter 8: "Iron-56 is the most tightly bound nucleus in nature."
+No, it's not. It isn't even the second most tightly bound.
+http://hyperphysics.phy-astr.gsu.edu/...
+
+Chapter 19: "The effect of objects separating faster than the speed of light is that one object becomes invisible to the other ..."
+No. https://arxiv.org/abs/astro-ph/0310808
+The cosmic microwave background is receding at 3.2 times the speed of light and it is still visible.

@@ -1,0 +1,1 @@
+Arranged by task to allow for quick answers, this collection of programming tips and solutions covers all versions of Windows, including Chicago, and discusses User, Kernel, GDI, FONTS, and printing. Original. (Intermediate).
