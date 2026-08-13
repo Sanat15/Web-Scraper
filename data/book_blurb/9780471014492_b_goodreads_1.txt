@@ -1,0 +1,12 @@
+A step-by-step guide to creating comprehensive and usable technical indexes. Numerous surveys indicate that the most common complaint about technical documents concern a poorly designed index--or the lack of an index altogether! An organized, thoughtful index not only ensures that the contents of your book are accessible, but also increases the value of your book. In The Art of Indexing, professional indexer and editorial consultant Larry Bonura addresses the indexing problems specific to technical documentation and presents practical solutions to those problems. The Art of Indexing shows technical writers, editors, and documentation managers how to chart the topics of their books, reports, and documents and present a concise and accurate map that readers, researchers, libraries, bookstores, and reviewers can use to maximize the usefulness of their book. Step-by-step, The Art of Indexing shows you how to become a better indexer 
+* Discussing the function of an index
+* Showing how to estimate indexing time
+* Presenting methods for selecting entries and subentries
+* Reviewing reasons for cross-referencing
+* Describing how to treat locators
+* Offering an extensive editing checklist for reviewing indexes
+* Covering indexing for online documents
+* Including numerous usability tests for verifying the strength of an index
+* Containing information on indexing standards
+* Providing sample indexes and a sample indexing style guide
+* And much more!
