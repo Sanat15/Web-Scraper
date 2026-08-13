@@ -1,0 +1,94 @@
+Rating: 4/5
+
+1 - Darwinism Not NeoDarwinism
+- does not agree that mutations are sufficient to allow new species to be created - 99.9% of mutations are deleterious
+- symbiosis is the living together of two organisms
+- long term stable symbiosis that leads to evolutionary change is symbiogenesis
+- in a phylogenetic tree, the fusing of branches is anastomsis
+- most animals host symbiotic bacteria and other animals, often depending upon them
+- organisms would be better thought of as communities
+
+2 - Darwin's Dilemma
+- the Grant's study of Galapagos finches showed environmental pressures producing a 6% change in beaks, but the six species show a variation of 15%
+- the minimal unit of life is the cell - all microbes are composed of cells
+- the least complex cell, a bacterium, has about 500 genes
+- viruses are not alive - outside of a cell they behave as a chemical
+- new species are formed by the acquisition of genes
+- Stuart Kauffman in his book "Investigations" proposes that thermodynamics is consistent with the formation of life
+- life is thermodynamic
+
+3 - Relative Individuality
+- life is organized into communities
+- the prokaryotes have cells without a nucleus - these are the bacteria
+- the eukaryotes have cells with nuclei, and are the protoctists (algae, amoebas, ciliates, slime molds), fungi, plants and animals
+- bacteria do not have species - speciation is a property of nucleated organisms
+- two examples of eukaryotes that harbor bacteria and cannot live without them
+
+4 - The Natural Selector
+- Darwin suggested that species arose not from the physical environment, but from competition with other organisms
+- Gaia is the theory of the living planet
+- Biota refers to all living organisms
+ - Gaia is the natural selector
+
+5 - Principles of Evolutionary Novelty
+- mutation rarely produces new species - generally produces deficient life forms
+- the rapid acquisition of traits be acquisition and integration of former strangers confers immediate selective advantages on organisms
+- the only laboratory example of the creation of a new species is the infection of amoebas by bacteria
+- organisms gain traits by the accumulation of viruses or plasmids
+- long pieces of DNA are acquired by bacterial mating and sexual mating
+
+6 - Species and Cells
+- no one has detected the gradual change of one species into another 
+- animals have one mode of metabolism - oxygen fixation
+- plants have two - oxygen and carbon dioxide fixation
+- bacteria are the main repository of evolutionary diversity
+- bacteria have about 20 different modes of metabolism
+
+7 - History of the Heritable
+- examples of associations, including legumes where the bacteria produce heme and the plant produces globin - the resulting hemoglobin is used to transport oxygen away from the nitrogen fixing bacteria
+- long story on fungal farming by termites
+
+8 - Gaian Planet
+- Vladimir Vernadsky brought the term biosphere into common use, writing a book "Biosphere"
+- James Lovelock, a chemist, introduced the Gaia hypothesis which considers life and the environment as a tightly couple single system
+- Lovelock recognized that the earth's atmospheric chemistry - mean temperature, alkalinity, and ocean salinity - are regulated by life
+- the personification of Gaia is an aid to understanding
+- the first bacteria formed 4000 MYA at the beginning of the Archean eon
+- the buildup of oxygen started at the Proterozoic eon 2500 MYA - oxygen became plentiful by 1800 MYA
+- the Proterozoic eon was the eon of bacteria and protoctists
+- animal life formed 540 MYA in the Cambrian eon
+
+9 - Eukaryosis in an Anoxic World
+- eukaryosis is the transition from bacteria to eukaryotes
+- bacteria are not really speciated - they change over time
+- Margulis believes that the proctists that live in sulphur rich mud and in the intestines of animals are representative of the earliest eukaryotes - they cannot metabolize oxygen, they do not reproduce sexually, but they are speciated
+- the nucleus probably evolved from "consortia" bacteria - bacteria living with and inside other bacteria
+- believes that eukaryotes arose from the merger of an archaebacterium with a eubacterium - the proposed process is detailed
+
+10 - Seaworthy Alliances
+- Donal Williamson believes that larval transfer occurs in the larvae of sea life
+- among sea life, very different adults can have nearly identical larvae while some closely related adults have very different larvae
+- Williamson believes that matings (often sperm over eggs in water) between very different species occurs
+- he has witnessed mating of a sea urchin with a cordate
+- he posits that larval genes for the moths and butterflies came from the velvet worm (Peripatus) - hence the similarity of all caterpillars
+- examples of animals that eat other animals but retain nematocysts or chloroplasts
+- the story of the squid Euprymna scoleps which has an organ that obtains and stores a specific glowing bacteria
+- Richard Fortey has found evidence that the Olenid trilobites lived in oxygen poor environments and farmed carbon dioxide fixing bacteria
+
+11 - Plant Proclivities
+- higher plants and animals cannot get nitrogen from the air, and have had to make use of nitrogen fixing bacteria
+- Gunnera maintains colonies of cyanobacteria for fertilization
+- all cycads are symbiotic with nitrogen fixing bacteria
+
+12 - Chromosome Dance: The Fission Theory
+- closely related species should have similar karyotypes - but not always - the 8 species of muntjacs have chromosome numbers that vary from 3 to 23 pairs
+- Neil Todd's Karoyotypic Fission Theory proposes that occasionally all the chromosomes split, forming a new line in an animal
+- this can be seen in the lemurs where each family has a different number of chromosomes
+- Chromosome fusion is also a process, reducing the number of chromosomes
+- the tendency of chromosomes to break, regroup and change probably reflects their past free living states
+
+13 - Darwin Revisited: Species in the Evolutionary Dialogue
+- summary
+- the rhodospin used in the eye to sense light dates back to archaebacteria that use the same molecule to generate energy from light
+
+The human body is made up of about 6 trillion cells, but there are about 100 trillion bacterial cells on it.
