@@ -1,0 +1,1 @@
+Introduces the computer programming concepts necessary to work with interrupts, ports, speed matching, sampling theorems, filters, feedback, multiplexing, and servomechanisms
