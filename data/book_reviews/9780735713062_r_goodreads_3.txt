@@ -1,0 +1,11 @@
+Rating: 4/5
+
+If you struggle managing an extensive amount of content in your enterprise, this book is for you. The authors designed the book to give readers the big picture of what it requires to manage enterprise content. 
+
+“Managing Enterprise Content” is a good starting point for every professional who plans to design a unified content strategy. The authors cover topics such as intelligent content, workflows, change management, and technical requirements.
+
+What I like most about the book is its easy language. Although some topics are somewhat technical, it is not “tech” and each chapter has a few examples. 
+
+One weak point: I found the book description was misleading. The cover text suggests that the book is all about implementing, designing, or developing. But I do not consider the book to be a how-to guide. Instead, it is a reference book for understanding the whole idea of enterprise content management and the principles for implementing a holistic strategy.
+
+Rockley &amp; Cooper share their expert knowledge to a “first user” audience. If you prepare yourself with some content strategy basics, then this book is an enhanced read. I enjoyed it.

@@ -1,0 +1,3 @@
+Rating: 3/5
+
+Un libro para escritura técnica. La estructura es algo confusa, pero provee buenos recursos para aprender a hacer single-sourcing y hacer modelos de contenidos. Es bastante técnico, así que los neófitos deberán tener algún libro de referencia al lado.

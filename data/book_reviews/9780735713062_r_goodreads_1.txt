@@ -1,0 +1,5 @@
+Rating: 3/5
+
+I have been fortunate to attend a couple webinars of the author, Ann Rockley and have found her knowledge and expertise of content management top notch. This book is a great primer for an author or authoring team who is undergoing (or better yet preparing for) the leap into a truly extensible content management system and philosophy. 
+
+That said, I was hoping to find more in the way of working examples. If you have already dove into this kind of authoring, this book provides a great road map of many of the issues you have already faced, hurdled, and duly noted. I found myself nodding my head, identifying, and agreeing with much of what I read. I just wish it had more about the best methods for “doing” rather than the “planning and preparedness.” At some point you need to produce content based on that planning.

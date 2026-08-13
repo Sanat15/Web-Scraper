@@ -1,0 +1,14 @@
+Rating: 3/5
+
+useful tips:
+-use non-breaking spaces between words to preserve key phrases
+-avoid exclamation marks
+-use blue for unvisited links, purple for visited links
+-if a link does anything other than go to another web page (pdf, audio, video), explicitly indicate what will happen
+-don't put horizontal nav above the banner ("banner blindness")
+-don't include active link to homepage on the homepage
+-all pages other than homepage should have the logo be a clickable link to homepage
+-don't give up valuable homepage real estate welcoming users - use for a tag line instead
+-decorating with holiday graphics can make the website more appealing to users. timing is critical (avoid putting up early or leaving up after holiday)
+-spell out month or use month abbreviation, instead of using numbers for dates (Jan 2, 2003 vs. 01/02/03)
+-include a search box, white background, 30 chars, "Search" button

@@ -1,0 +1,9 @@
+Rating: 2/5
+
+At first I thought this book would be inspiring and informative. Although some of the statistical data was useful, overall I found this book to be stifling. As a student of web design, I found it bothersome how the authors stamped out every notion of creativity. They insult the intelligence of present-day internet users and suggest an almost "template" approach to web design. As they deconstructed sites, I found their suggestions to be petty and/or picky. For example, they suggest that every page should place the logo in the upperleft corner. Or, they would criticize wording for being "overly cutesy" or "too clever."
+
+Although I think it is important for webpages to have worthy content and logical navigation, the authors of this book regard visual appeal as something frivilous. I would challenge that the viewing public do in fact have a large visual vocabulary and are capable of consuming and understanding different visual forms. We see this in the areas of advertising and industrial design, with the success of fresh, unpredictable campaigns and product lines.
+
+I think this book provides some limited insight, but after the first 40 or so pages, the stringent guidlines become overbearing.
+
+Curiously, I wonder how Nielsen's site, useit.com, would survive a deconstruction? The site is jam-packed with words, and the space is too unified without any visual elements to break it up. I didn't have the patience to scan through it at all.

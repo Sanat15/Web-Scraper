@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Essential read for anyone researching corporate content restructuring strategies. I read this about a year before launching into a CMS and DITA authoring research project at work. We're mid-implementation now, and I keep coming back to Rockley to remind myself why we started down this path.
