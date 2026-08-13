@@ -1,0 +1,17 @@
+Rating: 5/5
+
+This book is a very vast overview of the history of science and technology. At the core, though, is the author's philosophy that scientific progress is made not in giant quantum leaps, but by a fine network of interconnected incremental breakthroughs that lead to each other in unexpected ways. What's interesting is that this network spans not only the field of science, but finance, sociology, the arts, and warfare.
+
+He starts with the great blackout of 1965. From there, he discusses the centrality of technology to our lives, starting with the invention of the plough in ancient Egypt, and how the increase in agricultural output and the freeing up of human capital led to other inventions such as granaries, pottery, writing systems, mathematics, astronomy, canal building, stone construction, and so on. The next chapter follows the same theme, moving from gold refining to coinage, to the spice trade, to seafaring, to navigation, to astronomy, to sail technology, to timekeeping, to the magnetic compass, to magnetism and electricity, to meteorology, to the cloud chamber, to radiation, and finally to the atomic bomb. (Being originally published in the 1970s, concern over nuclear winter comes up often in this book.) The book continues in this fashion, covering a huge range of fascinating topics.
+
+Incidentally, this book reminds me of Sid Meier's classic game Civilization which I used to love to play, and the tree of technologies you can make your civilization discover. I was reminded of this recently by an article by Kanishk Tharoor in the magazine Kill Screen. You can find the article here: https://longreads.com/2016/10/26/what....
+
+The historical content is very similar to many of the other history of science books I've read, but of course, James Burke must be given credit for being one of the first to discuss the history of science in this way. Besides, many of the historical facts covered were actually new to me. For example, when he discusses artificial fertilizer, I was familiar with Fritz Haber's process from Thomas Hager's excellent book, Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World But Fueled the Rise of Hitler, but Burke goes beyond that to discuss how Haber and Bosch were superseded by the discovery of calcium cyanamide by Frank and Caro. I didn't know that from Hager's book. Hager does mention it in passing, but the impression I get was that Haber's process was the dominating technology. Anyways, all this goes to show that there is quite a bit of original content in this book. The book's discussion on military technology was also mostly new to me.
+
+The only major weakness of this book is the author's writing style - he seems to say a lot "a man called..." instead of "a man named...", and other such awkward phrases. And he also gave me one of my all-time favourite corporate gobbledygook quotes:
+
+“Last but not least, knowledge mapping's contextualizing capability facilitates community-wide consensual innovation assessment.”
+
+He would make George Orwell proud! (see Politics and the English Language)
+
+Overall, as good as a history of science as any that covers many obscure topics you might not otherwise find elsewhere, held together by a very interesting philosophy of technological innovation and progress.
