@@ -1,0 +1,3 @@
+Rating: 2/5
+
+The stories of many famous software bugs and bug-prone systems: the Therac-25 radiation machine that killed patients, the crash-prone Airbus, the Patriot missile battery that missed Iraqi SCUDs because of an insufficiently accurate internal clock. Computer safety expert Nancy Leveson is quoted many times; I took her class in 1998 (and told her of the most bizarre bug I had introduced up to then) and recommend her book Safeware over this one. One small correction: Velvel is not a childhood nickname of William Kahan, but simply the Yiddish variant of his name.

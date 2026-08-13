@@ -1,0 +1,3 @@
+Rating: 4/5
+
+Para aprender la parte básica de la programación Web en lenguaje Java. Explica claramente que es un Servlet y la diferencia con un JSP. Buen libro para iniciar con esto.

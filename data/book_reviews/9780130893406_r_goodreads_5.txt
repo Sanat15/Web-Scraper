@@ -1,0 +1,3 @@
+Rating: 3/5
+
+Good in terms of servlets, JSPs are quite legacy now

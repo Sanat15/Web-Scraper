@@ -1,0 +1,3 @@
+Rating: 4/5
+
+This book is more software engineering oriented than software bug stories. Good insight, a little dated.

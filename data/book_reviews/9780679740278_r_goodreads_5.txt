@@ -1,0 +1,3 @@
+Rating: 5/5
+
+Ivars Peterson quickly guides us through what was painstaking drudgery to discover the tiny errors costing lives, lots of money and confidence in trusted systems. We see how bright and hard-working people make deadly mistakes. He takes us to the door of the consortium, of which he is a member, that for years has struggled with the sticky problem of debugging code before the bugs bring down a system. Entertaining and frightening because it is true. Take it from the expert.

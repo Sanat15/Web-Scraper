@@ -1,0 +1,3 @@
+Rating: 3/5
+
+I learned that Java is hard. Web security with Java is even more difficult.

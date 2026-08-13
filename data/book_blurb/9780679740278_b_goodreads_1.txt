@@ -1,0 +1,5 @@
+An airplane crashes, killing eighty-seven passengers. A cancer patient receives a fatal dose of radiation from a machine designed to be foolproof. The ATMs at a New York bank debit customers twice their actual withdrawals, resulting in a loss of millions of dollars. In every case, the culprit was a computer bug, a software error or design defect that may escape detection until it erupts into the real world with sometimes catastrophic results.
+
+This arresting and at times terrifying book tells us just how prevalent these defects are and how they are multiplying as computers become more sophisticated and more deeply embedded in our daily lives. It is also a riveting portrait of the men and women who find and "exterminate" those bugs, whether they occur in pocket calculators or nuclear reactors.
+
+Fatal Defect reveals what you should know about the computers in our lives. Read it before you buy a computer, use a cash machine, or book an airplane flight. Then pray that one of its real-life heroes was on the job.

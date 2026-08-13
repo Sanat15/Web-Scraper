@@ -1,0 +1,1 @@
+A guide for users familiar with the programming language explains how to create Web applications with server-side Java, covering servlets, CGI, ASPs, installation, configuration, debugging, HTML form basics, cookies, and session tracking.
