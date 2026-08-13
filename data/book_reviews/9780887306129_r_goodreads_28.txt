@@ -1,0 +1,10 @@
+Rating: 3/5
+
+The Effective Executive is filled with good advice. Peter Ducker predicts the importance of knowledge workers and recognizes that everyone will become an "executive" (as he defines it). The advice in this book is useful to most anyone working in a modern company.
+
+Alas, there are two problems with the book that stop me from full-heartedly recommending this book:
+
+* It's dated, and it shows. There's a lot of repetition and flowery language.
+* I've already read "The Effective Engineer" (one of my favorite books of 2016), which builds upon the concept of "effectiveness."
+
+In the end, I liked this book by Peter Drucker, but just barely. If you're a software engineer, go read "The Effective Engineer" instead. If you're not, then this book might be worth a read, depending on how fast you become annoyed with dated language 🙂.
