@@ -1,0 +1,1 @@
+Surveys current research in artificial intelligence, describes the difficulties of enabling computers to learn, understand, and reason, and examines ethical issues related to AI
