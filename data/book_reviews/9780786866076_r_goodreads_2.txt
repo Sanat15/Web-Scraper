@@ -1,0 +1,3 @@
+Rating: 5/5
+
+This book explains the origins of fingerprinting, from early researchers to the court cases that first accepted it as a form of evidence. I picked up several stories that I will incorporate into the forensics class that I teach, so it was a great book for me. A theme of the narrative that I found particularly interesting was Henry Faulds, a pioneer in fingerprint research who was deliberately overlooked and not given credit for his work, a snubbing primarily perpetrated by Sir Francis Galton, the nephew of Charles Darwin. Only posthumously did two American fingerprint experts uncover his significant contributions.
