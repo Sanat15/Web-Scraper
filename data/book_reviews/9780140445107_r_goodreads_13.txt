@@ -1,0 +1,51 @@
+Rating: 3/5
+
+This was about as exciting as reading through a dictionary. But there might be some truth to this, because I think Rhetoric would make a great handbook or guide to someone interested in countering their opponents’ arguments with rhetoric. I am imagining something like a dictionary, with the opponent’s argument stated in bold, and Aristotle’s advice on how to respond stated under that entry. As an exercise in reading from cover to cover, however, this book is frustrating, though occasionally insightful. So I will present a review that is as fragmented and unreadable as Rhetoric itself, but hopefully also a little insightful.
+
+For myself, I believe in Socrates’ privileging of philosophy over rhetoric in the Phaedrus. So I was probably not the target audience for this book. But I can still note that the book is weakened by the pointless digressions into defining qualities like the good, etc. which Aristotle already defines in much better ways in Ethics and Politics. This really takes away from the quality of this book.
+
+But even Aristotle recognises that rhetoric can be wrongful and misleading at times. He chooses to neutrally blame this on the “quality” of the listeners, thus saving the rhetorician from all blame.
+
+This book is interesting from a legal perspective, because Aristotle seems to believe in some form of legal formalism — 
+
+Now, it is of great moment that well-drawn laws should themselves define all the points they possibly can and leave as few as may be to the decision of the judges
+
+But later he upholds a Natural Law Theory perspective (after all, Classical Natural Law Theory was put forward by Aquinas who studied Aristotle in depth)— 
+
+Universal law is the law of nature. For there really is, as everyone to some extent divines, a natural justice and injustice that is common to all, even to those who have no association or covenant with each other.
+
+In fact, I can see much of his language, like the definitions of “voluntariness” and “knowledge”, reflected in the Indian Penal Code. This is likely, considering that Macaulay who drafted the Code was a very well-read individual with knowledge of the ancient Greeks. 
+
+Aristotle does, however, conflict with Macaulay by making adultery a “private” wrong (a wrong against some definite person — obviously the husband as per Aristotle). Not sure if I’m reading him correctly, but a private wrong is also not a crime, as crimes must be public wrongs. It is unlikely that Aristotle decriminalised adultery, but his passage does read that way if we take into account the private vs public wrongs aspect of criminal theory.
+
+Another interesting aspect is the equation of inductive reasoning with examples, and of deductive reasoning with enthymemes (a word I had to look up within the first 3 pages of this book). 
+
+Aristotle and the pursuit of happiness — 
+
+It may be said that every individual man and all men in common aim at a certain end which determines what they choose and what they avoid. This end, to sum it up briefly, is happiness and its constituents.
+
+In another paragraph, while discussing the excellences of humans, Aristotle places “self-command” as one of the excellences that women can possess. This seems to conflict with his popular image as a traditionalist-misogynist, at least in comparison to Plato, who was more progressive on the question of gender equality. 
+
+However, in many of his sentences, I can’t help but feel like he is just plain wrong. For example, he writes — 
+
+All such good things as excite envy are, as a class, the outcome of good luck.
+
+This assumes that merited things cannot excite envy in others. I think they can. If someone works harder than us and becomes more successful, we can still feel envious towards them (though if only through our own ignorance). Later, he writes — 
+
+That which is praised is good, since no one praises what is not good.
+
+This is laughably wrong and goes against the entire philosophical objective of finding the unpopular moral good and reeducating citizens of said good. Yet again, he writes — 
+
+Thus, if the tallest man is taller than the tallest women, then men in general are taller than women.
+
+Aristotle thinks that this is a deduction. I fail to see how this can be valid. The difference in height of the extremes cannot lead to a “general” deduction for the mean. 
+
+Excellence is greater than non-excellence, badness than non-badness; for excellence, goodness and badness are ends, which the mere absence of them cannot be.
+
+Interesting perspective, but I don’t understand how badness can ever be better than non-badness — and how is non-badness different from good? If non-badness connotes neutrality, neutrality is still better than badness, whether or not it is an “end” in itself (whatever that means).
+
+Aristotle’s definition of pleasure contradicts the first noble truth, something that I also noted in his De Anima— 
+
+We may lay it down that pleasure is a movement, a movement by which the soul as a whole is consciously brought into its normal state of being; and that pain is the opposite.
+
+In this paragraph, he makes “pleasure” the default mode of human experience. The Buddha instead makes suffering the default position. Could this be like the glass half-full or half-empty problem? I don’t think so, because the Buddha takes a more nuanced view of suffering as feeling lack, desire, incompleteness, etc.
