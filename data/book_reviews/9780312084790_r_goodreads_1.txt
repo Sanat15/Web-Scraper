@@ -1,0 +1,13 @@
+Rating: 3/5
+
+This book is best for the examples and exercises. My favorite (from a discussion of Amphiboly):
+
+"Dog for sale. Will eat anything. Especially fond of children."
+
+Main weaknesses were:
+
+1. Organization: In general, Irving Copi's presentation is better organized. For example, Engel divides disagreements into genuine and linguistic disagreements. Copi very helpfully adds a third category: apparently linguistic disagreements. Engel's oddly subsumes this category under "linguistic disagreements."
+
+2. Many introductory logic books, Engel's included, give the impression that arguments are conducted merely by flagging down fallacies. I call amphiboly! ... Caught you using the Fallacy of Accent! ... Ha! You just asked a Complex Question! This may be how exercises in logic books work. But in the real world you don't defeat arguments by announcing their fallaciousness. You have to argue for their fallaciousness, like you have to argue for everything else. A nice two-paragraph warning here would have been helpful.
+
+3. I could have done without the cheap shots at Christianity. "I am the way, the truth, and the life" is not an example of fallacious personification. It is a figure of speech and a rather striking one at that. If you can't get this, then, well, you probably spend too much time reading boring logic books and need to get out more. And that last sentence isn't an example of poisoning the well.

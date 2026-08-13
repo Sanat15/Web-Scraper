@@ -1,0 +1,15 @@
+Rating: 3/5
+
+A classic textbook, but a little dated.
+
+This is a model example of a good textbook. It includes informative text, thought provoking questions, answers and even cartoons which illustrates its themes. It also presents a good set of historical examples of ambiguities and assumptions from the events of ancient Greece to examples from UK and US politics.
+
+The book is in its sixth edition, so it has largely worked out and improved issues involving the expression and sequencing of ideas. Nevertheless, there were a couple of places in the book where revision might aid clarity. For example on page 35 the language of ‘truth, validity and soundness’ is introduced, but those terms only apply to Deductive arguments. Inductive arguments are not introduced until p43, where a slightly different terminology is then explained. It would be helpful to flag up to students on the earlier p35 that there are limitations in the application of what is being described as the terminology of argument.
+
+Although the coverage of examples in the book is commendable and mixes informative historical examples with humorous ones, there is an arguable over-emphasis upon Anglo American examples. This is a shame because there are some interesting examples of biases and prejudices in the leaders of other nations. For example, Napoleon dismissed steam power for ships because he was so convinced that a ship could not sail against the tide. Similarly, Hitler arguably missed out on developing Nuclear weapons because of his prejudice against Jewish scientists.
+
+Another area where there was a slight inconsistency was in the reference to Latin names for fallacies. Most examples were included but there were occasional omissions (such as petitio principii for ‘begging the question’). 
+
+One of the problems raised by this particular edition of the book is its age. This is not a mistake or error in the book itself, but it is a recognition that a lot of interesting developments have occurred in world politics over the last 25 years, since this edition of the book was published (eg Donald Trump, Brexit, etc). There have also been significant increases in issues surrounding fake news, pseudo science and medicine (etc). Modern courses on logic often include up-to-date examples from those contexts, but clearly the age of this book means that they cannot be included in it.
+
+Overall this is an informative and useful book for class use, or for use by individual readers, as it gives a good generic introduction to the main types of fallacies. Where it is less useful is in identifying specific examples of how fallacies are occurring in the modern discourse of science and politics.
