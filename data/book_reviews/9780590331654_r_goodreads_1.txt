@@ -1,0 +1,13 @@
+Rating: 4/5
+
+You are codenamed Orion, and you are in a book series written in the second person. Even though you are in middle school, you are secretly an agent for ACT - the Adventure Connection Team, which sends you and your teammates on dangerous and exciting missions. Your specialty is computers, and periodically you are prompted by the book to boot up your IBM PC, Commodore 64, or any other 1980s home microcomputer, and type in a program written in BASIC in order to solve a problem, play a minigame, etc. (These programs are detailed in the appendix, which explains how they work, walks you through a troubleshooting process if one of the tasks involved fixing an error, etc.) Alternatively, you can skip the programs entirely and just read about your adventures.
+
+This is a really fun series, and you wish you could find a current equivalent that features Java, bash, Javascript, Python, etc., but you have never yet found one. (If you do find it, you will please mention it in the comments of this review, and receive thanks).
+
+DS#1 (age 6/7) thinks the series is great, despite not having a place to try out the programs. However, you've just now found a website that has the text of many of the books as well as an online window to type in and execute the BASIC programs. This saves you the trouble of figuring out exactly why the C64 emulator you downloaded is giving you a 0xc0000022 error message. (*)
+
+Website is here: http://microadventure.net/
+
+"Space Attack" is also available as a PDF from archive.org : https://archive.org/details/tibook_mi...
+
+(*) You looked into it anyway and found out it was due to weird file permission error. Moving the directory which contained the emulator to the desktop fixed the problem.
