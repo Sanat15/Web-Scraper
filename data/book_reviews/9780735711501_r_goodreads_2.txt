@@ -1,0 +1,8 @@
+Rating: 2/5
+
+This book covers several useful topics related to accessibility but in a very tedious way. 
+
+Summary: 
+- Use alt and title in all media elements like img, object, applet (does anyone still use it?), or any other thing, including inputs. 
+- Use HTML property: accesskey.
+- Use HTML property: accesstab
