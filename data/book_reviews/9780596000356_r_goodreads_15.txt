@@ -1,0 +1,15 @@
+Rating: 4/5
+
+Architecture for the World Wide Web by Peter Morville and Louis Rosenfeld
+
+This book is an introductory text on information architecture for the internet. The information in this book clarified and defined many ideas from this emerging profession. It is quite relevant to librarians. According to this book 40% of information architects come from a library science background.
+
+Many of the concepts that were being described came right out of library school. I remember reading about search engines, indexes, and classification in my cataloging class. This book takes it one step further and describes how information on the web is turned into metadata, controlled vocabularies, and labeling systems. It also describes how indexes and search engines are designed.
+
+It is more than just information systems, it is also the language of the nonvisible parts of websites. It describes things which a chief information officer or a senior developer might talk about; web blueprints, taxonomy, wireframes, and content maps. This is the planned architecture of enterprise websites.
+
+The reader also learns the vocabulary and professional interests in education, strategy, and selling the profession. Reading this was eye opening. It gave me a description of how enterprise websites are created like evolt.org or the MSWeb intranet.
+
+After reading this, I am beginning to get a context of how complex websites are put together. There is the content strategist who puts in all the different kinds of content in the site, and the information architect who creates the framework on which an enterprise website is built..
+
+This was an incredibly useful book. It helped me understand the internet in ways which I had not done before. I would highly recommend this to people who are interested in technology.

@@ -1,0 +1,7 @@
+Rating: 3/5
+
+How do users find and understand information? How should designers label, organize, and design information?
+
+These are the primary questions this book answers. Some of the information is definitely out of date, but the metaphors helped carry things along. I found much to be helpful and applicable to my current understanding of research, design, and engineering, just from a slightly different point of view. 
+
+Quite long. Could’ve been condensed done a bit. There were quite a few times I felt like we were getting stuck in the weeds. Overall decent read and introduction to IA from both the user’s and designer/engineer POV.

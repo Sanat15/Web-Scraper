@@ -1,0 +1,5 @@
+Rating: 4/5
+
+Well deserves its status as a classic in the field. A very good overview to get you started when it comes to building good IA.
+The books starts off stronger than it ends, with much of the third section being mere one-off examples of good work, rather than solid descriptions of what's good with multiple examples showing different approaches. Also, I found a fair amount of the information to be intuitive, and have been performing a lot of the actions on my own for quite some time. It was reassuring to know that I've been getting at least some things "right."
+I did find it wordy at times, but that is a common fault, in the vast majority of technical books. I wonder whether publishers think they can charge double by making a book 30% longer.

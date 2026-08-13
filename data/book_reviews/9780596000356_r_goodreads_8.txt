@@ -1,0 +1,7 @@
+Rating: 4/5
+
+Pretty great book about information architecture. If you build websites and don't know what information architecture is, I'd recommend reading it.
+
+Some of the info is really about what to do if you're an information architect, dealing with company politics, budgets, etc. If you only work on very small projects, or if you're the primary decision maker, you could probably skim all of that stuff. Most of the meat of this book is early on.
+
+The only reason I'm not gonna give this book 5 stars is because is not as brief as it could be, but i guess thats not really what its for. While nearly anyone who does websites should be able to pick up this book and take a lot away from it, it's targeted to a much smaller audience - budding information architects.

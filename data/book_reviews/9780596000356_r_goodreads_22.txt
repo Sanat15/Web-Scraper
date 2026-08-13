@@ -1,0 +1,9 @@
+Rating: 5/5
+
+A great book for everyone with an interest in information architecture as it pertains to web design, but also works great as an introduction to a lot to do with information handling an librarianship.
+The last part has a lot of practical advice on how to use the knowledge gained in the first parts of the book to actually get to work building the information architecture. I'm not currently about to do that, so I can't vouch for how useful it in reality, but I appreciate them getting into the details of how to get buy-in from colleagues and bosses and how to get feedback from the end users. And it doesn't shy away from saying things like "in our experience, three people working together is much better than a large group of ten, which is only a good size for brainstorming session".
+
+A minor quibble is that there are many screenshots of web-pages with explanations of what they do well or not so good (and thank you for that) but they are so small that many of them are kinda hard to read.
+I wonder if this is better if you get an ebook version instead.
+
+The style is relaxed and chatty, occasionally funny, without trying to hard. And there's lots of sources and recommendations for further reading.

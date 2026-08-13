@@ -1,0 +1,3 @@
+As a technical writer, I'm great with details, but terrible with vision and planning. After reading Information Architecture, I feel like I have a better foothold on that side of things. I really appreciate the authors' Research &gt; Strategy &gt; Design model, and plan on putting it into practice. It's no small undertaking, but I think will be well worth the effort.
+
+I read through this book with a discussion group at work. All of us had different applications in mind, but it was helpful to bounce ideas off of each other. While the book mostly discusses web site architecture, I think the same concepts can apply to almost any information delivery system.

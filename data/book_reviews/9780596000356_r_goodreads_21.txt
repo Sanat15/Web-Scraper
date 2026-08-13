@@ -1,0 +1,37 @@
+Rating: 2/5
+
+Cuando empecé este libro tenía muchísimas expectativas. Después de todo, es uno de esos títulos que aparecen una y otra vez en listas de lectura para UX Designers. Pensé que iba a encontrar una guía práctica que me ayudaría a tomar mejores decisiones de diseño desde el primer capítulo.
+
+Lo que encontré fue algo diferente. 🤔
+
+No es un mal libro. De hecho, se nota que los autores saben muchísimo del tema y entienden profundamente cómo las personas encuentran, organizan y utilizan la información. El problema es que muchas veces sentí que estaba estudiando la historia y la teoría de la arquitectura de información más que aprendiendo cómo aplicarla en mi trabajo diario. 📖
+
+💡 Lo que más me gustó fue que me ayudó a entender que detrás de un menú, un buscador o una categoría hay mucho más trabajo del que parece. Después de leerlo, empecé a mirar sitios web y aplicaciones con otros ojos. Cosas tan simples como encontrar un producto en una tienda online, navegar por Netflix o buscar un archivo en Google Drive tienen detrás decisiones de arquitectura de información que normalmente damos por sentadas.
+
+También disfruté especialmente las partes donde hablan de cómo las personas buscan información. Porque la realidad es que los usuarios rara vez saben exactamente lo que quieren. Muchas veces entran a una web con una idea vaga y van descubriendo el camino mientras navegan. 🚶‍♀️🔍
+
+Sin embargo, aquí viene mi principal problema.
+
+😮‍💨 Hubo muchos momentos donde sentí que el libro se volvía demasiado denso. Algunas explicaciones se alargan más de lo necesario y terminé leyendo varias páginas para llegar a una idea que podría haberse explicado de forma mucho más simple.
+
+Además, muchos ejemplos me parecieron lejanos a la realidad actual. Mientras leía, constantemente pensaba: "¿Cómo se aplica esto a los productos que usamos hoy?" 📱
+
+Me hubiera encantado ver más casos relacionados con aplicaciones móviles, inteligencia artificial o ecosistemas digitales modernos. En varios momentos sentí que estaba aprendiendo principios importantes, pero me faltaba el puente que los conectara con los desafíos que enfrentan los equipos de producto actuales.
+
+📚 Curiosamente, el libro me generó una sensación extraña: admiración y frustración al mismo tiempo.
+
+Admiración porque es evidente que gran parte de lo que hacemos hoy en UX tiene sus raíces aquí.
+
+Frustración porque muchas veces sentía que estaba leyendo sobre la arquitectura de información en lugar de aprender a practicarla.
+
+Por eso terminé avanzando más por compromiso profesional que por entusiasmo genuino. Y eso rara vez me pasa con los libros de UX que más disfruto.
+
+✨ Aun así, entiendo perfectamente por qué es considerado un clásico. Es una obra que ayuda a construir fundamentos sólidos y a desarrollar una forma más estructurada de pensar los productos digitales.
+
+📌 Mi conclusión es que este libro es excelente para comprender las bases de la disciplina, pero no necesariamente para aprender a resolver problemas concretos de diseño en el mundo actual.
+
+Si buscas entender el "por qué" detrás de la arquitectura de información, probablemente lo disfrutes mucho.
+
+Si buscas herramientas prácticas para aplicar mañana en tu trabajo, es posible que termines sintiendo lo mismo que yo: respeto por el libro, pero también cierta distancia emocional durante la lectura.
+
+Un clásico importante, lleno de conocimiento y legado, aunque personalmente me costó conectar con él tanto como esperaba. 🌱📚

@@ -1,0 +1,11 @@
+Rating: 2/5
+
+Over the course of my seven year career as a full stack developer, I've had this book on my bookshelf. I'd tried to get through it a few times and each attempt stuttered out after a few chapters. This in and of itself should stand as evidence of something, at least to me and those who know me, but moving on...
+
+I can't recall why I bought it - or requested it as a gift - but I finally got around to reading it recently. I always had the nagging feeling that there *must* be meat in here, somewhere. There was, a bit, but it was all spoiled.
+
+Let's begin the review with a summation of what I took away regarding what an Information Architect even is: they are a person who is not an engineer, nor a usability expert, but to whom ought to be delegated managerial oversight and the responsibility of 'vision' for a website. Managers who have no hard responsibilities - that is, responsibilities that require a technical expertise to accomplish - are not only epiphytes, they are redundant. Their jobs require nothing more than an average intellect and ability, and they seek to aggrandize themselves with titles and certifications that don't mean anything because they can't actually do anything.
+
+This book seeks to aggrandize and justify the information architect in the same tradition as every overrated managerial text in history has sought to do for its own constituency. A hard sales pitch shouldn't take up the first third of the 'biblical' text for a field. The utility of your profession should be demonstrated by its own accomplishments. But IA has no accomplishments to speak of. The internet, it turns out, is not a vast library. The internet is a schema of both information and action, and IA is very bad at understanding the latter.
+
+The book is useful as a historical text, a demonstration of how quotidian talent seeks to justify its own existence. That is its only merit.

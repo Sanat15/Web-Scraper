@@ -1,0 +1,7 @@
+Rating: 3/5
+
+If you're building a large, complex website, then this book is for you. If you're building a web application, as I had assumed the name "and Beyond" implied, then it's not as useful. I had a lot of pushback at work about the need for IA when building a web application, but the book doesn't explicitly state the essentiality of IA for web apps (it does for websites, but not web apps).
+
+Some parts are outdated (e.g. old/oudated tools likes Visio, Balsamiq, Illustrator, or uses the term "Web Master"). It'd be good to have access to a PDF version, because of lot of the images are in B&amp;W, and small, so it's hard to see much. It was a hard book to finish, but I kept at it, just because it seems like an industry staple/bible. Some of the reviews here talk about going on Youtube or reading online articles -- perhaps that would be a better use of time, as it is a hard book to finish.
+
+All that said, there were some really good concepts and it was good to learn about, or have reinforced.
