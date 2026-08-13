@@ -1,0 +1,6 @@
+Microsoft Flight Simulator 2002 offers an aviation experience that's as real as it gets. This official strategy guide will help you master the simulation's wide variety of aircraft, from the mighty Boeing 747-400 jumbo jet to the Cessna Caravan floatplane. Written with full developer support, this guide provides everything a virtual pilot needs to master the skies.
+Inside you'll 
+* Strategies and tips to get you into the cockpit immediately, without study or review sessions
+* Detailed information on every flyable craft in the simulation, including essential stats, takeoff checklists, and aircraft selection assistance
+* Comprehensive coverage of the both Standard and Professional Editions, including the new interactive Air Traffic Control feature
+* Exclusive coverage of the simulations' incredible multiplayer options, including virtual airlines
