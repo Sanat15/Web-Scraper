@@ -1,0 +1,5 @@
+Rating: 5/5
+
+This is an excellent introduction to statistical thinking. The language used is conversational and easy to understand as you are guided through examples and ways of thinking about statistics.
+The focus of this book is on the 'why' of performing statistical calculations so that the 'how' of those same calculations makes sense. 
+This is an ideal resource for anyone who needs to understand statistical concepts for their field of study or is simply interested in what statistics is really all about.

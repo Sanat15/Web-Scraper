@@ -1,0 +1,5 @@
+Rating: 2/5
+
+Eh, it was ok. I'm not sure why these books seem to be so against updating to show use cases with current computational software (R, Python,...even...ugh, Excel), but they do seem to cavil at the idea of it. That would be fine, as I read this book looking for any little intuitions that I may have missed about some basic topics, but unfortunately, both the intuitions and the theoretical portions felt half finished. If you're looking for a refresher on statistics that helps with intuitions, I would definitely go with Head First Statistics over this one.
+
+Note: I recognize that I'm putting commas in all sorts of places, but some days that comma just speaks to you on a deep level. I don't feel gross enough about it to fix it.

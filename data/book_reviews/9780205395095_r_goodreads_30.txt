@@ -1,0 +1,5 @@
+Rating: 5/5
+
+I'm not sure, whether this book is great, or it is just the cumulative result of many months of studying, but after reading it, I finally got the grasp on many basic things in statistics. There is the third option - I'm just too silly for statistics. 
+
+Anyway, this is not a professional texbook, but this book introduces and very clearly explains not only basic statistics (mean, standard deviation, etc.) but also clarifies the application of basic statistics tools (significance tests, confidence intervals and so on).

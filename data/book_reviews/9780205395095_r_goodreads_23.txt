@@ -1,0 +1,13 @@
+Rating: 5/5
+
+Like many, my relationship with statistics had been one of intrigue but general resignation: My “understanding” of the concepts in class room sessions often failed to translate onto my examination marks. I put off my Statistics course, which was a second-year prerequisite at university, until my last year, and I only ended up getting through it via a “Pass/Fail” credit.
+
+Aside from the mathematical complexities, I was plagued by programming languages that seem to have been designed by dinosaurs (I’m looking at you, “R”) and interaction with material that I thought I would have no relationship with following my graduation. 
+
+In retrospect, these appear to be mistakes. As an aspiring trader, my world is deeply tied to statistics and programming languages (although I still think “R” is ugly). Reading “Statistics Without Tears” slowly chipped away at my prejudice toward the subject. Derek Rowntree writes and educates in a way that I believe most statistics teachers can only dream of doing. Instead of dosing off during the book’s “lectures,” like I did in university ones (on the ones I didn’t skip), this book had me hooked from beginning to end. 
+
+Rowntree makes statistics more “human” by shedding away complicated statistical formulae and replacing them with robust conversations. He explores the concepts that these formulae describe, pausing throughout the book to ask questions that force you to think. This give-and-take approach made the book feel conversational, a momentous accomplishment in statistics in my view.
+
+Some may suspect that the lack of excessive calculations (you still have to do some calculations, although most are simple enough to be done mentally) would lead to a suboptimal learning experience. I strongly believe this hasn’t been the case. The foundations on which these calculations are based are far more important to understand, in my opinion, than how to derive the numbers. The practical can be learnt through practice, but theory must be explained, and Rowntree does an exceptional job explaining statistical concepts. 
+
+I would’ve loved to read this book at university but better late than never. If you’re considering reading this, do it; it’s worth it.

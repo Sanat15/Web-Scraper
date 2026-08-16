@@ -1,0 +1,38 @@
+in progress
+
+Contents
+
+Introduction - 9
+How to use this book - 10
+1. Statistical inquiry - 13
+making sense of experience - 14
+What is statistics? - 17
+Descriptive and inferential statistics - 19
+Collecting a sample - 23
+
+2. Describing our sample - 28
+Statistical variables - 28
+Error, accuracy and approximations - 35
+
+3. Summarizing our data - 38
+Tables and diagrams - 38
+Central tendency (averages) - 48
+Measures of dispersion - 50
+
+4. The shape of a distribution - 57
+Skewed distributions - 58
+5. From sample to population - 82
+
+6. Comparing samples - 102
+
+7. Further matters of significance - 128
+
+8. Analysing relationships - 155
+
+Postscript - 185
+Review - 186
+Caution - 188
+
+Further Reading 191
+
+Index - 193

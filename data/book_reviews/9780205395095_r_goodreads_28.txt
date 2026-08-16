@@ -1,0 +1,9 @@
+Rating: 5/5
+
+I consider this a must-read if you've ever taken postsecondary or college-level math (which would have covered the basic statistics mentioned in the book).
+
+This is a chance to finally make (more?) sense out of what you've learnt in school, especially regarding the estimation of a population via sampling (e.g. standard error), how significant a result is (e.g. z-test, t-test).
+
+Rowntree wants you to understand the concepts instead of the formulas, so it makes the read easier. If you ever had to do null-hypothesis testing in school decades ago, the content should come easy to you.
+
+I wish I had this book when I was schooling, as it would have made statistics more meaningful and digestible. Then again, learning to enjoy statistics ... might not be good thing 😆

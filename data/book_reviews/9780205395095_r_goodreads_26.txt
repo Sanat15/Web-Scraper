@@ -1,0 +1,9 @@
+Rating: 3/5
+
+The difficulty of rating this book is that I am not entirely convinced it was for me. 
+
+It teaches statistics from the very basics and goes to a relatively good degree of depth. It is quick, it is streamlined and it gives you the basic tools you need to interpret statistics. It shies away from some of the terminologies, most notably it refuses to use greek letters, but I think that does not really impact it too much. 
+
+A brief and informative read that helped me review the statistics material I had studied, but I need to qualify that by saying this will not be enough. It's a good starting point, and if you've studied statistics before then it will remind you of the terms and help you conceptually. However, you will need to supplement this with other reading and practice centred around why you want to understand statistics and the tools you want to use. 
+
+All in all, a good review book that covers all the ground from near-scratch. If that's not what you're looking for, not for you. For me, it worked because I wanted a brief overview before I dived into it in more depth.
