@@ -1,0 +1,3 @@
+Rating: 3/5
+
+Builds phrases as it works through who says what, i.e. “the cross-eyed owl said whoo” and “the polka dot cow said moo”, etc.
