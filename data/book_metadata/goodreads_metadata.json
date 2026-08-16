@@ -3147,7 +3147,7 @@
     "Origin / Country of publication": null,
     "Date of publication": "1984-01-01",
     "Language": "English",
-    "Genre": "Fiction, Thriller, Espionage, Mystery, Suspense, Spy Thriller, Novels, Mystery Thriller, Adventure, Historical Fiction"
+    "Genre": "Fiction, Thriller, Espionage, Mystery, Suspense, Spy Thriller, Mystery Thriller, Novels, Adventure, Historical Fiction"
   },
   {
     "ISBN-13": "9780071351867",
@@ -75638,5 +75638,45 @@
     "Date of publication": "1996-01-01",
     "Language": "English",
     "Genre": "Nonfiction"
+  },
+  {
+    "ISBN-13": "9781400046829",
+    "Author(s)": "Jimmy Breslin",
+    "Title": "The Short Sweet Dream of Eduardo Gutiérrez",
+    "Publisher": "Three Rivers Press",
+    "Origin / Country of publication": null,
+    "Date of publication": "2003-02-25",
+    "Language": "English",
+    "Genre": "Nonfiction, History, Journalism, Immigration, Biography, Book Club"
+  },
+  {
+    "ISBN-13": "9780316807197",
+    "Author(s)": "Jerry Spinelli",
+    "Title": "Jason and Marceline",
+    "Publisher": "Little Brown & Co",
+    "Origin / Country of publication": null,
+    "Date of publication": "1986-01-01",
+    "Language": "English",
+    "Genre": "Young Adult, Fiction, Realistic Fiction, Childrens, Comedy, Middle Grade"
+  },
+  {
+    "ISBN-13": "9780764553882",
+    "Author(s)": "Jim Tunstall",
+    "Title": "Walt Disney World & Orlando For Dummies? 2002",
+    "Publisher": "For Dummies",
+    "Origin / Country of publication": null,
+    "Date of publication": "2001-09-29",
+    "Language": "English",
+    "Genre": null
+  },
+  {
+    "ISBN-13": "9780800718114",
+    "Author(s)": "Jennie Afman Dimkoff",
+    "Title": "Night Whispers: Bedtime Bible Stories for Women",
+    "Publisher": "Fleming H Revell Co",
+    "Origin / Country of publication": null,
+    "Date of publication": "2002-01-01",
+    "Language": "English",
+    "Genre": null
   }
 ]
