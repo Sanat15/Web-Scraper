@@ -1,0 +1,1 @@
+This book/disk combination offers a hands-on introduction to complexity theory and its applications. It puts together simple explanations and sample applications. Each chapter includes a quote, a description of the C++ code that implements the laboratory example, and a discussion section.

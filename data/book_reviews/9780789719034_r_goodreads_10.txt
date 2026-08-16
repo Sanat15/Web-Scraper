@@ -1,0 +1,45 @@
+Rating: 4/5
+
+page 118 | location 1799-1803 | Added on Sunday, 26 January 2014 10:27:27
+
+Considering that main memory is used directly only about 1% of the time, if you doubled performance there, you would double the speed of your system only 1% of the time! That doesn’t sound like enough of an improvement to justify much expense. On the other hand, if you doubled L2 cache performance, you would be doubling system performance 9% of the time, which is a much greater improvement overall. I’d much rather improve L2 than RAM performance. The same argument holds true for adding and increasing the size of L3 cache, as many recent processors from AMD and some from Intel have done.
+
+page 255 | location 3908-3913 | Added on Sunday, 26 January 2014 14:29:34
+
+If the processor in your PC is like the engine in your car, the chipset represents the drivetrain and chassis. It is the framework in which the engine rests and is its connection to the outside world. The chipset is the frame, suspension, steering, wheels and tires, transmission, drive shaft, differential, and brakes. The chassis in your car is what gets the power to the ground, allowing the vehicle to start, stop, and corner. In the PC, the chipset represents the connection between the processor and everything else. The processor can’t talk to the adapter boards, devices, memory (in some models), and so on without going through the chipset. If you think of the processor as the brain, the chipset is the spine and central nervous system.
+
+page 256 | location 3917-3918 | Added on Sunday, 26 January 2014 14:30:50
+
+When deciding on a system, I often start by choosing the chipset, because the chipset decision dictates the processor, I/O, and expansion capabilities.
+
+page 339 | location 5197-5205 | Added on Sunday, 26 January 2014 15:34:25
+
+In this layered architecture, the application software programs talk to the OS via what is called an application programming interface (API). The API varies according to the OS you are using and consists of the various commands and functions the OS can perform for an application. For example, an application can call on the OS to load or save a file. This prevents the application itself from having to know how to read the disk, send data to a printer, or perform any other of the many functions the OS can provide. Because the application is completely insulated from the hardware, you can essentially run the same applications on different machines; the application is designed to talk to the OS rather than the hardware. The OS then interfaces with or talks to the BIOS or driver layer. The BIOS consists of all the individual driver programs that operate between the OS and the actual hardware. As such, the OS never talks to the hardware directly; instead, it must always go through the appropriate drivers. This provides a consistent way to talk to the hardware.
+
+page 585 | location 8968-8969 | Added on Wednesday, 29 January 2014 00:52:41
+
+Limiting how close two flux transitions can be is necessary because of the fixed resolution capabilities of the head and storage medium. Limiting how far apart two flux transitions can be ensures that the clocks in the devices remain in sync.
+
+page 597 | location 9144-9149 | Added on Friday, 31 January 2014 20:10:55
+
+The first hard drive appeared in 1956. One year later in 1957, Cyril Northcote Parkinson published his famous compilation of essays titled Parkinson’s Law, which begins with the statement, “Work expands so as to fill the time available for its completion.” A corollary of Parkinson’s most famous “law” can be applied to hard drives: “Data expands so as to fill the space available for its storage.” This, of course, means that no matter how big a drive you get, you will find a way to fill it. I know that I have lived by that dictum since purchasing my first HDD nearly 30 years ago.
+
+page 608 | location 9312-9315 | Added on Friday, 31 January 2014 20:23:03
+
+Magnified to such a scale, the heads in this typical hard disk would be about 1,361 feet long, 1,083 feet wide, and 333 feet high. (The length and height would be about equal to the Sears Tower if it were tipped over sideways.) These skyscraper-sized heads would float on a cushion of air that to scale would be only 5mm thick (about 0.2 inches) while traveling at a speed of 17.8 million miles per hour (4,958 miles per second), all while reading data bits spaced a mere 0.85 inches apart on tracks separated by only 0.98 feet!
+
+page 631 | location 9661-9662 | Added on Friday, 31 January 2014 23:06:55
+
+Thin-film plated media are manufactured by depositing the magnetic medium on the disk with an electroplating mechanism, in much the same way that chrome plating is deposited on the bumper of a car.
+
+page 679 | location 10400-10404 | Added on Saturday, 1 February 2014 13:05:02
+
+As previously mentioned, SSDs use NAND flash technology. Two subtypes of this technology are used in commercially available SSDs: SLC (single-level cell) and MLC (multilevel cell). SLC flash stores 1 bit in a single cell, whereas MLC stores 2 or more bits in a single cell. MLC doubles (or more) the density, and consequently lowers the cost, but this comes at a penalty in performance and usable life. SSDs are available using either technology, with SLC versions offering higher performance, lower capacity, and higher cost. Most mainstream SSDs use MLC technology, whereas more specialized high-end products (mostly for server or workstation systems) use SLC.
+
+page 713 | location 10922-10924 | Added on Saturday, 1 February 2014 23:06:38
+
+This single spiral track is about 5.77 kilometers, or 3.59 miles, long. An interesting fact is that in a 56x CAV (constant angular velocity) drive, when the outer part of the track is being read, the data moves at an actual speed of 162.8 miles per hour (262km/h) past the laser.
+
+page 720 | location 11037-11039 | Added on Saturday, 1 February 2014 23:19:14
+
+An 80-minute disc, therefore, really has something like 2.6GB of actual data being written, which, after being fully decoded and stripped of error-correcting codes and other information, results in about 737MB (703MiB) of actual user data.
