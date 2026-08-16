@@ -1,0 +1,7 @@
+Rating: 2/5
+
+A pseudo-scientific jaunt through various real mathematical and geometric patterns of planetary orbits.
+Martineau is in awe of the planets, as one should be, but applies numerology and poor statistics to come up with conclusions.
+He references the Astronomy greats of Copernicus, Kepler, and Brahe, but fails to realize that the who point of planetary orbits being ellipses is that they're accurate. He regresses back to circular orbits and makes conclusions from them. He provides that these orbits are 99.9% accurate, which sounds great, but statistically that is a very poor and inaccurate result. The whole reason why elliptical orbits weren't postulated earlier in our history is exactly because circular orbits are so close to accurate, but with better measurement and better observations, they are not at all accurate.
+
+This book was recommended to me by Paul McCartney. It is an easy book to get enthralled with if one doesn't have a basic understanding of astronomy and statistics.

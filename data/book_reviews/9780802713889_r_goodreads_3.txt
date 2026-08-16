@@ -1,0 +1,7 @@
+Rating: 4/5
+
+This book demonstrates some fundamental geometric and harmonic relationships in our own solar system which have yet to be properly understood. 
+
+Why are the sun and the moon the same size in the sky and why does the planet Venus weave the same 5-8-13 dance in the sky around us that most plants display here on Earth? These questions and others are looked into in this short, easy-to-read book. 
+
+Even if you're not convinced by the coincidences outlined in the book, some of the mathematical coincidences are quite striking such as dividing each number in the Fibonacci sequence by the number that follows it (the Fibonacci sequence is 0,1,1,2,3,5,8,13 etc) tends towards the Golden Ratio.
