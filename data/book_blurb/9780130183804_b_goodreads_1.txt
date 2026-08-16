@@ -1,0 +1,1 @@
+Explains how voice and video are sent over IP internets and how IP Telephony operates, describes IP security and the security standard, IPsec, reviews the discussion of IPv6 to incorporate the latest changes, and explains Random Early Discard (RED), recommended for routers.  Principles, protocols, and architectures.

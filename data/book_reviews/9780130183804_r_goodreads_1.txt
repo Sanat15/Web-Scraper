@@ -1,0 +1,3 @@
+Rating: 5/5
+
+Great book, for a great course. If you pair it with Ben Eater's series on the internet (and a bit of background in the C programming language), you'd have a nice understanding of how the internet works, I think.

@@ -1,0 +1,3 @@
+Rating: 4/5
+
+A detailed look at the transport of the Internet. As one who spent days configuring an NT server into a multihomed host using subnetting, a lot of the information is already known, but would be a good introduction for a technical minded person who can resist the urge to sleep. Starts out with obligatory origins of the net, thru dotted decimal notation, etc. Lots of good info on IP, routing, accessories like FTP and Telnet, and the section on IPng was very interesting. Would be a good textbook for a course.
