@@ -1,0 +1,7 @@
+Rating: 4/5
+
+Pagels' work is probably one of the best layperson introduction to both understanding and "interpreting" Quantum Mechanics. The most remarkable part of this book is the description of Bell's Inequality. Bell's Theorem forever demolishes the Einsteinian views of of local hidden variable determinism.
+It is (purposely) light on the maths side (for example, I would have appreciated some detail on fundamental items such as the Wave Equation, Bohr's model of the atom, Schroedinger Equation, wave phase invariance etc ..), but this is, overall, a very sound and pleasant introductory book.
+Some parts of the book are also unfortunately a bit outdated (considering that the book was originally published in 1982, this is understandable) but most of the book is still highly relevant today.
+The author also explores beautifully the deep philosophical implications of our current understanding of the quantum world, without resorting to cheap mysticism. 
+Highly recommended.
