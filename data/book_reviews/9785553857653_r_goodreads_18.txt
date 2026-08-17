@@ -1,0 +1,71 @@
+Rating: 5/5
+
+Students in Berlin and New York, in Turin and Tokyo, capture their deans and chancellors, bring great clanking education factories to a grinding halt, and even threaten to topple governments. Police stand aside in the ghettos of New York, Washington and Chicago as ancient property laws are openly violated. Sexual standards are overthrown. Great cities are paralyzed by strikes, power failures, riots.
+
+This is an amazing book; amazing both because of how clearly he showed the failure of bureaucracy as technological and social advancement speeds up, and amazing because of how he cannot see beyond more bureaucracy as the solution. This book reminds me a lot of David Goldhill’s Catastrophic Care. He clearly sees the problem, and then prescribes: more of the same, but harder.
+
+There is a tendency to assume that change is perennial, that generations have always seen completely different worlds than their parents, that the generation gap has been with us since we’ve been human. But from a technological standpoint, that isn’t true. As Norbert Wiener wrote in Cybernetics and Society:
+
+	One of Columbus’ sailors would have been a valuable able seaman aboard Farragut’s ships. Even a sailor from the ship that took Saint Paul to Malta would have been quite reasonably at home as a forecastle hand on one of Joseph Conrad’s barks. A Roman cattleman from the Dacian frontier would have made quite a competent vaquero to drive longhorn steers from the plains of Texas to the terminus of the railroad, although he would have been struck with astonishment with what he found when he got there.
+
+Toffler makes the point that if you look at generations, our current technological change has been breathtaking:
+
+	…if the last 50,000 years of man’s existence were divided into lifetimes of approximately 62 years each, there have been about 800 such lifetimes. Of these 800, fully 650 were spent in caves. Only during the last 70 lifetimes has it been possible to communicate effectively from one lifetime to another—as writing made it possible to do. Only during the last six lifetimes did masses of men ever see a printed word. Only during the last four has it been possible to measure time with any precision. Only in the last two has anyone anywhere used an electric motor. And the overwhelming majority of all the material goods we use in daily life today have been developed within the present, the 800th, lifetime.
+
+Of course, he wrote this in 1970, almost a lifetime ago. Since he wrote that, we’ve gotten personal computers, cell phones, and the Internet. Video arcades didn’t exist then; they rose and fell in the lifetime after he wrote this book. Watergate hadn’t happened yet. The word appears once, in a footnote halfway through the book, referring only to one of the buildings in the Watergate complex.
+
+But he manages to avoid the problem that so many hard science fiction writers face, that if you only write about things that are possible, you miss the solutions you can’t see. When he talks about the burgeoning diversification of choice when listening to the radio, he projects a future that is almost literally impossible with the technology of radio. He simply assumes that some technology will fill the human need for more diverse music and talk. He doesn’t even talk about how it will get there, although he clearly does see the potential in computer networks, that they allow us to “assemble situational groups swiftly” and abandon them as quickly.
+
+He foresees the limited swing back to educational pluralism, especially home education, at a time when this could literally land you in jail.
+
+He coins lots of terms, most of which were not adopted; some of which should have been. Celebrity image bombs, for example.
+
+	In a society in which instant food, instant education, and even instant cities are everyday phenomena, no product is more swiftly fabricated or more ruthlessly destroyed than the instant celebrity. Nations advancing towards super-industrialism sharply step up their output of these “psycho-economic” products. Instant celebrities burst upon the consciousness of millions like an image bomb—which is exactly what they are.
+
+And, critically, he recognizes what few recognized at the time: that the rise of computers and automation threatened not to crush us under a giant bureaucracy but rather to overthrow bureaucratic authority.
+
+	…bureaucracies are well suited to tasks that require masses of moderately educated men to perform routine operations, and, no doubt, some such operations will continue to be performed by men in the future. Yet it is precisely such tasks that the computer and automated equipment do far better than men. It is clear that in super-industrial society many such tasks will be performed by great self-regulating systems of machines, doing away with the need for bureaucratic organization. Far from fastening the grip of bureaucracy on civilization more tightly than before, automation leads to its overthrow.
+
+What he does miss, however, is significant. He recognized, for example, the psychologization of the economy, that people would buy not just clothing and food for its psychological value, but that “Great, globe-girdling syndicates will create super-Disneylands of a variety, scale, scope, and emotional power that is hard for us to imagine.”
+
+He extrapolated this partly from the psychic loading that airlines used to do to entice business travelers to use their service over their competitors. He makes the mistake many science fiction authors do, as Harlan D. Mills noted in the foreword to BASIC with Style, that “in 1900 it was possible to foresee cars going 70 miles an hour, but the drivers were imagined as daredevils rather than grandmothers.”
+
+He imagines sexoticism and super-Disneylands, but what we got was affordable air travel. For much of the super-industrial world, the world itself is our super-Disneyland. It isn’t limited to businessmen and jet-setters today.
+
+What he missed was that the reason the airlines appealed in the way that they did is that they were a heavily regulated industry that didn’t have much leeway outside of the bounds of the government bureaucracies that controlled them. He knew that those bureaucracies were dying; he didn’t put together that this meant that airlines would be able to compete on getting from point a to point b—their core function—at lower prices, rather than on the extras that don’t get us where we want to go. Every once in a while someone nostalgic for the stewardesses and food of the old days tries to start up an old-style airline. And it fails, because for all our complaints about airlines, what we mostly want is to get where we’re going with money left over to enjoy it.
+
+The problem is that too much is changing too fast and all of us are running the risk of a PTSD-like ailment he calls future shock.
+
+	It is the thesis of this book that there are discoverable limits to the amount of change that the human organism can absorb, and that by endlessly accelerating change without first determining these limits, we may submit masses of men to demands they simply cannot tolerate. We run the high risk of throwing them into that peculiar state that I have called future shock.￼
+￼￼￼
+	Different people react to future shock in different ways. Its symptoms also vary according to the stage and intensity of the disease. These symptoms range all the way from anxiety, hostility to helpful authority, and seemingly senseless violence, to physical illness, depression and apathy. Its victims often manifest erratic swings in interest and life-style, followed by an effort to “crawl into their shells“ through social, intellectual and emotional withdrawal. They feel constantly “bugged“ or harassed, and want desperately to reduce the number of decisions they must make.￼￼
+
+The solution? First, we need large bureaucracies to decide now what skills will likely be needed fifty years from now. And because large bureaucracies tend to produce monocultures, we need to have lots of them, and they need to pay people to live in experimental communities. In other words, we need to maintain the factory mindset that he decries throughout the entire first three quarters of the book, with authority setting the factory in motion.
+
+Second, we need a large bureaucracy to decide what scientific and technological breakthroughs are allowed. It would be immoral to end technological and scientific progress. But in the face of a crisis this big, a little immorality is justified.
+
+When he talks about government funding, he almost hits the issue: government research funding overwhelms all other funding and is directed by bureaucrats rather than by what most people want their future to be. This is what results in self-driving cars that can’t tell humans from non-humans. High resolution television sets that can’t handle a car driving past your house. Dishwashers that take hours to complete their cycles.
+
+But stuck as he is in the factory mindset, his only solution to government bureaucrats is more government bureaucrats. He fears a “techno-managerial elite”, and so wants to set up bureaucracies whose purpose is managing technological advance. Someone has to block the future equivalent of the car and the transistor and clean clothes.
+
+	…we must also design creative new political institutions… for promoting or discouraging (perhaps even banning) certain proposed technologies. We may wish to debate its form; its need is beyond dispute.
+
+He becomes just one more seventies crisifier, falsely yelling that if we don’t turn over our freedom now, we will all go into a coma and die. It goes against almost everything he wrote in the first part of the book.
+
+His technology blockers must ask “how will a proposed new technology affect the value system of the society?” But he does not ask “how will such a dictatorial system affect our value system?” He sidesteps this question in a passing reference, but never addresses it head-on, and it’s the most important question that should be asked of such a solution. He becomes a parody of Chesterton’s dictum in Heretics that 
+
+	the weakness of all Utopias is this, that they take the greatest difficulty of man and assume it to be overcome, and then give an elaborate account of the overcoming of the smaller ones.
+
+He denigrates letting people buy what they want to buy as the means of choosing which technologies succeed; he calls this econocentric, but doesn’t seem to understand what this means. When companies adjust their products to meet the demands of potential customers, such as when mutual funds invest only in certain sectors, he calls these “non-economic considerations”. He seems confused by the “increasing intimacy of the links between the economic sector and powerful cultural, psychological and social forces”. By the latter, he means “customers”.
+
+I was reminded of the excitement over the Segway several years ago. The “public agencies and corporations” thought it would revolutionize cities and change their very design. The people who would have to use them disagreed. Imagine if his proposed government-corporate partnership had decided to promote the Segway with legal force, or had wasted time discouraging a product that wasn’t going to take over anyway.
+
+He assumes as a given that government planners are econocentric, oriented only to improving the economy, then makes the obvious observation that this is a failed model—without considering that perhaps his assumptions are wrong, even though he recognizes that government social programs tend to bring the opposite of what they were supposed to do when started.
+
+He seems to mistake a disenchantment with technocratic planners for a disenchantment with science.
+
+His giant bureaucracies would not operate entirely above the masses. He would implement vast games—literally, games, vaguely similar to the role-playing games that came a few years later—to draw the public, currently “political eunuchs”, into “a continuing plebiscite on the future”—in an advisory capacity. Artists might be shown the technologies of the future to advise the bureaucrats on what should be available to them.
+
+But even if the politicians and bureaucrats were to listen to this advice, the people who say that they want better-looking stewardesses but only pay for getting from point a to point b are not going to provide the advice that gives us better air travel.
+
+This is a big book with big ideas that transforms itself into a small book with small ideas, and would transform the world in the same way.
