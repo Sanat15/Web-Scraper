@@ -1,0 +1,1 @@
+Written by the inventors of the technology, The Java Language Specification is the definitive technical reference for the Java programming language. It provides complete, accurate, and detailed coverage of the entire language and its syntax. If you want to know the precise meaning of Java's constructs, this is the source for you.
