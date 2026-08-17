@@ -1,0 +1,5 @@
+Rating: 5/5
+
+Read alongside the MIT opencourseware lectures.
+
+Despite the title, I don't think this is a good introduction to linear algebra. I used the second part of it as a second course after starting with Linear Algebra Done Right. That book gave me the fundamentals but is almost useless for learning about determinants, SVD, and eigen decomposition. I used this book plus the MIT lectures for the latter. It was very intuitive if lacking a bit in rigor, but this is okay for applied topics I suppose. I skimmed the introduction and did not think it was as good as Axler, who proves all of the properties of matrix algebra whereas this book just expects you to know these, even though it is very important for proofs and deeper understanding.

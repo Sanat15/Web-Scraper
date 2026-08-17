@@ -1,0 +1,3 @@
+Rating: 4/5
+
+I found this as a reference book while I was studying Linear Algebra in 18.06 OCW. Before Stang's book and his 18.06 class, all I know about Linear Algebra was some linear equations and some matrices. But Stang showed the beautiful picture of Linear Algebra in this book. Graphs and Networks, Systems of Differential Equations, Least Squares and Projections, and Fourier Series and the Fast Fourier Transform are mainly focused.

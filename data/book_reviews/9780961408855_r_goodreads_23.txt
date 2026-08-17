@@ -1,0 +1,5 @@
+Rating: 5/5
+
+Read alongside MIT 18.06 Linear Algebra course. This book is the perfect companion, and solidifies the material covered in the lectures. The lectures give you the big picture, a good overview. This book then serves to reinforce your understanding of it. I only read the parts of the book relevant to my studies so that's still about 80%. My confidence and understanding of linear algebra is much better; the problem sets are really instructive and all solutions are given on the website. 
+
+I started this book with the explicit goal of understanding Singular Value Decomposition from first principles, this was in order to augment my existing understanding of the statistical incarnation of SVD: the PCA. There are few resources I can think of that are better at reaching this goal in such a short amount of time.

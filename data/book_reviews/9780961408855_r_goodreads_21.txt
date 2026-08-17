@@ -1,0 +1,13 @@
+Rating: 4/5
+
+I read the "South Asian" edition of this book. I also used to watch Prof. Strang's lectures from https://ocw.mit.edu/courses/mathemati....
+
+The great thing about this book is Prof. Strang provides intuition into a very abstract topic. The way he did that is by using examples to illustrate the concepts. Some concepts in particular, for example linear subspaces and least squares, are beautifully explained.
+
+I think the greatest thing I got from this book is this example based thinking to increase my intuition into what would be very abstract topics. Now, whenever I have difficulty understanding some idea or a problem, I draw an example. 
+
+Unfortunately, I think Prof. Strang went too far with this approach and it failed for Eigenvalues and Eigenvectors. There were two major problems. One, he changed the viewpoint of a matrix multiplication suddenly and without warning, from the combination of vectors to an application of an operator. Two, the theorems of eigenvalues and eigenvectors, which include some very important results for symmetric matrices, are proved in a very obscure way. I was relieved after I finished that section because it was just painful to go through it. The way I learned eigenvectors was to essentially reconstruct from the fragments in the book.
+
+Also, I feel that the book is not very clear by itself and is supposed to be used with lectures. Prof. Strang jumps right into the topic in nearly every section without any background or motivation.
+
+Overall, despite some shortcomings, I think this is a brilliant introduction to linear algebra. Whether your motivation is to apply linear algebra to some problem or to go into more abstract parts, this book is a great starting point.

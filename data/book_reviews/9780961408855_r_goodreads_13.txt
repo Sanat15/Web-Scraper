@@ -1,0 +1,3 @@
+Rating: 5/5
+
+A very good textbook on Linear Algebra, covering many topics, although lacking advanced topics such as hypercomplex number or spectral theory. In general, this is a gold example of a good textbook. The author really understands the topics, and he really try to explain them. This is in contrast to other sloppy textbooks, where the authors just copy-edit some materials and put together an incomprehensible presentation.

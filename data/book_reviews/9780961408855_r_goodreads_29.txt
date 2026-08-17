@@ -1,0 +1,9 @@
+Rating: 5/5
+
+Read this gem once and will use it for linear algebra revision in the future. 
+
+The linear algebra concept in this book is taught from the geometry perspective, which make it easier to read and follow. Practical applications in daily life are also provided to make the equations more accessible. 
+
+Exercises help consolidate the concept and are worth doing. 
+
+Overall, this is the best algebra book for self-studying. I recommend reading this book while taking the free course of Prof Strang on MIT OpenCourseWare.

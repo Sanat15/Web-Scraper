@@ -1,0 +1,3 @@
+Rating: 5/5
+
+Foi uma sorte e um achado ter tido esse encontro com Álgebra Linear através do professor Strang. Recomendaria o curso como uma porta às matemáticas e - como diria Oswald Spengler se também ele conhecesse o papel da Álgebra Linear hoje - uma expressão representativa da civilização faustiana. Pretendo continuar no assunto no livro "linear algebra and learning from data" do mesmo autor.

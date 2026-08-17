@@ -1,0 +1,13 @@
+Rating: 5/5
+
+Ah, what a beautiful picture.
+
+I love this book. The attraction comes, I think, partly from the beauty of the subject, but also partly from the clean way in which Strang packages all of his mathematical expositions. I spent many a nerdy weekend morning with this book and the OCW lectures.
+
+Which brings me to the second most important point that I'd like to get across in this review: you need to pair this book with MIT OpenCourseWare's Linear Algebra lectures (also, coincidentally, taught by the magnificent Strang). They're all freely available on the OCW site or on YouTube. These follow the book very closely and are indispensable—Strang is an even better lecturer than he is a writer. (Some friends complain of a certain "Strang-speak" in his book: a certain awkwardness with words that sometimes obscures a point. I can understand these gripes, and this is why the lectures are really absolutely necessary until one has adjusted to the writing style.)
+
+The most important point, of course, is that I think you should read this book. Linear algebra (as portrayed by this book) is a really beautiful field—much cleaner and often more intuitive than other areas at the same level (calculus, differential equations, etc.). It will activate a new part of your mind, and give you new ways to visualize problems in other domains [1]. This book reminded me of the value of math, when other textbooks and other classes sometimes failed to do so. Give this book a try—it will change your mind!
+
+Footnotes:
+
+1. As a programmer, this book has opened up new opportunities for me. I can now talk fluently about the machinery behind least-squares problems, neural networks, etc., and I can now explore more advanced parts of machine learning, data mining, computational statistics, etc. etc. Absolutely worth it!

@@ -1,0 +1,5 @@
+Rating: 4/5
+
+Good. Better check out Grand Sanderson's linear algebra videos. He did a better job in some aspects. Linear transformation should be introduced in early chapters as opposed to near the end of the book.
+
+The book is very detailed for the first 3 or 4 chapters. Then from time to time you feel there are some gaps you have to fill in with your own proof if you can. Could've done a better job.

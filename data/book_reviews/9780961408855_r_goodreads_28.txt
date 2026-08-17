@@ -1,0 +1,3 @@
+Rating: 5/5
+
+It's a great book to level up your understanding about linear algebra from just multiplying rectangles with numbers in it to the meaning and geometry behind them. I also recommend to follow Gilbert Strang's lectures too. He is a great instructor and focuses on conveying the meaning with easy to understand examples. It's not just an introductory book, it develops from first principles, but also has some advanced stuff and their applications in the end of the book. It's the book that makes you to understand Linear Algebra not only apply it and I think the best book in this regard.

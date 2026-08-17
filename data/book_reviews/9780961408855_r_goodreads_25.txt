@@ -1,0 +1,7 @@
+Rating: 5/5
+
+This is just the best mathematics book I've ever read, if I can say we read mathematics... I didn't do all of the problems, that's obvious, but I read them all at least, and solved at least 10 exercises from each problem set with more or less success.
+
+The subject I loved the most, but I'm still figuring out how to actually apply, is the SVD. It was then that all the other subjects of linear algebra came together: rank, column space, row space, eigenvalues and eigenvectors, orthogonal matrices, and diagonal matrices.
+
+I can see how the SVD is behind the most important algorithms of our time, and the way Strang introduces the subject is just delightful, and with such mastery... Still, it's a tough muscle to work out and I can't wait to actually put it to work in some code.

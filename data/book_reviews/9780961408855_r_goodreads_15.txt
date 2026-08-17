@@ -1,0 +1,3 @@
+Rating: 4/5
+
+easy to read, easy to understand with lots of examples, although not rigorous enough for a math major. For a more thorough treatment of linear algebra, I recommend Appendix B of Abstract Algebra, Clive Reis

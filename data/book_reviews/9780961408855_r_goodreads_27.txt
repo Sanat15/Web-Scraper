@@ -1,0 +1,7 @@
+Rating: 3/5
+
+For me this book was quite hard to read, because it is often mathematically imprecise. Terms and concepts are used before they are fully introduced. Understanding sentences requires that you have already built up some amount of intuition that you don't usually have when reading an introductory text book.
+
+While other math books often build on mathematical rigor alone and neglect building up the reader's intuition, this book neglects rigor in favor of a more intuitive approach. For me this is really difficult to follow, because the exact meaning of sentences is often unclear.
+
+Ideally a book would have both rigor and intuition.

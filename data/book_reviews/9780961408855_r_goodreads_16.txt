@@ -1,0 +1,3 @@
+Rating: 4/5
+
+A good book as a supplement to the MIT 18.06 video lectures. I personally prefer Linear Algebra and Its Applications by David C. Lay over this one because of the pictures and a treatment( a chapter) of affine space which is not included in this Gilbert Strang's book.

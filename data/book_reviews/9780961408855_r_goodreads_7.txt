@@ -1,0 +1,5 @@
+Rating: 3/5
+
+Useful as a reference, and for exercises, but I don't find the style easy to read! If you have a strong aversion to the definition-theorem-proof style of most other mathematics books, then this book might work for you. However, if you tend to prefer a more 'traditional' mathematical writing style then you may find the structuring of this book uncomfortable.
+
+The first two-thirds (or so) of the book are covered by MIT 18.06SC and the clean layout of each topic along with exercises and solutions may be easier for a learner new to this subject.

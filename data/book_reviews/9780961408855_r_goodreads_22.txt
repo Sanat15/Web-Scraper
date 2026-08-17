@@ -1,0 +1,15 @@
+Rating: 3/5
+
+I teach applied sciences.
+
+An informal approach to linear algebra, useful for applied sciences. 
+
+If you've watched the lectures it's hard not to like this book but, objectively it appears that the information in the lectures has just been pointed at paper without regard to the fact that the ongoing narrative available in the lectures is missing from the print version.
+
+This leaves one having to piece things together oneself, not so much the linear algebra, but what one is supposed to be focusing on. That happened to many times for me so fired up Jeff Holts book.
+
+Ron Larson, Kuldeep Singh are also with a look for beginners.
+
+Strang's book is a good reference but lacks cohesion for beginners or those who haven't seen his excellent lecture style.
+
+Strang is a star, but his book needs an editor!

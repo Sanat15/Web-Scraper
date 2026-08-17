@@ -1,0 +1,21 @@
+Rating: 4/5
+
+This book is disappointing when you consider the clear lectures of the writer on the topic. I am highlighting the essential downsides, especially for beginners intending to use the book as an introductory text on Linear Algebra. The shortcomings of the book (5th edition) are as follows:
+
+1. The primary issue lies in its structure; anyone accustomed to reading books from renowned publications like Oxford, Cambridge, Springer, Dover, or Pearson may find it challenging.
+
+2. Topics such as matrices are presented in a peculiar fashion. It is unclear why a topic begins with a chart outlining operations without providing information about the calculations involved in those operations. Additionally, the writer delves into special cases like difference matrices and addition matrices without clear justification. In my opinion, understanding a general matrix does not necessitate resorting to such specialized matrices. Another concern is the abrupt shift between matrix multiplication and the superposition of column vectors, which may confuse beginners.
+
+This issue persists throughout the book.
+
+3. Another concern is with the exercises. They lack motivation, and the problems offer little insight into the underlying theme of the involved topic. Even the challenging problems are not very engaging. Some problem statements are vague, like problem 28 in problem set 1.2. The sentence "Why do those w's lie along a line" is unclear – it's uncertain whether the writer is asking for a verbal or algebraic explanation.
+
+4. The absence of visuals is notable throughout the book. Visual aids can greatly assist in learning linear algebra, as demonstrated in the "Essence of Linear Algebra" series by 3B1B.
+
+5. For a beginner-friendly book, I would expect solid analogies and proper intuition, which this book lacks.
+
+6. The absence of mathematical rigor is a noticeable drawback throughout the text. Upon completion, one gains minimal insight into how mathematical problems are approached within a proof-theoretic framework.
+
+In conclusion, this book is not a good choice for beginners. Although my critique may seem harsh, it is influenced by my familiarity with linear algebra, viewed through the lens of a beginner. The book may serve as a companion to lecture series but falls short as a standalone resource.
+
+While the book has positive aspects, I leave it to the readers to explore those. I have outlined the challenges one might face, and my views align with other reviews, indicating a common perspective. I express regret considering the high quality of Gilbert Strang's lectures on MIT OCW. The editors and the book reviewers could have done a better job.

@@ -1,0 +1,7 @@
+Rating: 5/5
+
+Strang transforms linear algebra from a dull checklist of matrix operations into a vibrant, visual landscape of vector spaces and transformations. He emphasizes the core structural concepts—like eigenvalues and singular value decomposition—that quietly power our modern computational world.
+Why It Matters
+Linear algebra is the hidden spine behind modern artificial intelligence, computer graphics, and data science. Strang connects abstract theory directly to real-world applications, showing how data maps onto multi-dimensional space.
+So Why Read It
+The definitive prerequisite for understanding the modern algorithmic landscape. Read this to build an unshakeable intuition for the mathematics that run our digital lives.

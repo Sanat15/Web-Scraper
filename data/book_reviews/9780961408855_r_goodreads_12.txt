@@ -1,0 +1,3 @@
+Rating: 3/5
+
+I skimmed through the book for the review of linear algebra. I am not satisfied with the exposition - it's "messy". Author obviously tried to make the thematic as close as possible to the novices, but in the process he created a style that will not satisfy someone more adjusted to usual mathematical flow of exposition. Concept presentation is asking more for the intuition than precision and playing more on empirical pathway to explaining with, more often than not, concepts used before giving the definition. Anyways, this book might be of use to the newcomers to linear algebra and math in general as this style might be just what they are looking for. The book does a great job at introducing applications of linear algebra and there lies it's great value.
