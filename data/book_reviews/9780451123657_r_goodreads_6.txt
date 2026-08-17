@@ -1,0 +1,5 @@
+Rating: 3/5
+
+Waldo, the world's greatest expert on building remote controlled manipulators, wants to know why things are malfunctioning. It seems to be a problem that happens at very small scales. So he takes his smallest manipulator, and uses that to build an even smaller manipulator. Then he uses that to build a smaller manipulator still. Then... well, you get the picture. Pretty soon, he's moving individual atoms around.
+
+I read this story in the early 70s, and here's a question I'm surprised didn't occur to me until I thought about it just now. These days, nanotechnology really exists. We actually can build things at the molecular scale. Was Heinlein basically right about how we got there, ignoring uninteresting details like it taking tens of thousands of people several decades rather than a lone genius one weekend? Or was it done in a fundamentally different way? I'm embarrassed that I don't know the answer.
