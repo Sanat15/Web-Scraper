@@ -1,0 +1,11 @@
+Rating: 2/5
+
+This was a really interesting read, although it felt inconsistent; as I think other reviewers have noted, the nature of the book involved a lot of flipping between the "soft" side of grad school (conversations, activities outside of class/work, etc.) and the "hard" details of problems.
+
+Although the book makes an admirable attempt to explain the hard details to a lay audience, it still felt like a struggle to get through these parts -- I wanted to avoid skimming these sections, but it was either that or get lost trying to understand inexact descriptions of what were (in the context of the rest of the book) mostly inconsequential problems.
+
+That being said, as a computer science grad student I really enjoyed the chapter on Course Six (EECS), so maybe people with experience in physics/engineering would enjoy the parts of the book that I found challenging.
+
+I would have appreciated more time being spent on the author's relationships with other people; there were maybe a total of 4 characters besides the author who actually seemed to remain relevant throughout the book, with a lot of other smaller names popping up only once or twice throughout the book. It was hard to get invested in these characters, although I understand that this is partly due to how isolating grad school is.
+
+I wound up reading this book due to recommendation of Ronald Azuma's website (https://www.cs.unc.edu/~azuma/hitch4....) -- I can say honestly that I don't regret reading this, and I think it's telling that the isolation it describes still rings true to grad students ~30 years later.
